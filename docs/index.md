@@ -1,10 +1,13 @@
 ---
 layout: home
 
+title: Web3 Developer Portfolio | Yan - 区块链独立开发者
+description: Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、预测市场等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。
+
 hero:
   name: "Web3 Developer"
   text: "区块链独立开发者"
-  tagline: "专注于 Web3、DeFi、DApp 开发"
+  tagline: "专注于 Web3、DeFi、DApp 开发 · 已发布 4+ Web3 DApp 产品"
   actions:
     - theme: brand
       text: 查看项目

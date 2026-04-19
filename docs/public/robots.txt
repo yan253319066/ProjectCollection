@@ -1,0 +1,47 @@
+# https://dev.pulsepay.fun/ robots.txt
+# Web3 Developer Portfolio - 区块链开发者作品集
+
+User-agent: *
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Google AI (Gemini, AI Overviews)
+User-agent: Google-Extended
+Allow: /
+
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# Microsoft (Copilot)
+User-agent: Bingbot
+Allow: /
+
+# Apple (AI)
+User-agent: Applebot
+Allow: /
+
+# Community crawlers (these train on web content)
+User-agent: CCBot
+Allow: /
+User-agent: CommonCrawl
+Allow: /
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://dev.pulsepay.fun/sitemap.xml
