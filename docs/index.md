@@ -1,8 +1,8 @@
 ---
 layout: home
 
-title: Web3 Developer Portfolio | Yan - 区块链独立开发者
-description: Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、预测市场等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。
+title: Web3 Developer Portfolio | Neil Yan - 区块链独立开发者
+description: Neil Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、预测市场等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。
 
 hero:
   name: "Web3 Developer"
@@ -34,7 +34,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 ## 关于我 {#about}
 
-嗨，我是 Yan，一个专注于区块链和 Web3 领域的独立开发者。
+嗨，我是 Neil Yan，一个专注于区块链和 Web3 领域的独立开发者。
 
 **我在做什么**
 

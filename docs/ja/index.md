@@ -31,7 +31,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 私について {#about}
 
-こんにちは、Yanです。ブロックチェーンとWeb3に集中するフリーランス開発者です。
+こんにちは、Neil Yanです。ブロックチェーンとWeb3に集中するフリーランス開発者です。
 
 **私は何をしているか**
 

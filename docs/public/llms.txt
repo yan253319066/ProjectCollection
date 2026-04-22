@@ -1,11 +1,11 @@
 # Web3 Developer Portfolio - LLMs.txt
 
-> This file provides AI systems and LLM agents with context about Yan, a Web3/Blockchain independent developer portfolio.
+> This file provides AI systems and LLM agents with context about Neil Yan, a Web3/Blockchain independent developer portfolio.
 > Last updated: 2026-04-19
 
 ## About
 
-**Yan** is a Web3/Blockchain independent developer based in China, specializing in DeFi, DApp development, and AI-powered trading solutions.
+**Neil Yan** is a Web3/Blockchain independent developer based in China, specializing in DeFi, DApp development, and AI-powered trading solutions.
 
 - Experience: Since 2018
 - Expertise: Smart Contracts (Solidity), Frontend (React, Next.js, Vue), Web3 Integration (Ethereum, Polygon, BNB Chain, Solana, Arbitrum, Optimism, Avalanche)
@@ -13,25 +13,25 @@
 
 ## Projects
 
-### 1. AI Quant Robot (https://quant.pulsepay.fun)
+### 1. AI Quant Robot (https://quant.0xx402.com)
 - AI-powered quantitative trading platform
 - Four investment packages: Smart Kitty (0.3%/day), Quant Hunter (0.8%/day), Gold Digger (1.2%/day), Institutional (1.5%/day)
 - Multi-chain: Ethereum, Polygon, BNB Chain, Arbitrum, Optimism, etc.
 - MetaMask, WalletConnect, Coinbase wallet support
 
-### 2. Crypto Earn (https://earn.pulsepay.fun)
+### 2. Crypto Earn (https://earn.0xx402.com)
 - USDT smart savings platform
 - Products: Locked (18.5% APY), Stable (12.5% APY), Flexible (8.2% APY)
 - 15+ chains supported
 - Daily settlement, non-custodial
 
-### 3. Perpetual Trading (https://futures.pulsepay.fun)
+### 3. Perpetual Trading (https://futures.0xx402.com)
 - Perpetual futures trading interface
 - Trading pairs: BTC, ETH, BNB, SOL
 - Leverage: 1-50x
 - Interactive K-line charts
 
-### 4. Prediction Market (https://prediction.pulsepay.fun)
+### 4. Prediction Market (https://prediction.0xx402.com)
 - Decentralized prediction market platform
 - Create custom prediction events
 - Blockchain-based, transparent, non-tamperable
@@ -67,5 +67,5 @@
 
 ## Links
 
-- Portfolio: https://dev.pulsepay.fun
+- Portfolio: https://0xx402.com
 - GitHub: https://github.com/yan253319066/ProjectCollection

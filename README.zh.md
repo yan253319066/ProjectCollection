@@ -2,7 +2,7 @@
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-VitePress 文档项目，展示区块链独立开发者 Yan 的作品集。
+VitePress 文档项目，展示区块链独立开发者 Neil Yan 的作品集。
 
 ## 项目
 
@@ -13,7 +13,7 @@ VitePress 文档项目，展示区块链独立开发者 Yan 的作品集。
 | Perpetual Trading | 现代永续期货交易界面 |
 | Prediction Market | 去中心化预测市场 |
 
-## 关于 Yan
+## 关于 Neil Yan
 
 自 2018 年起专注于区块链和 Web3 领域的独立开发者。专长：
 

@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
 
-const siteUrl = 'https://dev.pulsepay.fun'
+const siteUrl = 'https://0xx402.com'
 
 export default defineConfig({
-  title: "Web3 Developer Portfolio | Yan - 区块链独立开发者",
-  description: "Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、预测市场等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。",
+  title: "Web3 Developer Portfolio | Neil Yan - 区块链独立开发者",
+  description: "Neil Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、预测市场等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。",
   outDir: './.vitepress/dist',
   lastUpdated: true,
   cleanUrls: true,
@@ -14,10 +14,10 @@ export default defineConfig({
     ['link', { rel: 'alternate', href: siteUrl + '/en/', hreflang: 'en-US' }],
     ['link', { rel: 'alternate', href: siteUrl + '/ja/', hreflang: 'ja-JP' }],
     ['link', { rel: 'alternate', href: siteUrl + '/ko/', hreflang: 'ko-KR' }],
-    ['meta', { name: 'author', content: 'Yan - Web3 Developer' }],
+    ['meta', { name: 'author', content: 'Neil Yan - Web3 Developer' }],
     ['meta', { name: 'keywords', content: 'Web3, Blockchain, DeFi, DApp, Solidity, Ethereum, 智能合约, 量化交易, 加密货币, 区块链开发者, 独立开发者, Crypto, Web3 Developer, Blockchain Developer' }],
     ['meta', { name: 'theme-color', content: '#646cff' }],
-    ['meta', { property: 'og:title', content: 'Web3 Developer Portfolio | Yan - 区块链独立开发者' }],
+    ['meta', { property: 'og:title', content: 'Web3 Developer Portfolio | Neil Yan - 区块链独立开发者' }],
     ['meta', { property: 'og:description', content: '区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、预测市场等 DeFi 项目。' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: siteUrl }],
@@ -26,7 +26,7 @@ export default defineConfig({
     ['meta', { property: 'og:locale:alternate', content: 'ja_JP' }],
     ['meta', { property: 'og:locale:alternate', content: 'ko_KR' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Web3 Developer Portfolio | Yan - 区块链独立开发者' }],
+    ['meta', { name: 'twitter:title', content: 'Web3 Developer Portfolio | Neil Yan - 区块链独立开发者' }],
     ['meta', { name: 'twitter:description', content: '区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。' }],
     ['meta', { property: 'og:image', content: siteUrl + '/og-image.png' }],
     ['meta', { name: 'twitter:image', content: siteUrl + '/og-image.png' }],
@@ -35,7 +35,7 @@ export default defineConfig({
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       "@context": "https://schema.org",
       "@type": "Person",
-      "name": "Yan",
+      "name": "Neil Yan",
       "url": siteUrl,
       "jobTitle": "Web3 Developer",
       "description": "区块链独立开发者，专注于 Web3、DeFi、DApp 开发。掌握 Solidity、React、Next.js、Vue 等技术，已发布多个 Web3 DApp 产品。",
@@ -63,15 +63,15 @@ export default defineConfig({
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Yan 是做什么的开发者？",
+          "name": "Neil Yan 是做什么的开发者？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yan 是区块链独立开发者，专注于 Web3、DeFi、DApp 开发。从 2018 年开始投身区块链技术，已成功发布多个 Web3 DApp 产品。"
+            "text": "Neil Yan 是区块链独立开发者，专注于 Web3、DeFi、DApp 开发。从 2018 年开始投身区块链技术，已成功发布多个 Web3 DApp 产品。"
           }
         },
         {
           "@type": "Question",
-          "name": "Yan 开发过哪些项目？",
+          "name": "Neil Yan 开发过哪些项目？",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "已发布 4 个 Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Prediction Market（预测市场）。"
@@ -79,7 +79,7 @@ export default defineConfig({
         },
         {
           "@type": "Question",
-          "name": "如何联系 Yan 开发 Web3 项目？",
+          "name": "如何联系 Neil Yan 开发 Web3 项目？",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "可通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系。"
@@ -87,7 +87,7 @@ export default defineConfig({
         },
         {
           "@type": "Question",
-          "name": "Yan 使用什么技术栈？",
+          "name": "Neil Yan 使用什么技术栈？",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "智能合约：Solidity、Hardhat、Foundry、OpenZeppelin；前端：React、Next.js、Vue、TypeScript、Tailwind CSS；Web3：Ethers.js、viem、wagmi、Reown AppKit；后端：Node.js、Java、Python；数据库：MySQL、PostgreSQL、Redis、Supabase；AI：Google Gemini、OpenAI、阿里云通义千问。"

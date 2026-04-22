@@ -37,7 +37,7 @@ export const projects: Project[] = [
     descriptionEn: 'AI-powered quantitative trading platform with four investment packages: Smart Kitty (0.3%/day), Quant Hunter (0.8%/day), AI Gold Digger (1.2%/day), Institutional Long (1.5%/day). Supports MetaMask, WalletConnect, Coinbase wallet connection, real-time profit analytics, and multi-language support.',
     descriptionJa: 'AI搭載の量化取引プラットフォーム。4つの投資パックを提供：Smart Kitty（0.3%/日）、Quant Hunter（0.8%/日）、AI Gold Digger（1.2%/日）、Institutional Long（1.5%/日）。MetaMask、WalletConnect、 Coinbase対応。',
     descriptionKo: 'AI 기반의 定量的 거래 플랫폼, 4가지 투자 패키지 제공',
-    url: 'https://quant.pulsepay.fun',
+    url: 'https://quant.0xx402.com',
     icon: '🤖'
   },
   {
@@ -57,7 +57,7 @@ export const projects: Project[] = [
     descriptionEn: 'Smart contract-based passive income platform with three products: Locked (18.5% APY), Stable (12.5% APY), Flexible (8.2% APY). Supports 15+ chains including Ethereum, Arbitrum, Polygon, and more. Daily settlement, non-custodial.',
     descriptionJa: 'スマートコントラクト 기반の受動的収入プラットフォーム',
     descriptionKo: '스마트 계약 기반의 수동적 수입 플랫폼',
-    url: 'https://earn.pulsepay.fun',
+    url: 'https://earn.0xx402.com',
     icon: '💰'
   },
   {
@@ -77,7 +77,7 @@ export const projects: Project[] = [
     descriptionEn: 'Perpetual contract trading for BTC, ETH, BNB, SOL and more. Interactive K-line charts, WalletConnect wallet. Features: long/short positions, 1-50x leverage, take profit/stop loss.',
     descriptionJa: 'BTC、ETH、BNB、SOLなどの取引ペアに対応',
     descriptionKo: 'BTC, ETH, BNB, SOL 등의 거래 페어 지원',
-    url: 'https://futures.pulsepay.fun/',
+    url: 'https://futures.0xx402.com/',
     icon: '📈'
   },
   {
@@ -97,7 +97,7 @@ export const projects: Project[] = [
     descriptionEn: 'Create and participate in blockchain-based prediction markets. Browse, search, and filter markets. Real-time odds, decentralized and transparent.',
     descriptionJa: 'ユーザーが予測イベントを作成し、他のユーザーが参加できるブロック체인上の予測マーケットプレイス',
     descriptionKo: '사용자가 예측 이벤트를 생성하고 다른 사용자가 참여할 수 있는 블록체인 기반 예측 마켓플레이스',
-    url: 'https://prediction.pulsepay.fun/',
+    url: 'https://prediction.0xx402.com/',
     icon: '🎯'
   }
 ]

@@ -31,7 +31,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 내 소개 {#about}
 
-안녕하세요, Yan입니다. 블록체인과 Web3에 집중하는 프리랜서 개발자입니다.
+안녕하세요, Neil Yan입니다. 블록체인과 Web3에 집중하는 프리랜서 개발자입니다.
 
 **나는 무엇을 하는가**
 

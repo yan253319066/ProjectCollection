@@ -2,7 +2,7 @@
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-VitePress 문서 프로젝트. 블록체인 프리랜서 개발자 Yan의 포트폴리오를 보여줍니다.
+VitePress 문서 프로젝트. 블록체인 프리랜서 개발자 Neil Yan의 포트폴리오를 보여줍니다.
 
 ## 프로젝트
 
@@ -13,7 +13,7 @@ VitePress 문서 프로젝트. 블록체인 프리랜서 개발자 Yan의 포트
 | Perpetual Trading | 현대적인 선물 거래 인터페이스 |
 | Prediction Market | 분산형 예측 마켓플레이스 |
 
-## Yan에 대해서
+## Neil Yan에 대해서
 
 2018년부터 블록체인과 Web3에 집중하는 프리랜서 개발자. 전문 분야:
 

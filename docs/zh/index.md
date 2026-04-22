@@ -31,7 +31,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 关于我 {#about}
 
-嗨，我是 Yan，一个专注于区块链和 Web3 领域的独立开发者。
+嗨，我是 Neil Yan，一个专注于区块链和 Web3 领域的独立开发者。
 
 **我在做什么**
 

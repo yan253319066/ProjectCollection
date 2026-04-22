@@ -2,7 +2,7 @@
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-A VitePress documentation project showcasing Web3 developer Yan's portfolio.
+A VitePress documentation project showcasing Web3 developer Neil Yan's portfolio.
 
 ## Projects
 
@@ -13,7 +13,7 @@ A VitePress documentation project showcasing Web3 developer Yan's portfolio.
 | Perpetual Trading | Modern Futures Trading Interface |
 | Prediction Market | Decentralized Prediction Platform |
 
-## About Yan
+## About Neil Yan
 
 Freelance developer focused on blockchain and Web3 since 2018. Specializing in:
 
