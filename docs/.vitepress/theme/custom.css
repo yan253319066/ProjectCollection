@@ -2,3 +2,15 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #1e3a5f 30%, #4f9fd8);
 }
+
+.VPNavBarTitle .VPImage.logo,
+.VPNavBarTitle .logo,
+.VPNavBarTitle img,
+.VPNavBarTitle .VPImage {
+  width: 60px !important;
+  height: auto !important;
+}
+
+.VPNavBarTitle {
+  flex: none !important;
+}
