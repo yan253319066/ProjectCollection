@@ -17,6 +17,12 @@ features:
     details: Crypto Earn - 安全高效的 USDT 智能理财
   - title: 永续合约
     details: Perpetual Trading - 现代永续期货交易界面
+  - title: 混合交易所
+    details: Nex Exchange - 新一代混合交易所
+  - title: 资产代币化
+    details: Solaris RWA - 现实世界资产代币化
+  - title: 支付网关
+    details: X-Pay - Web2 友好加密货币支付网关
   - title: 预测市场
     details: Prediction Market - 去中心化预测市场
 ---

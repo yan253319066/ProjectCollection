@@ -11,6 +11,9 @@ A VitePress documentation project showcasing Web3 developer Neil Yan's portfolio
 | AI Quant Robot | High-performance Web3 AI Trading Platform |
 | Crypto Earn | Secure USDT Smart Wealth Management |
 | Perpetual Trading | Modern Futures Trading Interface |
+| Nex Exchange | Next-generation Hybrid Exchange |
+| Solaris RWA | Real World Asset Tokenization |
+| X-Pay | Web2-Friendly Crypto Payment Gateway |
 | Prediction Market | Decentralized Prediction Platform |
 
 ## About Neil Yan

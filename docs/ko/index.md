@@ -17,6 +17,12 @@ features:
     details: Crypto Earn - 안전하고 효율적인 USDT 스마트 재무 관리
   - title: 퍼petual 트레이딩
     details: Perpetual Trading - 현대적인 선물 거래 인터페이스
+  - title: 하이브리드 거래소
+    details: Nex Exchange - 차세대 하이브리드 거래소
+  - title: RWA 토큰화
+    details: Solaris RWA - 실세계 자산 토큰화
+  - title: 결제 게이트웨이
+    details: X-Pay - Web2 친화적 암호 화폐 결제 게이트웨이
   - title: 예측 마켓
     details: Prediction Market - 분산형 예측 마켓플레이스
 ---

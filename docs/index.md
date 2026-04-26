@@ -2,12 +2,12 @@
 layout: home
 
 title: Web3 Developer Portfolio | Neil Yan - 区块链独立开发者
-description: Neil Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、预测市场等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。
+description: Neil Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。
 
 hero:
   name: "Web3 Developer"
   text: "区块链独立开发者"
-  tagline: "专注于 Web3、DeFi、DApp 开发 · 已发布 4+ Web3 DApp 产品"
+  tagline: "专注于 Web3、DeFi、DApp 开发 · 已发布 7 个 Web3 DApp 产品"
   actions:
     - theme: brand
       text: 查看项目
@@ -20,6 +20,12 @@ features:
     details: Crypto Earn - 安全高效的 USDT 智能理财
   - title: 永续合约
     details: Perpetual Trading - 现代永续期货交易界面
+  - title: 混合交易所
+    details: Nex Exchange - 新一代混合交易所
+  - title: 资产代币化
+    details: Solaris RWA - 现实世界资产代币化
+  - title: 支付网关
+    details: X-Pay - Web2 友好加密货币支付网关
   - title: 预测市场
     details: Prediction Market - 去中心化预测市场
 ---

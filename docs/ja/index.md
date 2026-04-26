@@ -17,6 +17,12 @@ features:
     details: Crypto Earn - 安全高效的なUSDTスマート 理財
   - title: 永久先物
     details: Perpetual Trading - 現代的な先物取引インターフェース
+  - title: ハイブリッドエクスチェンジ
+    details: Nex Exchange - 次世代ハイブリッドエクスチェンジ
+  - title: RWAトークン化
+    details: Solaris RWA - 実世界資産トークナイゼーション
+  - title: 決済ゲートウェイ
+    details: X-Pay - Web2友好的暗号資産決済ゲートウェイ
   - title: 予測マーケット
     details: Prediction Market - 分散型予測マーケットプレイス
 ---

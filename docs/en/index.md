@@ -17,6 +17,12 @@ features:
     details: Crypto Earn - Secure USDT Smart Wealth Management
   - title: Perpetual Trading
     details: Perpetual Trading - Modern Futures Trading Interface
+  - title: Hybrid Exchange
+    details: Nex Exchange - Next-generation Hybrid Exchange
+  - title: RWA Tokenization
+    details: Solaris RWA - Real World Asset Tokenization
+  - title: Payment Gateway
+    details: X-Pay - Web2-Friendly Crypto Payment Gateway
   - title: Prediction Market
     details: Prediction Market - Decentralized Prediction Platform
 ---
