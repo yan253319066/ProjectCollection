@@ -7,9 +7,9 @@ export default defineConfig({
   vite: {
     plugins: [
       llms({
-        ignore: ['*/en/*', '*/ja/*', '*/ko/*', '*/zh/*'],
-        llmsFullFile: true,
-        mdFiles: false
+        ignoreFiles: ['*/en/*', '*/ja/*', '*/ko/*', '*/zh/*'],
+        generateLLMsFullTxt: true,
+        generateLLMFriendlyDocsForEachPage: false
       })
     ]
   },
