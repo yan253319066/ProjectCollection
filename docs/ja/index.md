@@ -37,43 +37,66 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 私について {#about}
 
-こんにちは、Neil Yanです。ブロックチェーンとWeb3に集中するフリーランス開発者です。
+こんにちは、Neil Yanです。ブロックチェーン開発のフリーランス開発者です。
 
-**私は何をしているか**
-
-2018年からブロックチェーン技術の開発に携わってきました。去中心化技術の可能性を信じており、Web3がインターネットの価値体系を再構築すると信じています。複数のWeb3 DApp製品を正常にローンチし、何千人ものユーザーにサービスを提供しています。
+2018年からWeb3分野に参入し、AI量化取引、暗号資産理财、永続先物、ハイブリッドエクスチェンジ、RWAトークン化、決済ゲートウェイ、予測マーケットの7つのDeFi・DApp製品をリリースしました。
 
 **技術専門性**
 
-- **スマートコントラクト開発**：Solidity、Vyper、HardhatとFoundryを使用
-- **フロントエンド開発**：React、Next.js、Vue、高性能ユーザー体験を構築
-- **Web3統合**：Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimismサポート
-- **バックエンドサービス**：Node.js、Java、Python、MySQL、Redis
+- **スマートコントラクト開発**：Solidity、Vyper、Hardhat、Foundry、OpenZeppelinを使用
+- **フロントエンド開発**：React、Next.js、Vue、高速パフォーマンスのユーザー体験を構築
+- **Web3統合**：Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimismなど15以上のメインチェーン
+- **バックエンドサービス**：Node.js、Java、Python、MySQL、Redis、Supabase
 - **ウォレット統合**：MetaMask、WalletConnect、Coinbase Wallet、Rabby
-- **AI統合**：Gemini API、OpenAI、阿里雲通義千問
+- **AI統合**：Gemini API、OpenAI、Alibaba Cloud Qwen
 
 **私にできること**
 
-- 🌐 **Web3 DApp開発** — コンセプトからデプロイまでの完全なDApp開発
-- 📜 **スマートコントラクト** — 安全監査済みのコントラクト開発とデプロイ
-- 💰 **DeFiプロジェクト** — 流動性、レンディング取引プラットフォーム
+- 🌐 **完全DApp開発** — 製品設計、UI/UX、技術設計からチェーン上デプロイまで対応
+- 📜 **セキュリティ優先のスマートコントラクト** — OpenZeppelin標準ライブラリを使用し、納品前に全面テスト済み
+- 💰 **DeFiプロトコル開発** — レンディング、AMM、収益アグリゲーター対応
 - 🎨 **NFTプラットフォーム** — ミンティング、取引、市場機能
 - 📊 **データダッシュボード** — データ可視化管理バックエンド
-- 🔧 **技術コンサルティング** — Web3アーキテクチャ设计与技術選定
-- 🚀 **プロジェクトデプロイ** — Vercel、Railway、阿里雲、Tencent Cloud、AWSデプロイ
+- 🔧 **技術コンサルティング** — Web3アーキテクチャ設計と技術選定
+- 🚀 **プロジェクトデプロイ** — Vercel、Railway、Aliyun、Tencent Cloud、AWS対応
+
+<!-- 開発実績データ -->
+<!--
+**開発実績**
+
+| 指標 | データ |
+|------|--------|
+| リリース済みWeb3製品 | 7個 |
+| 対応チェーン数 | 15以上（EVMフルサポート） |
+| スマートコントラクト取引 | 100,000件以上 |
+| サービス提供クライアント | 2,000以上 |
+
+-->
+
+<!-- 客户評価 -->
+<!--
+**客户評価**
+
+> "NeilさんにDeFiレンディングプロトコルを作成してもらいました。コードがきれいで、アuditも一回で通了。対応が早く、コミuniケーションもスムーズで、强烈におすすめ！" — DeFiプロジェクト
+
+> "NFTマーケットプレイスを製作中です。Neilさんにスマコンとフロントエンドを対応してもらい、1ヶ月以内にローンチできました。技術力が確かくて、安心感のあるお支払いでした。—" NFTスタートアップ
+
+> "マルチチェーンのWeb3 DAppが必要で、Neilさんを見つけました。EVMチェーンに非常に詳しく、Polygon、Arbitrum、Base 모두，顺利にローンチできました。—" Web3プロダクトマネージャー
+
+-->
 
 **技術スタック**
 
 | カテゴリ | 技術 |
 |----------|------|
-| ブロックチェーン | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism |
+| ブロックチェーン | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism, Base, Linea, Scroll, zkSync Era 他15+チェーン |
 | スマートコントラクト | Solidity, Hardhat, Foundry, OpenZeppelin |
 | フロントエンド | React, Next.js, Vue, TypeScript, Tailwind CSS |
 | Web3 | Ethers.js, viem, wagmi, Reown AppKit |
 | バックエンド | Node.js, Java, Python, Express, Spring Boot |
 | データベース | MySQL, PostgreSQL, Redis, Supabase |
-| AI | Google Gemini API, OpenAI, 阿里雲通義千問 |
-| デプロイ | Vercel, Railway, Docker, 阿里雲, Tencent Cloud, AWS |
+| AI | Google Gemini API, OpenAI, Alibaba Cloud Qwen |
+| デプロイ | Vercel, Railway, Docker, Aliyun, Tencent Cloud, AWS |
 
 ## 連絡先
 
@@ -81,4 +104,6 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-質問があります？チャットしましょう 👋
+質問やコラボレーションのご依頼は、TelegramまたはEmailにてご連絡ください 👋
+
+*最終更新：2026年4月*

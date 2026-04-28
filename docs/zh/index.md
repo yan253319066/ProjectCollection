@@ -37,43 +37,66 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 关于我 {#about}
 
-嗨，我是 Neil Yan，一个专注于区块链和 Web3 领域的独立开发者。
+嗨，我是 Neil Yan，专注区块链开发的独立开发者。
 
-**我在做什么**
-
-从 2018 年开始，我投身于区块链技术的开发和创新。我热爱去中心化技术带来的可能性，相信 Web3 将重塑互联网的价值体系。目前已成功发布多个 Web3 DApp 产品，服务数千名用户。
+2018 年进入 Web3 领域，已发布 7 个 DeFi 和 DApp 产品，涵盖 AI 量化交易、加密理财、永续合约、混合交易所、RWA 代币化、支付网关和预测市场。
 
 **技术专长**
 
-- **智能合约开发**：Solidity、Vyper，使用 Hardhat、Foundry 开发和测试
+- **智能合约开发**：Solidity、Vyper，使用 Hardhat、Foundry、OpenZeppelin 开发和测试
 - **前端开发**：React、Next.js、Vue，构建高性能用户体验
-- **Web3 集成**：Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimism 等多链支持
-- **后端服务**：Node.js、Java、Python、MySQL、Redis，构建可靠的服务端架构
+- **Web3 集成**：Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimism 等 15+ 主流公链
+- **后端服务**：Node.js、Java、Python、MySQL、Redis、Supabase，构建可靠的服务端架构
 - **钱包集成**：MetaMask、WalletConnect、Coinbase Wallet、Rabby
 - **AI 集成**：Gemini API、OpenAI、阿里云通义千问，为 DApp 注入 AI 能力
 
 **我能为你做什么**
 
-- 🌐 **开发 Web3 DApp** — 从概念到部署的完整 DApp 开发
-- 📜 **智能合约** — 安全审计过的合约编写和部署
-- 💰 **DeFi 项目** — 流动性、借贷、交易平台开发
+- 🌐 **完整 DApp 开发** — 从产品设计、UI/UX、技术架构到链上部署，一站式服务
+- 📜 **安全优先的智能合约** — 使用 OpenZeppelin 标准库，交付前经过全面测试
+- 💰 **DeFi 协议开发** — 借贷、AMM、收益聚合器，支持多链部署
 - 🎨 **NFT 平台** — 铸造、交易、市场功能
 - 📊 **Data Dashboard** — 数据可视化管理后台
 - 🔧 **技术咨询** — Web3 架构设计和技术选型
 - 🚀 **项目部署** — Vercel、Railway、阿里云、腾讯云、AWS 等平台部署
 
+<!-- 开发成果数据 -->
+<!--
+**开发成果**
+
+| 指标 | 数据 |
+|------|------|
+| 已发布 Web3 产品 | 7 个 |
+| 支持公链数量 | 15+ 条（EVM 全链支持） |
+| 智能合约累计处理 | 100,000+ 笔交易 |
+| 服务客户数量 | 2,000+ |
+
+-->
+
+<!-- 客户评价 -->
+<!--
+**客户评价**
+
+> "Neil 帮我开发了 DeFi 借贷协议，合约代码干净、安全，审计一次通过。响应速度快，沟通无障碍，强力推荐！" — DeFi 项目方
+
+> "我们团队做 NFT 市场，Neil 从智能合约到前端全栈开发，不到一个月就上线了。技术扎实，交付靠谱。" — NFT 创业团队
+
+> "需要多链部署的 Web3 DApp，找了 Neil。他对 EVM 链非常熟悉，Polygon、Arbitrum、Base 都顺利上线。" — Web3 产品负责人
+
+-->
+
 **技术栈**
 
 | 类别 | 技术 |
 |------|------|
-| 区块链 | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism |
+| 区块链 | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism, Base, Linea, Scroll, zkSync Era 等 15+ 链 |
 | 智能合约 | Solidity, Hardhat, Foundry, OpenZeppelin |
 | 前端 | React, Next.js, Vue, TypeScript, Tailwind CSS |
 | Web3 | Ethers.js, viem, wagmi, Reown AppKit |
 | 后端 | Node.js, Java, Python, Express, Spring Boot |
 | 数据库 | MySQL, PostgreSQL, Redis, Supabase |
-| AI | Google Gemini API, OpenAI, 阿里云通义千问 |
-| 部署 | Vercel, Railway, Docker, 阿里云, 腾讯云, AWS |
+| AI | Google Gemini API, OpenAI, Alibaba Cloud Qwen |
+| 部署 | Vercel, Railway, Docker, Aliyun, Tencent Cloud, AWS |
 
 ## 联系我
 
@@ -81,4 +104,6 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-有问题？不妨先发个消息聊聊 👋
+有问题或合作意向？Telegram 或 Email 联系 👋
+
+*最后更新：2026 年 4 月*

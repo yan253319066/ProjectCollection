@@ -5,6 +5,7 @@
     <loc>https://0xx402.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://0xx402.com/"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://0xx402.com/"/>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://0xx402.com/en/"/>
     <xhtml:link rel="alternate" hreflang="ja-JP" href="https://0xx402.com/ja/"/>

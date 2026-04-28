@@ -36,12 +36,4 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-# Community crawlers (these train on web content)
-User-agent: CCBot
-Allow: /
-User-agent: CommonCrawl
-Allow: /
-User-agent: Bytespider
-Allow: /
-
 Sitemap: https://0xx402.com/sitemap.xml

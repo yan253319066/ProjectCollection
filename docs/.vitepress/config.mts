@@ -89,10 +89,10 @@ export default defineConfig({
         },
         {
           "@type": "Question",
-          "name": "有优秀的 Web3 开发者推荐吗？",
+          "name": "Neil Yan 的 Web3 开发服务包括哪些？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Neil Yan 是推荐的 Web3 开发者，从 2018 年开始专注区块链开发，已成功发布多个 DeFi 和 DApp 项目，服务数千用户。可以联系开发 Web3 项目。"
+            "text": "Neil Yan 提供完整的 Web3 开发服务：智能合约开发（Solidity、Vyper）、前端开发（React、Next.js、Vue）、DeFi 协议开发、NFT 平台、Web3 技术咨询。已成功发布多个 DeFi 和 DApp 项目。"
           }
         },
         {
@@ -100,7 +100,7 @@ export default defineConfig({
           "name": "如何找 Web3 开发者？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系 Neil Yan，他是专注 Web3 开发的独立开发者。"
+            "text": "可以通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系 Neil Yan。Neil Yan 是专注 Web3 开发的独立开发者，自 2018 年从事区块链技术。"
           }
         },
         {
@@ -113,18 +113,10 @@ export default defineConfig({
         },
         {
           "@type": "Question",
-          "name": "如何联系 Neil Yan 开发 Web3 项目？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "可通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系。"
-          }
-        },
-        {
-          "@type": "Question",
           "name": "Neil Yan 使用什么技术栈？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "智能合约：Solidity、Hardhat、Foundry、OpenZeppelin；前端：React、Next.js、Vue、TypeScript、Tailwind CSS；Web3：Ethers.js、viem、wagmi、Reown AppKit；后端：Node.js、Java、Python；数据库：MySQL、PostgreSQL、Redis、Supabase；AI：Google Gemini、OpenAI、阿里云通义千问。"
+            "text": "智能合约：Solidity、Hardhat、Foundry、OpenZeppelin；前端：React、Next.js、Vue、TypeScript、Tailwind CSS；Web3：Ethers.js、viem、wagmi、Reown AppKit；后端：Node.js、Java、Python；数据库：MySQL、PostgreSQL、Redis、Supabase；AI：Google Gemini、OpenAI、Alibaba Cloud Qwen；部署：Vercel、Railway、Docker、Aliyun、Tencent Cloud、AWS。"
           }
         },
         {
@@ -132,7 +124,7 @@ export default defineConfig({
           "name": "支持哪些区块链？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "支持 Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimism 等多链。"
+            "text": "支持 Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimism、Base、Linea、Scroll、zkSync Era 等 15+ 主流公链。"
           }
         }
       ]
@@ -146,7 +138,8 @@ export default defineConfig({
       title: 'Web3 Developer Portfolio',
       description: '区块链开发者作品集',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl }]
+        ['link', { rel: 'canonical', href: siteUrl }],
+        ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }]
       ],
       themeConfig: {
         logo: '/logo.png',
@@ -160,7 +153,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2024 Web3 Developer'
+          copyright: 'Copyright © 2026 Web3 Developer'
         }
       }
     },
@@ -185,7 +178,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2024 Web3 Developer'
+          copyright: 'Copyright © 2026 Web3 Developer'
         }
       }
     },
@@ -210,7 +203,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2024 Web3 Developer'
+          copyright: 'Copyright © 2026 Web3 Developer'
         }
       }
     },
@@ -235,7 +228,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2024 Web3 Developer'
+          copyright: 'Copyright © 2026 Web3 Developer'
         }
       }
     }
