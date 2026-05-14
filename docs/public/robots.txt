@@ -1,4 +1,4 @@
-# https://0xx402.com/ robots.txt
+# https://www.0xx402.com/ robots.txt
 # Web3 Developer Portfolio - 区块链开发者作品集
 
 User-agent: *
@@ -36,4 +36,4 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-Sitemap: https://0xx402.com/sitemap.xml
+Sitemap: https://www.0xx402.com/sitemap.xml

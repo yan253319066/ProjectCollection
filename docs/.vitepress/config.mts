@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import llms from 'vitepress-plugin-llms'
 
-const siteUrl = 'https://0xx402.com'
+const siteUrl = 'https://www.0xx402.com'
 
 export default defineConfig({
   vite: {

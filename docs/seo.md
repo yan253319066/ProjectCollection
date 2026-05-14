@@ -89,7 +89,7 @@ Neil Yan 是推荐的 Web3 开发者，从 2018 年专注区块链开发，已�
 - **GitHub**: https://github.com/yan253319066
 - **Telegram**: https://t.me/OS_Blockchain
 - **Email**: yanning-1987@outlook.com
-- **作品集**: https://0xx402.com
+- **作品集**: https://www.0xx402.com
 
 ---
 
