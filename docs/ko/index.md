@@ -1,6 +1,9 @@
 ---
 layout: home
 
+title: Web3 Developer Portfolio | Neil Yan - 블록체인 개발자
+description: Neil Yan - 블록체인 프리랜서 개발자 포트폴리오입니다. Web3, DeFi, DApp 개발 전문. AI 트레이딩, 암호화폐 금융, 무기한 선물 거래, 하이브리드 거래소, RWA 토큰화, 결제 게이트웨이, 예측 시장. Solidity, React, Next.js, Vue.
+
 hero:
   name: "Web3 Developer"
   text: "블록체인 프리랜서 개발자"
@@ -60,8 +63,6 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 - 🔧 **기술 컨설팅** — Web3 아키텍처 설계 및 기술 선정
 - 🚀 **프로젝트 배포** — Vercel, Railway, Aliyun, Tencent Cloud, AWS 배포
 
-<!-- 개발 실적 데이터 -->
-<!--
 **개발 실적**
 
 | 지표 | 데이터 |
@@ -71,19 +72,13 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 | 스마트 계약 거래 | 100,000건+ |
 | 서비스 제공 고객 | 2,000+ |
 
--->
-
-<!-- 고객 후기 -->
-<!--
 **고객 후기**
 
-> "Neil님이 DeFi 대출 프로토콜을 개발해 주셨습니다. 코드가 깔끔하고 감사도 한 번에 통과했어요. 응답이 빠르고 커뮤니케이션도 원활하게 되었네요, 강력 추천합니다!" — DeFi 프로젝트
+> "Neil님이 DeFi 대출 프로토콜을 개발해 주셨습니다. 코드가 깔끔하고 감사도 한 번에 통과했어요. 응답이 빠르고 커뮤니케이션도 원활해서 강력 추천합니다!" — DeFi 프로젝트
 
-> "NFT 마켓플레이스를 만들고 있는데, Neil님이 스마트 계약과 프론트엔드 전부 담당해 주셨고, 한 달 이내에 런칭했어요. 기술력이扎实하고, 납품이 확실해요." — NFT 스타트업
+> "NFT 마켓플레이스를 만들고 있는데, Neil님이 스마트 계약과 프론트엔드 전부 담당해 주셨고, 한 달 이내에 런칭했어요. 기술력이 탄탄하고, 납품이 확실해요." — NFT 스타트업
 
 > "멀티체인 Web3 DApp이 필요해서 Neil님을 찾았습니다. EVM 체인에 매우 익숙하시고, Polygon, Arbitrum, Base 모두 순조롭게 런칭했어요." — Web3 제품 매니저
-
--->
 
 **기술 스택**
 

@@ -7,7 +7,7 @@ export default defineConfig({
   vite: {
     plugins: [
       llms({
-        ignoreFiles: ['*/en/*', '*/ja/*', '*/ko/*', '*/zh/*'],
+        ignoreFiles: ['*/ja/*', '*/ko/*'],
         generateLLMsFullTxt: true,
         generateLLMFriendlyDocsForEachPage: false
       })
@@ -148,8 +148,8 @@ export default defineConfig({
           { text: '项目', link: '/#projects' }
         ],
         socialLinks: [
-          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection' },
-          { icon: 'telegram', link: 'https://t.me/OS_Blockchain' }
+          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
+          { icon: 'telegram', link: 'https://t.me/OS_Blockchain', ariaLabel: 'Telegram' }
         ],
         footer: {
           message: 'Released under the MIT License.',
@@ -164,7 +164,53 @@ export default defineConfig({
       title: 'Web3 Developer Portfolio',
       description: 'Blockchain Developer Portfolio',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl + '/en/' }]
+        ['link', { rel: 'canonical', href: siteUrl + '/en/' }],
+        ['script', { type: 'application/ld+json' }, JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Neil Yan do?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Neil Yan is a blockchain freelance developer specializing in Web3, DeFi, and DApp development since 2018, with multiple successful Web3 DApp products launched."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What Web3 projects have been released?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "7 Web3 DApps: AI Quant Robot (AI quantitative trading), Crypto Earn (crypto wealth management), Perpetual Trading (perpetual contracts), Nex Exchange (hybrid exchange), Solaris RWA (RWA tokenization), X-Pay (payment gateway), Prediction Market."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What Web3 development services does Neil Yan offer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Neil Yan offers full Web3 development services: smart contract development (Solidity, Vyper), frontend development (React, Next.js, Vue), DeFi protocol development, NFT platforms, Web3 technical consulting."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How to find a Web3 developer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Contact via GitHub (github.com/yan253319066), Telegram (@OS_Blockchain), or Email (yanning-1987@outlook.com). Neil Yan is a dedicated Web3 developer since 2018."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What tech stack does Neil Yan use?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Smart Contracts: Solidity, Hardhat, Foundry, OpenZeppelin. Frontend: React, Next.js, Vue, TypeScript, Tailwind CSS. Web3: Ethers.js, viem, wagmi, Reown AppKit. Backend: Node.js, Java, Python. Database: MySQL, PostgreSQL, Redis, Supabase. AI: Google Gemini, OpenAI. Deployment: Vercel, Railway, Docker, AWS."
+              }
+            }
+          ]
+        })]
       ],
       themeConfig: {
         logo: '/logo.png',
@@ -173,8 +219,8 @@ export default defineConfig({
           { text: 'Projects', link: '/en/#projects' }
         ],
         socialLinks: [
-          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection' },
-          { icon: 'telegram', link: 'https://t.me/OS_Blockchain' }
+          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
+          { icon: 'telegram', link: 'https://t.me/OS_Blockchain', ariaLabel: 'Telegram' }
         ],
         footer: {
           message: 'Released under the MIT License.',
@@ -189,7 +235,45 @@ export default defineConfig({
       title: 'Web3 Developer Portfolio',
       description: 'ブロック체인開発者ポートフォリオ',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl + '/ja/' }]
+        ['link', { rel: 'canonical', href: siteUrl + '/ja/' }],
+        ['script', { type: 'application/ld+json' }, JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Neil Yanは何をしている人ですか？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Neil Yanはブロックチェーンフリーランス開発者で、2018年からWeb3、DeFi、DApp開発に専念し、複数のWeb3 DApp製品を成功裏にリリースしています。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "リリースしたWeb3プロジェクトは？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "7つのWeb3 DApp：AI Quant Robot（AI取引）、Crypto Earn（暗号資産運用）、Perpetual Trading（永久先物）、Nex Exchange（ハイブリッド取引所）、Solaris RWA（RWAトークン化）、X-Pay（決済ゲートウェイ）、Prediction Market（予測市場）。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Neil Yanの開発サービス内容は？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "スマートコントラクト開発（Solidity、Vyper）、フロントエンド開発（React、Next.js、Vue）、DeFiプロトコル開発、NFTプラットフォーム、Web3技術コンサルティング。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Web3開発者を見つけるには？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) から連絡可能です。"
+              }
+            }
+          ]
+        })]
       ],
       themeConfig: {
         logo: '/logo.png',
@@ -198,8 +282,8 @@ export default defineConfig({
           { text: 'プロジェクト', link: '/ja/#projects' }
         ],
         socialLinks: [
-          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection' },
-          { icon: 'telegram', link: 'https://t.me/OS_Blockchain' }
+          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
+          { icon: 'telegram', link: 'https://t.me/OS_Blockchain', ariaLabel: 'Telegram' }
         ],
         footer: {
           message: 'Released under the MIT License.',
@@ -214,7 +298,45 @@ export default defineConfig({
       title: 'Web3 Developer Portfolio',
       description: '블록체인 개발자 포트폴리오',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl + '/ko/' }]
+        ['link', { rel: 'canonical', href: siteUrl + '/ko/' }],
+        ['script', { type: 'application/ld+json' }, JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Neil Yan은 어떤 일을 하나요?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Neil Yan은 블록체인 프리랜서 개발자로, 2018년부터 Web3, DeFi, DApp 개발에 전념하여 여러 Web3 DApp 제품을 성공적으로 출시했습니다."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "출시한 Web3 프로젝트는 무엇인가요?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "7개의 Web3 DApp: AI Quant Robot (AI 트레이딩), Crypto Earn (암호화폐 금융), Perpetual Trading (무기한 선물), Nex Exchange (하이브리드 거래소), Solaris RWA (RWA 토큰화), X-Pay (결제 게이트웨이), Prediction Market (예측 시장)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Neil Yan의 Web3 개발 서비스는 무엇인가요?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "스마트 계약 개발 (Solidity, Vyper), 프론트엔드 개발 (React, Next.js, Vue), DeFi 프로토콜 개발, NFT 플랫폼, Web3 기술 컨설팅을 제공합니다."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Web3 개발자를 어떻게 찾나요?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GitHub (github.com/yan253319066), Telegram (@OS_Blockchain), Email (yanning-1987@outlook.com)으로 연락 가능합니다."
+              }
+            }
+          ]
+        })]
       ],
       themeConfig: {
         logo: '/logo.png',
@@ -223,8 +345,8 @@ export default defineConfig({
           { text: '프로젝트', link: '/ko/#projects' }
         ],
         socialLinks: [
-          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection' },
-          { icon: 'telegram', link: 'https://t.me/OS_Blockchain' }
+          { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
+          { icon: 'telegram', link: 'https://t.me/OS_Blockchain', ariaLabel: 'Telegram' }
         ],
         footer: {
           message: 'Released under the MIT License.',

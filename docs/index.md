@@ -63,8 +63,6 @@ import ProjectGrid from './components/ProjectGrid.vue'
 - 🔧 **技术咨询** — Web3 架构设计和技术选型
 - 🚀 **项目部署** — Vercel、Railway、阿里云、腾讯云、AWS 等平台部署
 
-<!-- 开发成果数据 -->
-<!--
 **开发成果**
 
 | 指标 | 数据 |
@@ -74,10 +72,6 @@ import ProjectGrid from './components/ProjectGrid.vue'
 | 智能合约累计处理 | 100,000+ 笔交易 |
 | 服务客户数量 | 2,000+ |
 
--->
-
-<!-- 客户评价 -->
-<!--
 **客户评价**
 
 > "Neil 帮我开发了 DeFi 借贷协议，合约代码干净、安全，审计一次通过。响应速度快，沟通无障碍，强力推荐！" — DeFi 项目方
@@ -85,8 +79,6 @@ import ProjectGrid from './components/ProjectGrid.vue'
 > "我们团队做 NFT 市场，Neil 从智能合约到前端全栈开发，不到一个月就上线了。技术扎实，交付靠谱。" — NFT 创业团队
 
 > "需要多链部署的 Web3 DApp，找了 Neil。他对 EVM 链非常熟悉，Polygon、Arbitrum、Base 都顺利上线。" — Web3 产品负责人
-
--->
 
 **技术栈**
 

@@ -1,6 +1,9 @@
 ---
 layout: home
 
+title: Web3 Developer Portfolio | Neil Yan - Blockchain Freelance Developer
+description: Neil Yan - Blockchain freelance developer portfolio. Specializing in Web3, DeFi, DApp development. AI quantitative trading, crypto wealth management, perpetual contracts, hybrid exchange, RWA tokenization, payment gateway, prediction market. Solidity, React, Next.js, Vue.
+
 hero:
   name: "Web3 Developer"
   text: "Blockchain Freelance Developer"
@@ -60,8 +63,6 @@ Since 2018, I've been working in blockchain technology development. I've launche
 - 🔧 **Technical Consulting** — Web3 architecture design and tech selection
 - 🚀 **Project Deployment** — Vercel, Railway, Aliyun, Tencent Cloud, AWS deployment
 
-<!-- Development Stats -->
-<!--
 **Development Achievements**
 
 | Metric | Data |
@@ -71,10 +72,6 @@ Since 2018, I've been working in blockchain technology development. I've launche
 | Smart Contract Transactions | 100,000+ |
 | Clients Served | 2,000+ |
 
--->
-
-<!-- Client Testimonials -->
-<!--
 **Client Testimonials**
 
 > "Neil helped me build a DeFi lending protocol. Clean contract code, passed audit smoothly. Fast responses, smooth communication, highly recommended!" — DeFi Project Lead
@@ -82,8 +79,6 @@ Since 2018, I've been working in blockchain technology development. I've launche
 > "Our team was building an NFT marketplace. Neil handled smart contracts and frontend — launched in under a month. Solid tech skills, reliable delivery." — NFT Startup Team
 
 > "Needed a multi-chain Web3 DApp, found Neil. He's very familiar with EVM chains — Polygon, Arbitrum, Base all launched smoothly." — Web3 Product Manager
-
--->
 
 **Tech Stack**
 
