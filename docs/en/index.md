@@ -1,33 +1,33 @@
 ---
 layout: home
 
-title: Web3 Developer Portfolio | Neil Yan - Blockchain Freelance Developer
-description: Neil Yan - Blockchain freelance developer portfolio. Specializing in Web3, DeFi, DApp development. AI quantitative trading, crypto wealth management, perpetual contracts, hybrid exchange, RWA tokenization, payment gateway, prediction market. Solidity, React, Next.js, Vue.
+title: Neil Yan - Senior Web3 Developer | Blockchain Engineer | Smart Contract Expert
+description: Neil Yan - Senior Web3 blockchain developer with 8+ years of experience. Smart contract development (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT marketplace development. 7 Web3 products delivered, 100,000+ on-chain transactions.
 
 hero:
   name: "Web3 Developer"
   text: "Blockchain Freelance Developer"
-  tagline: "Specializing in Web3, DeFi, DApp Development"
+  tagline: "Senior Web3 Blockchain Developer · 7 DApps Delivered · 100,000+ On-Chain Transactions"
   actions:
     - theme: brand
       text: View Projects
       link: /en/#projects
 
 features:
-  - title: AI Trading
-    details: AI Quant Robot - High-performance Web3 AI Trading Platform
-  - title: Crypto Earn
-    details: Crypto Earn - Secure USDT Smart Wealth Management
+  - title: AI Trading System
+    details: AI Quant Robot - AI-powered Web3 quantitative trading with multi-chain auto arbitrage
+  - title: DeFi Wealth Management
+    details: Crypto Earn - USDT smart wealth management, up to 18.5% APY across 15+ chains
   - title: Perpetual Trading
-    details: Perpetual Trading - Modern Futures Trading Interface
+    details: Perpetual Trading - Modern futures trading system with 1-50x leverage and live charts
   - title: Hybrid Exchange
-    details: Nex Exchange - Next-generation Hybrid Exchange
+    details: Nex Exchange - Next-gen hybrid exchange combining CEX speed with DEX transparency
   - title: RWA Tokenization
-    details: Solaris RWA - Real World Asset Tokenization
-  - title: Payment Gateway
-    details: X-Pay - Web2-Friendly Crypto Payment Gateway
+    details: Solaris RWA - Real World Asset tokenization platform for renewable energy
+  - title: Crypto Payment Gateway
+    details: X-Pay - Zero-fee, no-KYC crypto payment gateway built for Web2 businesses
   - title: Prediction Market
-    details: Prediction Market - Decentralized Prediction Platform
+    details: Prediction Market - Blockchain-based decentralized prediction platform
 ---
 
 <script setup>
@@ -38,30 +38,37 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 <ProjectGrid />
 
-## About Me {#about}
+## About Neil Yan {#about}
 
-Hi, I'm Neil Yan, a freelance developer focused on blockchain and Web3.
+Hi, I'm **Neil Yan** — a **Senior Web3 & Blockchain Developer** with a proven track record of building production-grade decentralized applications.
 
-Since 2018, I've been working in blockchain technology development. I've launched 7 DeFi and DApp products covering AI quantitative trading, crypto wealth management, perpetual contracts, hybrid exchanges, RWA tokenization, payment gateways, and prediction markets.
+Since **2018**, I've taken **7** Web3 DApp products from concept to launch, spanning **AI trading systems**, **DeFi wealth management platforms**, **perpetual trading engines**, **hybrid exchanges**, **RWA tokenization**, **crypto payment gateways**, and **decentralized prediction markets**. My smart contracts have processed **100,000+** on-chain transactions, serving **2,000+** clients worldwide.
 
-**Technical Expertise**
+My philosophy: **Turn your Web3 ideas into reliable, secure products with clean, audited code.**
 
-- **Smart Contract Development**: Solidity, Vyper, using Hardhat, Foundry, and OpenZeppelin
-- **Frontend Development**: React, Next.js, Vue for high-performance user experiences
-- **Web3 Integration**: Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism and 15+ main chains
-- **Backend Services**: Node.js, Java, Python, MySQL, Redis, Supabase for reliable server architecture
-- **Wallet Integration**: MetaMask, WalletConnect, Coinbase Wallet, Rabby
-- **AI Integration**: Gemini API, OpenAI, Alibaba Cloud Qwen for AI-powered DApps
+### Core Tech Stack
 
-**What I Can Do For You**
+| Area | Expertise |
+|------|-----------|
+| **Smart Contracts** | Solidity, Vyper, Hardhat, Foundry, OpenZeppelin — audit-grade security |
+| **Frontend** | React, Next.js, Vue, TypeScript, Tailwind CSS — high-performance Web3 UI |
+| **Web3 Integration** | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism & 15+ more |
+| **Backend** | Node.js, Java, Python, MySQL, Redis, Supabase — scalable server architecture |
+| **Wallet Connection** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
+| **AI Integration** | Gemini API, OpenAI, Alibaba Cloud Qwen — AI-powered DApps |
+| **DevOps** | Vercel, Railway, Docker, Alibaba Cloud, Tencent Cloud, AWS |
 
-- 🌐 **Complete DApp Development** — From product design, UI/UX, tech architecture to on-chain deployment
-- 📜 **Security-First Smart Contracts** — Using OpenZeppelin standards, fully tested before delivery
-- 💰 **DeFi Protocol Development** — Lending, AMM, yield aggregators, multi-chain deployment
-- 🎨 **NFT Platforms** — Minting, trading, marketplace features
-- 📊 **Data Dashboard** — Data visualization admin panels
-- 🔧 **Technical Consulting** — Web3 architecture design and tech selection
-- 🚀 **Project Deployment** — Vercel, Railway, Aliyun, Tencent Cloud, AWS deployment
+### What I Can Do For You
+
+| Service | Description |
+|---------|-------------|
+| 🌐 **Full-Stack DApp Development** | From product design & UI/UX to smart contracts and on-chain deployment |
+| 📜 **Smart Contract Development** | Security-first approach, OpenZeppelin standards, fully tested & audited |
+| 💰 **DeFi Protocol Development** | Lending, AMM, yield aggregators, staking — multi-chain ready |
+| 🎨 **NFT Platform Development** | Minting, marketplace, blind boxes, whitelist, royalty mechanisms |
+| 📊 **Data Dashboard** | On-chain data visualization, TVL/volume analytics, admin panels |
+| 🔧 **Technical Consulting** | Web3 architecture, tech stack selection, code review, gas optimization |
+| 🚀 **Project Deployment** | Deploy on Vercel, Railway, Docker, AWS, Alibaba Cloud, Tencent Cloud |
 
 **Development Achievements**
 
@@ -95,10 +102,12 @@ Since 2018, I've been working in blockchain technology development. I've launche
 
 ## Contact
 
+Have a Web3 project in mind? Let's talk:
+
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-Have questions or collaboration ideas? Contact via Telegram or Email 👋
+Telegram is the fastest way to reach me. Please include a brief description of your project 👋
 
 *Last updated: April 2026*

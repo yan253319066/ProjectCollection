@@ -1,33 +1,33 @@
 ---
 layout: home
 
-title: Web3 Developer Portfolio | Neil Yan - 블록체인 개발자
-description: Neil Yan - 블록체인 프리랜서 개발자 포트폴리오입니다. Web3, DeFi, DApp 개발 전문. AI 트레이딩, 암호화폐 금융, 무기한 선물 거래, 하이브리드 거래소, RWA 토큰화, 결제 게이트웨이, 예측 시장. Solidity, React, Next.js, Vue.
+title: Neil Yan - 시니어 Web3 개발자 | 블록체인 엔지니어 | 스마트 계약 전문가
+description: Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약 개발 (Solidity), DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스 개발. 7개의 DApp 납품, 100,000+ 온체인 거래.
 
 hero:
-  name: "Web3 Developer"
-  text: "블록체인 프리랜서 개발자"
-  tagline: "Web3, DeFi, DApp 개발 전문"
+  name: "Neil Yan"
+  text: "시니어 Web3 블록체인 개발자"
+  tagline: "DApp 7개 납품 · 온체인 거래 100,000+ 건"
   actions:
     - theme: brand
       text: 프로젝트 보기
       link: /ko/#projects
 
 features:
-  - title: AI 트레이딩
-    details: AI Quant Robot - 고성능 Web3 AI 거래 플랫폼
-  - title: 크립토 Earn
-    details: Crypto Earn - 안전하고 효율적인 USDT 스마트 재무 관리
-  - title: 퍼페추얼 트레이딩
-    details: Perpetual Trading - 현대적인 선물 거래 인터페이스
+  - title: AI 퀀트 트레이딩
+    details: AI Quant Robot - AI 기반 Web3 퀀트 트레이딩, 멀티체인 자동 차익거래
+  - title: DeFi 자산 관리
+    details: Crypto Earn - 안전한 USDT 스마트 자산 관리, 연 18.5%, 15+ 체인 지원
+  - title: 무기한 선물 거래
+    details: Perpetual Trading - 최신 선물 거래 시스템, 1-50x 레버리지 지원
   - title: 하이브리드 거래소
-    details: Nex Exchange - 차세대 하이브리드 거래소
+    details: Nex Exchange - CEX 속도 × DEX 투명성의 차세대 하이브리드 거래소
   - title: RWA 토큰화
-    details: Solaris RWA - 실세계 자산 토큰화
-  - title: 결제 게이트웨이
-    details: X-Pay - Web2 친화적 암호 화폐 결제 게이트웨이
-  - title: 예측 마켓
-    details: Prediction Market - 분산형 예측 마켓플레이스
+    details: Solaris RWA - 재생 에너지에 특화된 실물 자산 토큰화 플랫폼
+  - title: 암호화폐 결제
+    details: X-Pay - 수수료 무료·KYC 불필요한 Web2 친화적 암호화폐 결제
+  - title: 예측 시장
+    details: Prediction Market - 블록체인 기반 변조 불가능한 분산형 예측 플랫폼
 ---
 
 <script setup>
@@ -38,30 +38,37 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 <ProjectGrid />
 
-## 내 소개 {#about}
+## Neil Yan 소개 {#about}
 
-안녕하세요, Neil Yan입니다. 블록체인 개발에 집중하는 프리랜서 개발자입니다.
+안녕하세요, **Neil Yan**입니다. **Web3 블록체인 개발**을 전문으로 하는 시니어 풀스택 엔지니어입니다.
 
-2018년부터 Web3 분야에 진입하여 AI 트레이딩, 크립토 Earn, 퍼페추얼 트레이딩, 하이브리드 거래소, RWA 토큰화, 결제 게이트웨이, 예측 마켓의 7개 DeFi·DApp 제품을 출시했습니다.
+**2018년**부터 블록체인 업계에 종사하며 **7개**의 Web3 DApp 제품을 기획부터 론칭까지 성공적으로 이끌었습니다. **AI 퀀트 트레이딩**, **DeFi 자산 관리**, **무기한 선물 거래**, **하이브리드 거래소**, **RWA 토큰화**, **암호화폐 결제**, **분산형 예측 시장**을 아우릅니다. 스마트 계약은 누적 **100,000+** 건의 온체인 거래를 처리했으며, **2,000+** 명의 국내외 클라이언트에게 서비스를 제공했습니다.
 
-**기술 전문성**
+제 철학: **안전하고 신뢰할 수 있는 코드로 여러분의 Web3 아이디어를 실제 제품으로 만듭니다.**
 
-- **스마트 계약 개발**: Solidity, Vyper, Hardhat, Foundry, OpenZeppelin 사용
-- **프론트엔드 개발**: React, Next.js, Vue -高性能 사용자 경험 구축
-- **Web3 통합**: Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism 등 15개 이상 메인 체인
-- **백엔드 서비스**: Node.js, Java, Python, MySQL, Redis, Supabase
-- **월렛 통합**: MetaMask, WalletConnect, Coinbase Wallet, Rabby
-- **AI 통합**: Gemini API, OpenAI, Alibaba Cloud Qwen
+### 핵심 기술 스택
 
-**내가 할 수 있는 것**
+| 분야 | 기술 역량 |
+|------|-----------|
+| **스마트 계약** | Solidity, Vyper, Hardhat, Foundry, OpenZeppelin — 감사 수준의 보안 |
+| **프론트엔드** | React, Next.js, Vue, TypeScript, Tailwind CSS — 고성능 Web3 UI |
+| **Web3 통합** | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism 등 15+ 체인 |
+| **백엔드** | Node.js, Java, Python, MySQL, Redis, Supabase — 고가용성 아키텍처 |
+| **지갑 연결** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
+| **AI 연동** | Gemini API, OpenAI, Alibaba Cloud Qwen — AI 기반 DApp |
+| **DevOps** | Vercel, Railway, Docker, Alibaba Cloud, Tencent Cloud, AWS |
 
-- 🌐 **완전한 DApp 개발** — 제품 설계, UI/UX, 기술 설계에서 체인 배포까지 대응
-- 📜 **보안 우선의 스마트 계약** — OpenZeppelin 표준 라이브러리 사용, 납품 전 전면 테스트 완료
-- 💰 **DeFi 프로토콜 개발** — 레ンディング, AMM, 수익 애그리게이터 대응
-- 🎨 **NFT 플랫폼** — 민팅, 거래, 시장 기능
-- 📊 **데이터 대시보드** — 데이터 시각화 관리 패널
-- 🔧 **기술 컨설팅** — Web3 아키텍처 설계 및 기술 선정
-- 🚀 **프로젝트 배포** — Vercel, Railway, Aliyun, Tencent Cloud, AWS 배포
+### 제공 서비스
+
+| 서비스 | 설명 |
+|--------|------|
+| 🌐 **풀스택 DApp 개발** | 제품 설계·UI/UX부터 스마트 계약·온체인 배포까지 원스톱 대응 |
+| 📜 **스마트 계약 개발** | 보안 최우선, OpenZeppelin 표준, 납품 전 전체 테스트 + 감사 |
+| 💰 **DeFi 프로토콜 개발** | 렌딩, AMM, 수익 어그리게이터, 스테이킹 — 멀티체인 대응 |
+| 🎨 **NFT 플랫폼** | 민팅, 마켓플레이스, 블라인드 박스, 화이트리스트, 로열티 |
+| 📊 **데이터 대시보드** | 온체인 데이터 시각화, TVL/거래량 분석, 관리 패널 |
+| 🔧 **기술 컨설팅** | Web3 아키텍처 설계, 기술 선정, 코드 리뷰, 가스 최적화 |
+| 🚀 **프로젝트 배포** | Vercel, Railway, Docker, AWS, Alibaba Cloud, Tencent Cloud |
 
 **개발 실적**
 
@@ -95,10 +102,12 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 연락처
 
+Web3 개발 문의는 언제든지 연락주세요：
+
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-질문이나 협력 건의사항은 Telegram 또는 Email로 연락주세요 👋
+Telegram이 가장 빠릅니다. 문의 시 프로젝트 개요를 함께 보내주세요 👋
 
 *최종 업데이트: 2026년 4월*

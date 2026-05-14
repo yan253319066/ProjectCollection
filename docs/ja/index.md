@@ -1,33 +1,33 @@
 ---
 layout: home
 
-title: Web3 Developer Portfolio | Neil Yan - ブロックチェーン開発者
-description: Neil Yan - ブロックチェーンフリーランス開発者ポートフォリオ。Web3、DeFi、DApp開発専門。AI取引、暗号資産運用、永久先物取引、ハイブリッド取引所、RWAトークン化、決済ゲートウェイ、予測市場。Solidity、React、Next.js、Vue。
+title: Neil Yan - シニアWeb3開発者 | ブロックチェーンエンジニア | スマートコントラクト専門家
+description: Neil Yan - シニアWeb3ブロックチェーン開発者。スマートコントラクト開発（Solidity）、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTマーケットプレイス開発。7つのDApp納品、100,000+オンチェーン取引。
 
 hero:
-  name: "Web3 Developer"
-  text: "ブロックチェーンフリーランス開発者"
-  tagline: "Web3、DeFi、DApp開発専門"
+  name: "Neil Yan"
+  text: "シニアWeb3ブロックチェーン開発者"
+  tagline: "7つのDApp納品実績 · 100,000+オンチェーン取引"
   actions:
     - theme: brand
       text: プロジェクトを見る
       link: /ja/#projects
 
 features:
-  - title: AI取引
-    details: AI Quant Robot - 高性能Web3 AI取引プラットフォーム
-  - title: 暗号資産Earn
-    details: Crypto Earn - 安全高效的なUSDTスマート 理財
-  - title: 永久先物
-    details: Perpetual Trading - 現代的な先物取引インターフェース
-  - title: ハイブリッドエクスチェンジ
-    details: Nex Exchange - 次世代ハイブリッドエクスチェンジ
+  - title: AIクオンツ取引
+    details: AI Quant Robot - AI駆動のWeb3クオンツ取引、マルチチェーン自動裁定
+  - title: 暗号資産運用
+    details: Crypto Earn - 安全なUSDTスマート資産管理、年利18.5%、15+チェーン対応
+  - title: 永久先物取引
+    details: Perpetual Trading - 最新先物取引システム、1-50xレバレッジ対応
+  - title: ハイブリッド取引所
+    details: Nex Exchange - CEX速度×DEX透明性の次世代ハイブリッド取引所
   - title: RWAトークン化
-    details: Solaris RWA - 実世界資産トークナイゼーション
-  - title: 決済ゲートウェイ
-    details: X-Pay - Web2友好的暗号資産決済ゲートウェイ
+    details: Solaris RWA - 再生可能エネルギーに特化した実世界資産トークン化
+  - title: 暗号資産決済
+    details: X-Pay - 手数料無料・KYC不要のWeb2向け暗号資産決済
   - title: 予測マーケット
-    details: Prediction Market - 分散型予測マーケットプレイス
+    details: Prediction Market - 改ざん不可能なブロックチェーン分散型予測プラットフォーム
 ---
 
 <script setup>
@@ -38,30 +38,37 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 <ProjectGrid />
 
-## 私について {#about}
+## Neil Yanについて {#about}
 
-こんにちは、Neil Yanです。ブロックチェーン開発のフリーランス開発者です。
+こんにちは、**Neil Yan**です。**Web3ブロックチェーン開発**を専門とするシニアフルスタックエンジニアです。
 
-2018年からWeb3分野に参入し、AI量化取引、暗号資産理财、永続先物、ハイブリッドエクスチェンジ、RWAトークン化、決済ゲートウェイ、予測マーケットの7つのDeFi・DApp製品をリリースしました。
+**2018年**からブロックチェーン業界に携わり、**7つ**のWeb3 DApp製品をゼロからローンチしてきました。**AIクオンツ取引**、**DeFi資産運用**、**永久先物取引**、**ハイブリッド取引所**、**RWAトークン化**、**暗号資産決済**、**分散型予測市場**をカバー。スマートコントラクトは累計 **100,000+** 件のオンチェーン取引を処理し、**2,000+** 名の国内外クライアントにサービスを提供してきました。
 
-**技術専門性**
+私の理念：**安全で信頼性の高いコードで、あなたのWeb3アイデアを現実の製品に。**
 
-- **スマートコントラクト開発**：Solidity、Vyper、Hardhat、Foundry、OpenZeppelinを使用
-- **フロントエンド開発**：React、Next.js、Vue、高速パフォーマンスのユーザー体験を構築
-- **Web3統合**：Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimismなど15以上のメインチェーン
-- **バックエンドサービス**：Node.js、Java、Python、MySQL、Redis、Supabase
-- **ウォレット統合**：MetaMask、WalletConnect、Coinbase Wallet、Rabby
-- **AI統合**：Gemini API、OpenAI、Alibaba Cloud Qwen
+### コア技術スタック
 
-**私にできること**
+| 分野 | 技術力 |
+|------|--------|
+| **スマートコントラクト** | Solidity, Vyper, Hardhat, Foundry, OpenZeppelin — 監査レベルのセキュリティ |
+| **フロントエンド** | React, Next.js, Vue, TypeScript, Tailwind CSS — 高性能Web3 UI |
+| **Web3統合** | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism など15+チェーン |
+| **バックエンド** | Node.js, Java, Python, MySQL, Redis, Supabase — 高可用アーキテクチャ |
+| **ウォレット接続** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
+| **AI連携** | Gemini API, OpenAI, Alibaba Cloud Qwen — AI搭載DApp |
+| **DevOps** | Vercel, Railway, Docker, Alibaba Cloud, Tencent Cloud, AWS |
 
-- 🌐 **完全DApp開発** — 製品設計、UI/UX、技術設計からチェーン上デプロイまで対応
-- 📜 **セキュリティ優先のスマートコントラクト** — OpenZeppelin標準ライブラリを使用し、納品前に全面テスト済み
-- 💰 **DeFiプロトコル開発** — レンディング、AMM、収益アグリゲーター対応
-- 🎨 **NFTプラットフォーム** — ミンティング、取引、市場機能
-- 📊 **データダッシュボード** — データ可視化管理バックエンド
-- 🔧 **技術コンサルティング** — Web3アーキテクチャ設計と技術選定
-- 🚀 **プロジェクトデプロイ** — Vercel、Railway、Aliyun、Tencent Cloud、AWS対応
+### 提供サービス
+
+| サービス | 説明 |
+|----------|------|
+| 🌐 **フルスタックDApp開発** | 製品設計・UI/UXからスマートコントラクト・オンチェーン展開まで一貫対応 |
+| 📜 **スマートコントラクト開発** | セキュリティ最優先、OpenZeppelin標準、納品前フルテスト＋監査 |
+| 💰 **DeFiプロトコル開発** | レンディング、AMM、収益アグリゲーター、ステーキング — マルチチェーン対応 |
+| 🎨 **NFTプラットフォーム** | ミント、マーケットプレイス、Blind Box、ホワイトリスト、ロイヤリティ |
+| 📊 **データダッシュボード** | オンチェーンデータ可視化、TVL/出来高分析、管理パネル |
+| 🔧 **技術コンサルティング** | Web3アーキテクチャ設計、技術選定、コードレビュー、ガス最適化 |
+| 🚀 **プロジェクトデプロイ** | Vercel、Railway、Docker、AWS、Alibaba Cloud、Tencent Cloud |
 
 **開発実績**
 
@@ -95,10 +102,12 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 連絡先
 
+Web3開発のご依頼はお気軽にどうぞ：
+
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-質問やコラボレーションのご依頼は、TelegramまたはEmailにてご連絡ください 👋
+Telegramが最も返信が早いです。お問い合わせの際はプロジェクト概要をお知らせください 👋
 
 *最終更新：2026年4月*
