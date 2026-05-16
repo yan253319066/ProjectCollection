@@ -2,12 +2,12 @@
 layout: home
 
 title: Neil Yan - Senior Web3 Developer | Blockchain Engineer | Smart Contract Expert
-description: Neil Yan - Senior Web3 blockchain developer with 8+ years of experience. Smart contract development (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT marketplace development. 7 Web3 products delivered, 100,000+ on-chain transactions.
+description: Neil Yan - Senior Web3 blockchain developer with 8+ years of experience. Smart contract development (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT marketplace, Blackhole Protocol development. 8 Web3 products delivered, 100,000+ on-chain transactions.
 
 hero:
   name: "Web3 Developer"
   text: "Blockchain Freelance Developer"
-  tagline: "Senior Web3 Blockchain Developer · 7 DApps Delivered · 100,000+ On-Chain Transactions"
+  tagline: "Senior Web3 Blockchain Developer · 8 DApps Delivered · 100,000+ On-Chain Transactions"
   actions:
     - theme: brand
       text: View Projects
@@ -28,6 +28,8 @@ features:
     details: X-Pay - Zero-fee, no-KYC crypto payment gateway built for Web2 businesses
   - title: Prediction Market
     details: Prediction Market - Blockchain-based decentralized prediction platform
+  - title: Blackhole Protocol
+    details: Blackhole Protocol - Replace capital thresholds with behavioral value, coexist with AI
 ---
 
 <script setup>
@@ -42,7 +44,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 Hi, I'm **Neil Yan** — a **Senior Web3 & Blockchain Developer** with a proven track record of building production-grade decentralized applications.
 
-Since **2018**, I've taken **7** Web3 DApp products from concept to launch, spanning **AI trading systems**, **DeFi wealth management platforms**, **perpetual trading engines**, **hybrid exchanges**, **RWA tokenization**, **crypto payment gateways**, and **decentralized prediction markets**. My smart contracts have processed **100,000+** on-chain transactions, serving **2,000+** clients worldwide.
+Since **2018**, I've taken **8** Web3 DApp products from concept to launch, spanning **AI trading systems**, **DeFi wealth management platforms**, **perpetual trading engines**, **hybrid exchanges**, **RWA tokenization**, **crypto payment gateways**, **decentralized prediction markets**, and **Blackhole Protocol**. My smart contracts have processed **100,000+** on-chain transactions, serving **2,000+** clients worldwide.
 
 My philosophy: **Turn your Web3 ideas into reliable, secure products with clean, audited code.**
 
@@ -74,7 +76,7 @@ My philosophy: **Turn your Web3 ideas into reliable, secure products with clean,
 
 | Metric | Data |
 |--------|------|
-| Web3 Products Released | 7 |
+| Web3 Products Released | 8 |
 | Supported Chains | 15+ (Full EVM Support) |
 | Smart Contract Transactions | 100,000+ |
 | Clients Served | 2,000+ |

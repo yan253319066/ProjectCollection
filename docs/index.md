@@ -2,32 +2,35 @@
 layout: home
 
 title: Neil Yan - 资深区块链开发者 | Web3全栈开发 | 智能合约工程师
-description: Neil Yan 资深区块链独立开发者，8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台等全栈区块链开发服务。已交付7个Web3产品，处理100,000+笔链上交易。
+description: Neil Yan 资深区块链独立开发者，8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务。已交付8个Web3产品，处理100,000+笔链上交易。
 
 hero:
   name: "Web3 Developer"
   text: "区块链独立开发者"
-  tagline: "资深 Web3 区块链开发工程师 · 已交付 7 个 DApp 产品 · 100,000+ 笔链上交易"
+  tagline: "资深 Web3 区块链开发工程师 · 已交付 8 个 DApp 产品 · 100,000+ 笔链上交易"
   actions:
     - theme: brand
       text: 查看项目
       link: /#projects
 
 features:
-  - title: AI 量化交易系统
-    details: AI Quant Robot - Web3 AI驱动量化交易平台，多链自动套利与质押奖励
-  - title: DeFi 加密理财
-    details: Crypto Earn - 安全高效的 USDT 智能理财，年化高达 18.5%，15+ 公链支持
+  - title: AI量化交易
+    details: AI Quant Robot - AI驱动的Web3量化交易系统，多链自动套利
+  - title: 加密资产理财
+    details: Crypto Earn - 安全的USDT智能财富管理，年化18.5%，支持15+链
   - title: 永续合约交易
-    details: Perpetual Trading - 现代永续期货交易系统，支持 1-50x 杠杆与实时 K 线
+    details: Perpetual Trading - 现代期货交易系统，支持1-50倍杠杆和实时图表
   - title: 混合交易所
-    details: Nex Exchange - CEX 效率 + DEX 透明度的新一代混合交易平台
-  - title: RWA 资产代币化
-    details: Solaris RWA - 现实世界资产代币化平台，专注可再生能源项目
+    details: Nex Exchange - 结合CEX效率与DEX透明性的下一代混合交易所
+  - title: RWA代币化
+    details: Solaris RWA - 专注于可再生能源的现实世界资产代币化平台
   - title: 加密支付网关
-    details: X-Pay - 零手续费、免 KYC 的 Web2 友好加密货币支付解决方案
-  - title: 去中心化预测市场
-    details: Prediction Market - 基于区块链的透明、不可篡改的去中心化预测平台
+    details: X-Pay - 零手续费、无需KYC的Web2友好型加密支付网关
+  - title: 预测市场
+    details: Prediction Market - 基于区块链的去中心化预测平台
+  - title: Blackhole协议
+    details: Blackhole Protocol - 用行为价值替代资本门槛，与AI共存的去中心化节点网络
+
 ---
 
 <script setup>
@@ -42,7 +45,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 嗨，我是 **Neil Yan**，一位专注于 **Web3 区块链开发**的资深全栈工程师与独立开发者。
 
-自 **2018 年**投身区块链行业以来，我已从零到一成功交付 **7 个** Web3 DApp 产品，覆盖 **AI 量化交易系统**、**DeFi 加密理财平台**、**永续合约交易系统**、**混合交易所**、**RWA 代币化**、**加密货币支付网关**和**去中心化预测市场**等领域。智能合约累计处理 **100,000+** 笔链上交易，服务海内外客户 **2,000+** 名。
+自 **2018 年**投身区块链行业以来，我已从零到一成功交付 **8 个** Web3 DApp 产品，覆盖 **AI 量化交易系统**、**DeFi 加密理财平台**、**永续合约交易系统**、**混合交易所**、**RWA 代币化**、**加密货币支付网关**、**去中心化预测市场**和**Blackhole协议**等领域。智能合约累计处理 **100,000+** 笔链上交易，服务海内外客户 **2,000+** 名。
 
 我的核心理念：**用安全、可靠的代码，将你的 Web3 想法变成现实产品。**
 
@@ -74,7 +77,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 | 指标 | 数据 |
 |------|------|
-| 已发布 Web3 产品 | 7 个 |
+| 已发布 Web3 产品 | 8 个 |
 | 支持公链数量 | 15+ 条（EVM 全链支持） |
 | 智能合约累计处理 | 100,000+ 笔交易 |
 | 服务客户数量 | 2,000+ |

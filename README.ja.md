@@ -15,6 +15,7 @@ VitePress ドキュメントプロジェクト。ブロックチェーンフリ�
 | Solaris RWA | 実世界資産トークナイゼーション |
 | X-Pay | Web2友好的暗号資産決済ゲートウェイ |
 | Prediction Market | 分散型予測マーケットプレイス |
+| Blackhole Protocol | 資本しきい値を行動的価値に置き換え、AIと共存する |
 
 ## Neil Yan について
 

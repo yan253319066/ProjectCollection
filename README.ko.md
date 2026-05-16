@@ -15,6 +15,7 @@ VitePress 문서 프로젝트. 블록체인 프리랜서 개발자 Neil Yan의 �
 | Solaris RWA | 실세계 자산 토큰화 |
 | X-Pay | Web2 친화적 암호 화폐 결제 게이트웨이 |
 | Prediction Market | 분산형 예측 마켓플레이스 |
+| Blackhole Protocol | 자본 장벽을 행동 가치로 대체하고 AI와 공존하는 |
 
 ## Neil Yan에 대해서
 

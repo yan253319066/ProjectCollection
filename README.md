@@ -15,6 +15,7 @@ A VitePress documentation project showcasing Web3 developer Neil Yan's portfolio
 | Solaris RWA | Real World Asset Tokenization |
 | X-Pay | Web2-Friendly Crypto Payment Gateway |
 | Prediction Market | Decentralized Prediction Platform |
+| Blackhole Protocol | Replace capital thresholds with behavioral value, coexist with AI |
 
 ## About Neil Yan
 

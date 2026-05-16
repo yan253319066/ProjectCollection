@@ -141,6 +141,26 @@ export const projects: Project[] = [
     icon: '💳'
   },
   {
+    id: 'blackhole-protocol',
+    name: 'Blackhole Protocol',
+    nameZh: 'Blackhole 协议',
+    nameEn: 'Blackhole Protocol',
+    nameJa: 'Blackhole プロトコル',
+    nameKo: 'Blackhole 프로토콜',
+    tagline: '用行为价值取代资本门槛，与 AI 共存',
+    taglineZh: '用行为价值取代资本门槛，与 AI 共存的去中心化节点网络协议',
+    taglineEn: 'Replace capital thresholds with behavioral value, coexist with AI',
+    taglineJa: '資本しきい値を行動的価値に置き換え、AIと共存する',
+    taglineKo: '자본 장벽을 행동 가치로 대체하고 AI와 공존하다',
+    description: '',
+    descriptionZh: '创新的去中心化节点网络协议，采用三层节点系统（Observer、Navigator、Singularity）、3x3 矩阵病毒机制和独特 FOMO 倒计时系统。HBP（Blackhole Power）代币总量 1 亿枚，通过购买锁仓、卖出销毁和黑洞分红机制实现持续通缩。核心哲学：行为本身就是能量，平台不应无偿收割。智能合约采用 Solidity 0.8.28 + Hardhat 构建，前端采用 Next.js 15 + React 19 + Tailwind CSS + Wagmi。',
+    descriptionEn: 'Innovative decentralized node network protocol with three-tier node system, 3x3 matrix viral mechanism, and FOMO countdown system. HBP token with 100M fixed supply achieves continuous deflation through purchase locking, sell burning, and black hole dividend. Smart contracts built with Solidity 0.8.28 + Hardhat, frontend with Next.js 15 + React 19 + Tailwind CSS + Wagmi.',
+    descriptionJa: '3層ノードシステム、3x3マトリックスウイルス機構、FOMOカウントダウンシステムを特徴とする革新的な分散型ノードネットワークプロトコル。HBPトークンは1億枚の固定供給量で、購入ロック、売却バーン、黒字配当メカニズムを通じて継続的なデフレを実現。スマートコントラクトはSolidity 0.8.28 + Hardhat、フロントエンドはNext.js 15 + React 19 + Tailwind CSS + Wagmiで構築。',
+    descriptionKo: '3단계 노드 시스템, 3x3 매트릭스 바이럴 메커니즘, FOMO 카운트다운 시스템을 특징으로 하는 혁신적인 탈중앙화 노드 네트워크 프로토콜. HBP 토큰은 1억 개의 고정 공급량으로 구매 잠금, 판매 버닝, 블랙홀 배당 메커니즘을 통해 지속적인 디플레이션을 달성합니다. 스마트 계약은 Solidity 0.8.28 + Hardhat, 프론트엔드는 Next.js 15 + React 19 + Tailwind CSS + Wagmi로 구축.',
+    url: 'https://blackhole.0xx402.com',
+    icon: '🕳️'
+  },
+  {
     id: 'prediction-market',
     name: 'Prediction Market',
     nameZh: '预测市场',
