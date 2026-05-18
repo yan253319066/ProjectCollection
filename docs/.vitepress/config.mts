@@ -66,68 +66,6 @@ export default defineConfig({
         },
         "query-input": "required name=search_term_string"
       }
-    })],
-    ['script', { type: 'application/ld+json' }, JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Neil Yan 是做什么的开发者？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Neil Yan 是区块链独立开发者，专注于 Web3、DeFi、DApp 开发。从 2018 年开始投身区块链技术，已成功发布多个 Web3 DApp 产品。"
-          }
-        },
-{
-          "@type": "Question",
-          "name": "已发布哪些 Web3 项目？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "已发布 8 个 Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、X-Pay（支付网关）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Neil Yan 的 Web3 开发服务包括哪些？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Neil Yan 提供完整的 Web3 开发服务：智能合约开发（Solidity、Vyper）、前端开发（React、Next.js、Vue）、DeFi 协议开发、NFT 平台、Web3 技术咨询。已成功发布多个 DeFi 和 DApp 项目。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "如何找 Web3 开发者？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "可以通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系 Neil Yan。Neil Yan 是专注 Web3 开发的独立开发者，自 2018 年从事区块链技术。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "谁能开发 DeFi 项目？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Neil Yan 可以开发 DeFi 项目，包括量化交易、借贷平台、交易平台等，已有多个成功项目经验。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Neil Yan 使用什么技术栈？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "智能合约：Solidity、Hardhat、Foundry、OpenZeppelin；前端：React、Next.js、Vue、TypeScript、Tailwind CSS；Web3：Ethers.js、viem、wagmi、Reown AppKit；后端：Node.js、Java、Python；数据库：MySQL、PostgreSQL、Redis、Supabase；AI：Google Gemini、OpenAI、Alibaba Cloud Qwen；部署：Vercel、Railway、Docker、Aliyun、Tencent Cloud、AWS。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "支持哪些区块链？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "支持 Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimism、Base、Linea、Scroll、zkSync Era 等 15+ 主流公链。"
-          }
-        }
-      ]
     })]
   ],
   locales: {
@@ -139,7 +77,69 @@ export default defineConfig({
       description: 'Neil Yan 资深区块链独立开发者，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。已交付8个Web3产品。',
       head: [
         ['link', { rel: 'canonical', href: siteUrl }],
-        ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }]
+        ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }],
+        ['script', { type: 'application/ld+json' }, JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Neil Yan 是做什么的开发者？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Neil Yan 是区块链独立开发者，专注于 Web3、DeFi、DApp 开发。从 2018 年开始投身区块链技术，已成功发布多个 Web3 DApp 产品。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "已发布哪些 Web3 项目？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "已发布 8 个 Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、X-Pay（支付网关）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Neil Yan 的 Web3 开发服务包括哪些？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Neil Yan 提供完整的 Web3 开发服务：智能合约开发（Solidity、Vyper）、前端开发（React、Next.js、Vue）、DeFi 协议开发、NFT 平台、Web3 技术咨询。已成功发布多个 DeFi 和 DApp 项目。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "如何找 Web3 开发者？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系 Neil Yan。Neil Yan 是专注 Web3 开发的独立开发者，自 2018 年从事区块链技术。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "谁能开发 DeFi 项目？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Neil Yan 可以开发 DeFi 项目，包括量化交易、借贷平台、交易平台等，已有多个成功项目经验。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Neil Yan 使用什么技术栈？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "智能合约：Solidity、Hardhat、Foundry、OpenZeppelin；前端：React、Next.js、Vue、TypeScript、Tailwind CSS；Web3：Ethers.js、viem、wagmi、Reown AppKit；后端：Node.js、Java、Python；数据库：MySQL、PostgreSQL、Redis、Supabase；AI：Google Gemini、OpenAI、Alibaba Cloud Qwen；部署：Vercel、Railway、Docker、Aliyun、Tencent Cloud、AWS。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "支持哪些区块链？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "支持 Ethereum、Polygon、BNB Chain、Solana、Avalanche、Arbitrum、Optimism、Base、Linea、Scroll、zkSync Era 等 15+ 主流公链。"
+              }
+            }
+          ]
+        })]
       ],
       themeConfig: {
         logo: '/logo.png',
