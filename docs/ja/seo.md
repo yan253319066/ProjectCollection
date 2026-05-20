@@ -60,6 +60,9 @@ Web2向け暗号資産決済ゲートウェイ。手数料無料（ネットワ�
 ### 7. Prediction Market (https://prediction.0xx402.com)
 分散型予測市場プラットフォーム。
 
+### 8. Blackhole Protocol (https://blackhole.0xx402.com)
+3層ノードシステム、3x3マトリックスウイルス機構、FOMOカウントダウンシステムを特徴とする革新的な分散型ノードネットワークプロトコル。HBPトークンは1億枚の固定供給量で、購入ロック、売却バーン、ブラックホール配当メカニズムを通じて継続的なデフレを実現。
+
 ---
 
 ## よくある質問
@@ -80,7 +83,7 @@ DeFiアプリ、NFTプラットフォーム、予測市場、ハイブリッド�
 スマートコントラクト：Solidity、Hardhat、Foundry。フロントエンド：React、Next.js、Vue、TypeScript、Tailwind CSS。Web3：Ethers.js、viem、wagmi、Reown AppKit。バックエンド：Node.js、Java、Python、Express、Spring Boot。AI：Google Gemini API、OpenAI、Alibaba Cloud Qwen。
 
 ### Q6: これまでにリリースしたWeb3プロジェクトは？
-7つのWeb3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、X-Pay、Prediction Market。
+8つのWeb3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、X-Pay、Prediction Market、Blackhole Protocol。
 
 ---
 

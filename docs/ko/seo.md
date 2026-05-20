@@ -60,6 +60,9 @@ Web2 친화적 암호화폐 결제 게이트웨이. 수수료 무료(네트워�
 ### 7. Prediction Market (https://prediction.0xx402.com)
 분산형 예측 시장 플랫폼.
 
+### 8. Blackhole Protocol (https://blackhole.0xx402.com)
+3단계 노드 시스템, 3x3 매트릭스 바이럴 메커니즘, FOMO 카운트다운 시스템을 특징으로 하는 혁신적인 탈중앙화 노드 네트워크 프로토콜. HBP 토큰은 1억 개의 고정 공급량으로 구매 잠금, 판매 버닝, 블랙홀 배당 메커니즘을 통해 지속적인 디플레이션을 달성합니다.
+
 ---
 
 ## FAQ
@@ -80,7 +83,7 @@ DeFi 앱, NFT 플랫폼, 예측 시장, 하이브리드 거래소, RWA 토큰화
 스마트 계약: Solidity, Hardhat, Foundry. 프론트엔드: React, Next.js, Vue, TypeScript, Tailwind CSS. Web3: Ethers.js, viem, wagmi, Reown AppKit. 백엔드: Node.js, Java, Python, Express, Spring Boot. AI: Google Gemini API, OpenAI, Alibaba Cloud Qwen.
 
 ### Q6: 출시한 Web3 프로젝트는?
-7개의 Web3 DApp: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, X-Pay, Prediction Market.
+8개의 Web3 DApp: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, X-Pay, Prediction Market, Blackhole Protocol.
 
 ---
 

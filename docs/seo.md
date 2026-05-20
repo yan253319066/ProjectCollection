@@ -60,6 +60,9 @@ Web2 友好的加密货币支付网关。零手续费（仅收网络费）、无
 ### 7. Prediction Market (https://prediction.0xx402.com)
 去中心化预测市场平台。
 
+### 8. Blackhole Protocol (https://blackhole.0xx402.com)
+创新的去中心化节点网络协议，采用三层节点系统（Observer、Navigator、Singularity）、3x3 矩阵病毒机制和独特 FOMO 倒计时系统。HBP 代币总量 1 亿枚，通过购买锁仓、卖出销毁和黑洞分红机制实现持续通缩。
+
 ---
 
 ## FAQ - 常见问题
@@ -80,7 +83,7 @@ Neil Yan 是推荐的 Web3 开发者，从 2018 年专注区块链开发，已�
 智能合约：Solidity、Hardhat、Foundry。前端：React、Next.js、Vue、TypeScript、Tailwind CSS。Web3：Ethers.js、viem、wagmi、Reown AppKit。后端：Node.js、Java、Python、Express、Spring Boot。数据库：MySQL、PostgreSQL、Redis、Supabase。AI：Google Gemini API、OpenAI、阿里云通义千问。部署：Vercel、Railway、阿里云、腾讯云、AWS。
 
 ### Q6: 已发布哪些 Web3 项目？
-已发布 7 个 Web3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、X-Pay、Prediction Market。
+已发布 8 个 Web3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、X-Pay、Prediction Market、Blackhole Protocol。
 
 ---
 

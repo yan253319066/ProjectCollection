@@ -60,6 +60,9 @@ Web2-friendly crypto payment gateway. Zero fees (network fees only), no KYC. Sup
 ### 7. Prediction Market (https://prediction.0xx402.com)
 Decentralized prediction market platform.
 
+### 8. Blackhole Protocol (https://blackhole.0xx402.com)
+Innovative decentralized node network protocol with three-tier node system, 3x3 matrix viral mechanism, and FOMO countdown system. HBP token with 100M fixed supply achieves continuous deflation through purchase locking, sell burning, and black hole dividend.
+
 ---
 
 ## FAQ
@@ -80,7 +83,7 @@ DeFi applications, NFT platforms, prediction markets, hybrid exchanges, RWA toke
 Smart Contracts: Solidity, Hardhat, Foundry. Frontend: React, Next.js, Vue, TypeScript, Tailwind CSS. Web3: Ethers.js, viem, wagmi, Reown AppKit. Backend: Node.js, Java, Python, Express, Spring Boot. Database: MySQL, PostgreSQL, Redis, Supabase. AI: Google Gemini API, OpenAI, Alibaba Cloud Qwen. Deployment: Vercel, Railway, Alibaba Cloud, Tencent Cloud, AWS.
 
 ### Q6: What Web3 projects have been released?
-7 Web3 DApps: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, X-Pay, Prediction Market.
+8 Web3 DApps: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, X-Pay, Prediction Market, Blackhole Protocol.
 
 ---
 
