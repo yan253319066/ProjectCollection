@@ -1,4 +1,4 @@
-import { writeFileSync, readdirSync, existsSync } from 'fs'
+import { writeFileSync, readFileSync, readdirSync, existsSync } from 'fs'
 import { join, relative, resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -12,22 +12,44 @@ if (!existsSync(outDir)) {
 }
 
 const pages = []
+
+function pageUrl(full) {
+  let url = relative(outDir, full).replace(/\\/g, '/')
+  if (url === 'index.html' || url === 'index') url = ''
+  else if (url.endsWith('/index.html')) url = url.slice(0, -10)
+  else if (url.endsWith('.html')) url = url.slice(0, -5)
+  return url
+}
+
 function walk(dir) {
   for (const entry of readdirSync(dir, { withFileTypes: true })) {
     const full = join(dir, entry.name)
     if (entry.isDirectory()) walk(full)
     else if (entry.name.endsWith('.html') && entry.name !== '404.html' && !entry.name.startsWith('google')) {
-      let url = relative(outDir, full).replace(/\\/g, '/')
-      if (url === 'index.html' || url === 'index') url = ''
-      else if (url.endsWith('/index.html')) url = url.slice(0, -10)
-      else if (url.endsWith('.html')) url = url.slice(0, -5)
-      pages.push('/' + url)
+      const url = pageUrl(full)
+      pages.push({ url: '/' + url, full })
     }
   }
 }
 walk(outDir)
 
-const urls = pages.map(p => `  <url><loc>${siteUrl}${p}</loc></url>`).join('\n')
+// Generate sitemap.xml
+const urls = pages.map(p => `  <url><loc>${siteUrl}${p.url}</loc></url>`).join('\n')
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>`
 writeFileSync(join(outDir, 'sitemap.xml'), sitemap, 'utf-8')
 console.log(`✅ sitemap.xml generated with ${pages.length} URLs`)
+
+// Inject canonical URLs into each HTML file
+const canonicalTag = (url) => `<link rel="canonical" href="${siteUrl}${url}">`
+
+for (const { url, full } of pages) {
+  let html = readFileSync(full, 'utf-8')
+  const existing = html.match(/<link rel="canonical"[^>]*>/)
+  if (existing) {
+    html = html.replace(existing[0], canonicalTag(url))
+  } else {
+    html = html.replace('</head>', `  ${canonicalTag(url)}\n</head>`)
+  }
+  writeFileSync(full, html, 'utf-8')
+}
+console.log(`✅ canonical URLs injected for ${pages.length} pages`)

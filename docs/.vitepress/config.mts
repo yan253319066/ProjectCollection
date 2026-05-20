@@ -76,7 +76,6 @@ export default defineConfig({
       title: 'Neil Yan - 资深区块链开发者 | Web3全栈工程师',
       description: 'Neil Yan 资深区块链独立开发者，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。已交付8个Web3产品。',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl }],
         ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
@@ -164,7 +163,6 @@ export default defineConfig({
       title: 'Neil Yan - Senior Web3 Developer | Blockchain Engineer',
       description: 'Neil Yan - Senior Web3 blockchain developer. Smart contract development, DeFi protocols, AI trading, RWA tokenization, crypto payment gateway, NFT marketplace, Blackhole Protocol. 8+ years experience, 8 DApps delivered.',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl + '/en/' }],
         ['meta', { name: 'keywords', content: 'Web3 developer, blockchain developer, smart contract developer, Solidity developer, DeFi developer, DApp developer, Ethereum developer, crypto payment gateway, NFT developer, hire blockchain developer' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
@@ -236,7 +234,6 @@ export default defineConfig({
       title: 'Neil Yan - シニアWeb3開発者 | ブロックチェーンエンジニア',
       description: 'Neil Yan - シニアWeb3ブロックチェーン開発者。スマートコントラクト、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTプラットフォーム、Blackholeプロトコル開発。8つのDApp製品を納品。',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl + '/ja/' }],
         ['meta', { name: 'keywords', content: 'Web3開発者, ブロックチェーン開発者, スマートコントラクト開発, Solidity, DeFi開発, DApp開発, NFT開発, 暗号資産決済' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
@@ -300,7 +297,6 @@ export default defineConfig({
       title: 'Neil Yan - 시니어 Web3 개발자 | 블록체인 엔지니어',
       description: 'Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약, DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜 개발. 8개의 DApp 제품 납품 완료.',
       head: [
-        ['link', { rel: 'canonical', href: siteUrl + '/ko/' }],
         ['meta', { name: 'keywords', content: 'Web3 개발자, 블록체인 개발자, 스마트 계약 개발, Solidity, DeFi 개발, DApp 개발, NFT 개발, 암호화폐 결제' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
