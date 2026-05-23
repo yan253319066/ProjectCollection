@@ -25,7 +25,7 @@ features:
   - title: RWA代币化
     details: Solaris RWA - 专注于可再生能源的现实世界资产代币化平台
   - title: 加密支付网关
-    details: X-Pay - 零手续费、无需KYC的Web2友好型加密支付网关
+    details: XPayLabs - 自托管加密支付基础设施，支持TRON、EVM链和SUI
   - title: 预测市场
     details: Prediction Market - 基于区块链的去中心化预测平台
   - title: Blackhole协议

@@ -94,7 +94,7 @@ export default defineConfig({
               "name": "已发布哪些 Web3 项目？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "已发布 8 个 Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、X-Pay（支付网关）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
+                "text": "已发布 8 个 Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、XPayLabs（自托管支付基础设施）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
               }
             },
             {
@@ -181,7 +181,7 @@ export default defineConfig({
               "name": "What Web3 projects have been released?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "8 Web3 DApps: AI Quant Robot (AI quantitative trading), Crypto Earn (crypto wealth management), Perpetual Trading (perpetual contracts), Nex Exchange (hybrid exchange), Solaris RWA (RWA tokenization), X-Pay (payment gateway), Prediction Market, Blackhole Protocol."
+                "text": "8 Web3 DApps: AI Quant Robot (AI quantitative trading), Crypto Earn (crypto wealth management), Perpetual Trading (perpetual contracts), Nex Exchange (hybrid exchange), Solaris RWA (RWA tokenization), XPayLabs (self-hosted payment infrastructure), Prediction Market, Blackhole Protocol."
               }
             },
             {
@@ -252,7 +252,7 @@ export default defineConfig({
               "name": "リリースしたWeb3プロジェクトは？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "8つのWeb3 DApp：AI Quant Robot（AI取引）、Crypto Earn（暗号資産運用）、Perpetual Trading（永久先物）、Nex Exchange（ハイブリッド取引所）、Solaris RWA（RWAトークン化）、X-Pay（決済ゲートウェイ）、Prediction Market（予測市場）、Blackhole Protocol。"
+                "text": "8つのWeb3 DApp：AI Quant Robot（AI取引）、Crypto Earn（暗号資産運用）、Perpetual Trading（永久先物）、Nex Exchange（ハイブリッド取引所）、Solaris RWA（RWAトークン化）、XPayLabs（自己ホスト型決済インフラ）、Prediction Market（予測市場）、Blackhole Protocol。"
               }
             },
             {
@@ -315,7 +315,7 @@ export default defineConfig({
               "name": "출시한 Web3 프로젝트는 무엇인가요?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "8개의 Web3 DApp: AI Quant Robot (AI 트레이딩), Crypto Earn (암호화폐 금융), Perpetual Trading (무기한 선물), Nex Exchange (하이브리드 거래소), Solaris RWA (RWA 토큰화), X-Pay (결제 게이트웨이), Prediction Market (예측 시장), Blackhole Protocol."
+                "text": "8개의 Web3 DApp: AI Quant Robot (AI 트레이딩), Crypto Earn (암호화폐 금융), Perpetual Trading (무기한 선물), Nex Exchange (하이브리드 거래소), Solaris RWA (RWA 토큰화), XPayLabs (자체 호스팅 결제 인프라), Prediction Market (예측 시장), Blackhole Protocol."
               }
             },
             {

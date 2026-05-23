@@ -13,7 +13,7 @@ VitePress 文档项目，展示区块链独立开发者 Neil Yan 的作品集。
 | Perpetual Trading | 现代永续期货交易界面 |
 | Nex Exchange | 新一代混合交易所 |
 | Solaris RWA | 现实世界资产代币化 |
-| X-Pay | Web2 友好加密货币支付网关 |
+| XPayLabs | 自托管加密支付基础设施 |
 | Prediction Market | 去中心化预测市场 |
 | Blackhole Protocol | 用行为价值替代资本门槛，与AI共存 |
 

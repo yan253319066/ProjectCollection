@@ -25,7 +25,7 @@ features:
   - title: RWAトークン化
     details: Solaris RWA - 再生可能エネルギーに特化した実世界資産トークン化
   - title: 暗号資産決済
-    details: X-Pay - 手数料無料・KYC不要のWeb2向け暗号資産決済
+    details: XPayLabs - 自己ホスト型暗号通貨決済インフラ。TRON、EVMチェーン、SUI対応
   - title: 予測マーケット
     details: Prediction Market - 改ざん不可能なブロックチェーン分散型予測プラットフォーム
   - title: Blackholeプロトコル

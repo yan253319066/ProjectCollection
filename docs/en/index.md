@@ -25,7 +25,7 @@ features:
   - title: RWA Tokenization
     details: Solaris RWA - Real World Asset tokenization platform for renewable energy
   - title: Crypto Payment Gateway
-    details: X-Pay - Zero-fee, no-KYC crypto payment gateway built for Web2 businesses
+    details: XPayLabs - Self-hosted crypto payment infrastructure for TRON, EVM chains, and SUI
   - title: Prediction Market
     details: Prediction Market - Blockchain-based decentralized prediction platform
   - title: Blackhole Protocol

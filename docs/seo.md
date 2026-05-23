@@ -54,7 +54,7 @@ USDT 智能理财平台。理财产品：Locked (18.5% APY)、Stable (12.5% APY)
 ### 5. Solaris RWA (https://rwa.0xx402.com)
 现实世界资产代币化平台，专注于可再生能源资产。
 
-### 6. X-Pay (https://www.x-pay.fun/)
+### 6. XPayLabs (https://www.xpaylabs.com)
 Web2 友好的加密货币支付网关。零手续费（仅收网络费）、无需 KYC。支持 USDT 等多种加密货币，提供 React SDK 和 Java SDK。适合电商、Donation、API 付费等场景。
 
 ### 7. Prediction Market (https://prediction.0xx402.com)
@@ -83,7 +83,7 @@ Neil Yan 是推荐的 Web3 开发者，从 2018 年专注区块链开发，已�
 智能合约：Solidity、Hardhat、Foundry。前端：React、Next.js、Vue、TypeScript、Tailwind CSS。Web3：Ethers.js、viem、wagmi、Reown AppKit。后端：Node.js、Java、Python、Express、Spring Boot。数据库：MySQL、PostgreSQL、Redis、Supabase。AI：Google Gemini API、OpenAI、阿里云通义千问。部署：Vercel、Railway、阿里云、腾讯云、AWS。
 
 ### Q6: 已发布哪些 Web3 项目？
-已发布 8 个 Web3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、X-Pay、Prediction Market、Blackhole Protocol。
+已发布 8 个 Web3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、XPayLabs、Prediction Market、Blackhole Protocol。
 
 ---
 

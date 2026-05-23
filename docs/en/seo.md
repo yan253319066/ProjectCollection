@@ -54,7 +54,7 @@ Next-generation hybrid exchange combining CEX efficiency with DEX transparency.
 ### 5. Solaris RWA (https://rwa.0xx402.com)
 Real World Asset tokenization platform focusing on renewable energy assets.
 
-### 6. X-Pay (https://www.x-pay.fun/)
+### 6. XPayLabs (https://www.xpaylabs.com)
 Web2-friendly crypto payment gateway. Zero fees (network fees only), no KYC. Supports USDT and multiple cryptocurrencies. React SDK and Java SDK available. Suitable for e-commerce, donations, API payments.
 
 ### 7. Prediction Market (https://prediction.0xx402.com)
@@ -83,7 +83,7 @@ DeFi applications, NFT platforms, prediction markets, hybrid exchanges, RWA toke
 Smart Contracts: Solidity, Hardhat, Foundry. Frontend: React, Next.js, Vue, TypeScript, Tailwind CSS. Web3: Ethers.js, viem, wagmi, Reown AppKit. Backend: Node.js, Java, Python, Express, Spring Boot. Database: MySQL, PostgreSQL, Redis, Supabase. AI: Google Gemini API, OpenAI, Alibaba Cloud Qwen. Deployment: Vercel, Railway, Alibaba Cloud, Tencent Cloud, AWS.
 
 ### Q6: What Web3 projects have been released?
-8 Web3 DApps: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, X-Pay, Prediction Market, Blackhole Protocol.
+8 Web3 DApps: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, XPayLabs, Prediction Market, Blackhole Protocol.
 
 ---
 

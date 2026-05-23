@@ -54,7 +54,7 @@ USDTスマート資産管理プラットフォーム。商品：Locked（年利1
 ### 5. Solaris RWA (https://rwa.0xx402.com)
 実世界資産（RWA）トークン化プラットフォーム、再生可能エネルギー資産に特化。
 
-### 6. X-Pay (https://www.x-pay.fun/)
+### 6. XPayLabs (https://www.xpaylabs.com)
 Web2向け暗号資産決済ゲートウェイ。手数料無料（ネットワーク手数のみ）、KYC不要。USDT対応、React SDK・Java SDK提供。
 
 ### 7. Prediction Market (https://prediction.0xx402.com)
@@ -83,7 +83,7 @@ DeFiアプリ、NFTプラットフォーム、予測市場、ハイブリッド�
 スマートコントラクト：Solidity、Hardhat、Foundry。フロントエンド：React、Next.js、Vue、TypeScript、Tailwind CSS。Web3：Ethers.js、viem、wagmi、Reown AppKit。バックエンド：Node.js、Java、Python、Express、Spring Boot。AI：Google Gemini API、OpenAI、Alibaba Cloud Qwen。
 
 ### Q6: これまでにリリースしたWeb3プロジェクトは？
-8つのWeb3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、X-Pay、Prediction Market、Blackhole Protocol。
+8つのWeb3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、XPayLabs、Prediction Market、Blackhole Protocol。
 
 ---
 

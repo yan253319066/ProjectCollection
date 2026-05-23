@@ -13,7 +13,7 @@ A VitePress documentation project showcasing Web3 developer Neil Yan's portfolio
 | Perpetual Trading | Modern Futures Trading Interface |
 | Nex Exchange | Next-generation Hybrid Exchange |
 | Solaris RWA | Real World Asset Tokenization |
-| X-Pay | Web2-Friendly Crypto Payment Gateway |
+| XPayLabs | Self-hosted Crypto Payment Infrastructure |
 | Prediction Market | Decentralized Prediction Platform |
 | Blackhole Protocol | Replace capital thresholds with behavioral value, coexist with AI |
 

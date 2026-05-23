@@ -25,7 +25,7 @@ features:
   - title: RWA 토큰화
     details: Solaris RWA - 재생 에너지에 특화된 실물 자산 토큰화 플랫폼
   - title: 암호화폐 결제
-    details: X-Pay - 수수료 무료·KYC 불필요한 Web2 친화적 암호화폐 결제
+    details: XPayLabs - 자체 호스팅 암호화폐 결제 인프라. TRON, EVM 체인, SUI 지원
   - title: 예측 시장
     details: Prediction Market - 블록체인 기반 변조 불가능한 분산형 예측 플랫폼
   - title: Blackhole 프로토콜

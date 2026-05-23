@@ -54,7 +54,7 @@ USDT 스마트 자산 관리 플랫폼. 상품: Locked (연 18.5%), Stable (연 
 ### 5. Solaris RWA (https://rwa.0xx402.com)
 실물 자산(RWA) 토큰화 플랫폼, 재생 에너지 자산에 특화.
 
-### 6. X-Pay (https://www.x-pay.fun/)
+### 6. XPayLabs (https://www.xpaylabs.com)
 Web2 친화적 암호화폐 결제 게이트웨이. 수수료 무료(네트워크 수수료만), KYC 불필요. USDT 지원, React SDK 및 Java SDK 제공.
 
 ### 7. Prediction Market (https://prediction.0xx402.com)
@@ -83,7 +83,7 @@ DeFi 앱, NFT 플랫폼, 예측 시장, 하이브리드 거래소, RWA 토큰화
 스마트 계약: Solidity, Hardhat, Foundry. 프론트엔드: React, Next.js, Vue, TypeScript, Tailwind CSS. Web3: Ethers.js, viem, wagmi, Reown AppKit. 백엔드: Node.js, Java, Python, Express, Spring Boot. AI: Google Gemini API, OpenAI, Alibaba Cloud Qwen.
 
 ### Q6: 출시한 Web3 프로젝트는?
-8개의 Web3 DApp: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, X-Pay, Prediction Market, Blackhole Protocol.
+8개의 Web3 DApp: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, XPayLabs, Prediction Market, Blackhole Protocol.
 
 ---
 

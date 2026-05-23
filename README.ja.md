@@ -13,7 +13,7 @@ VitePress ドキュメントプロジェクト。ブロックチェーンフリ�
 | Perpetual Trading | 現代的な先物取引インターフェース |
 | NexExchange | 次世代ハイブリッドエクスチェンジ |
 | Solaris RWA | 実世界資産トークナイゼーション |
-| X-Pay | Web2友好的暗号資産決済ゲートウェイ |
+| XPayLabs | 自己ホスト型暗号通貨決済インフラ |
 | Prediction Market | 分散型予測マーケットプレイス |
 | Blackhole Protocol | 資本しきい値を行動的価値に置き換え、AIと共存する |
 
