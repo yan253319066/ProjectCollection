@@ -3,6 +3,8 @@ import './custom.css'
 import ProjectGrid from '../../components/ProjectGrid.vue'
 import ProjectCard from '../../components/ProjectCard.vue'
 import ProjectModal from '../../components/ProjectModal.vue'
+import BlogList from '../../components/BlogList.vue'
+import BackToBlog from '../../components/BackToBlog.vue'
 
 export default {
   extends: DefaultTheme,
@@ -10,5 +12,7 @@ export default {
     app.component('ProjectGrid', ProjectGrid)
     app.component('ProjectCard', ProjectCard)
     app.component('ProjectModal', ProjectModal)
+    app.component('BlogList', BlogList)
+    app.component('BackToBlog', BackToBlog)
   }
 }

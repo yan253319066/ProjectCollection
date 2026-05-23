@@ -18,6 +18,7 @@ export default defineConfig({
   outDir: './.vitepress/dist',
   lastUpdated: true,
   cleanUrls: true,
+  srcExclude: ['superpowers/**'],
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'alternate', href: siteUrl, hreflang: 'zh-CN' }],
@@ -27,6 +28,8 @@ export default defineConfig({
     ['meta', { name: 'author', content: 'Neil Yan - Web3 Developer & Blockchain Engineer' }],
     ['meta', { name: 'keywords', content: 'Web3, Blockchain, DeFi, DApp, Solidity, Ethereum, 智能合约, 量化交易, 加密货币, 区块链开发者, 独立开发者, Crypto, Web3 Developer, Blockchain Developer, 区块链开发工程师, Web3开发, DeFi开发, Solidity开发, 加密货币支付, NFT开发, 智能合约开发外包, EVM开发, 区块链全栈开发, Blackhole Protocol' }],
     ['meta', { name: 'theme-color', content: '#646cff' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (中文)', href: siteUrl + '/blog/rss.xml' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (English)', href: siteUrl + '/en/blog/rss.xml' }],
     ['meta', { property: 'og:title', content: 'Web3 Developer Portfolio | Neil Yan - 区块链独立开发者' }],
     ['meta', { property: 'og:description', content: '区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -144,7 +147,8 @@ export default defineConfig({
         logo: '/logo.png',
         nav: [
           { text: '首页', link: '/' },
-          { text: '项目', link: '/#projects' }
+          { text: '项目', link: '/#projects' },
+          { text: '博客', link: '/blog/' }
         ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
@@ -215,7 +219,8 @@ export default defineConfig({
         logo: '/logo.png',
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'Projects', link: '/en/#projects' }
+          { text: 'Projects', link: '/en/#projects' },
+          { text: 'Blog', link: '/en/blog/' }
         ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
@@ -278,7 +283,8 @@ export default defineConfig({
         logo: '/logo.png',
         nav: [
           { text: 'ホーム', link: '/ja/' },
-          { text: 'プロジェクト', link: '/ja/#projects' }
+          { text: 'プロジェクト', link: '/ja/#projects' },
+          { text: 'ブログ', link: '/en/blog/' }
         ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
@@ -341,7 +347,8 @@ export default defineConfig({
         logo: '/logo.png',
         nav: [
           { text: '홈', link: '/ko/' },
-          { text: '프로젝트', link: '/ko/#projects' }
+          { text: '프로젝트', link: '/ko/#projects' },
+          { text: '블로그', link: '/en/blog/' }
         ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
