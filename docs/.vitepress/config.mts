@@ -76,7 +76,7 @@ export default defineConfig({
       label: '中文',
       lang: 'zh-CN',
       link: '/',
-      title: 'Neil Yan - 资深区块链开发者 | Web3全栈工程师',
+      title: 'Neil Yan - 区块链独立开发者作品集 | Web3全栈工程师',
       description: 'Neil Yan 资深区块链独立开发者，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。已交付8个Web3产品。',
       head: [
         ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }],
@@ -147,7 +147,7 @@ export default defineConfig({
         logo: '/logo.png',
         nav: [
           { text: '首页', link: '/' },
-          { text: '项目', link: '/#projects' },
+          { text: '项目', link: '/projects/' },
           { text: '博客', link: '/blog/' }
         ],
         socialLinks: [
@@ -164,7 +164,7 @@ export default defineConfig({
       label: 'English',
       lang: 'en-US',
       link: '/en/',
-      title: 'Neil Yan - Senior Web3 Developer | Blockchain Engineer',
+      title: 'Neil Yan - Web3 Developer Portfolio | Blockchain Engineer',
       description: 'Neil Yan - Senior Web3 blockchain developer. Smart contract development, DeFi protocols, AI trading, RWA tokenization, crypto payment gateway, NFT marketplace, Blackhole Protocol. 8+ years experience, 8 DApps delivered.',
       head: [
         ['meta', { name: 'keywords', content: 'Web3 developer, blockchain developer, smart contract developer, Solidity developer, DeFi developer, DApp developer, Ethereum developer, crypto payment gateway, NFT developer, hire blockchain developer' }],
@@ -219,7 +219,7 @@ export default defineConfig({
         logo: '/logo.png',
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'Projects', link: '/en/#projects' },
+          { text: 'Projects', link: '/en/projects/' },
           { text: 'Blog', link: '/en/blog/' }
         ],
         socialLinks: [
