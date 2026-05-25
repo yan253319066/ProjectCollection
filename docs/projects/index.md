@@ -1,11 +1,11 @@
 ---
 title: Web3 项目作品集 - Neil Yan 区块链开发项目
-description: Neil Yan 的 Web3 项目作品集，涵盖 AI 量化交易、DeFi 理财、永续合约、混合交易所、RWA 代币化、加密支付网关、预测市场和 Blackhole 协议等 8 个 DApp。
+description: Neil Yan 的 Web3 项目作品集，展示 8 个代表性项目，涵盖 AI 量化交易、DeFi 理财、永续合约、混合交易所、RWA 代币化、加密支付网关、预测市场和 Blackhole 协议。
 ---
 
 # Web3 项目作品集
 
-Neil Yan 已成功交付 8 个 Web3 DApp 产品，涵盖 DeFi、AI 量化交易、RWA 代币化、加密支付等领域。
+Neil Yan 已服务 2,000+ 客户，以下展示 8 个代表性 Web3 DApp：
 
 - [AI Quant Robot](/projects/ai-quant-robot) — AI 驱动的 Web3 量化交易平台
 - [Crypto Earn](/projects/crypto-earn) — USDT 智能理财平台，年化 18.5%

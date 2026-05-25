@@ -1,8 +1,8 @@
-# ProjectCollection
+# Neil Yan (0xx402) - Web3 Developer Portfolio | Smart Contract & DApp Development
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-A VitePress documentation project showcasing Web3 developer Neil Yan's portfolio.
+Hire Neil Yan — a senior Web3 freelance developer specializing in smart contract development (Solidity), DeFi protocols, DApp development, and blockchain consulting. With 8+ years of experience serving 2,000+ clients, I build production-grade decentralized applications across Ethereum, Polygon, BNB Chain, Solana, and more.
 
 ## Projects
 

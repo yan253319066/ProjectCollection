@@ -1,8 +1,8 @@
-# ProjectCollection
+# Neil Yan (0xx402) - Web3 개발자 포트폴리오 | 스마트 계약 & DApp 개발
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-VitePress 문서 프로젝트. 블록체인 프리랜서 개발자 Neil Yan의 포트폴리오를 보여줍니다.
+Web3 개발자를 찾고 계신가요? Neil Yan 시니어 블록체인 프리랜서 개발자, 8년 경력, 2,000+ 고객 서비스. 스마트 계약 개발(Solidity), DeFi 프로토콜, DApp 개발, 블록체인 컨설팅 제공. Ethereum, Polygon, BNB Chain, Solana 등 지원.
 
 ## 프로젝트
 

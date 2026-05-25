@@ -77,7 +77,7 @@ export default defineConfig({
       lang: 'zh-CN',
       link: '/',
       title: 'Neil Yan - 区块链独立开发者作品集 | Web3全栈工程师',
-      description: 'Neil Yan 资深区块链独立开发者，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。已交付8个Web3产品。',
+      description: 'Neil Yan 资深区块链独立开发者，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。展示8个代表性Web3项目，服务2,000+客户。',
       head: [
         ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
@@ -97,7 +97,7 @@ export default defineConfig({
               "name": "已发布哪些 Web3 项目？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "已发布 8 个 Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、XPayLabs（自托管支付基础设施）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
+                "text": "已服务2,000+客户，展示8个代表性Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、XPayLabs（自托管支付基础设施）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
               }
             },
             {
@@ -165,7 +165,7 @@ export default defineConfig({
       lang: 'en-US',
       link: '/en/',
       title: 'Neil Yan - Web3 Developer Portfolio | Blockchain Engineer',
-      description: 'Neil Yan - Senior Web3 blockchain developer. Smart contract development, DeFi protocols, AI trading, RWA tokenization, crypto payment gateway, NFT marketplace, Blackhole Protocol. 8+ years experience, 8 DApps delivered.',
+      description: 'Neil Yan - Senior Web3 blockchain developer. Smart contract development, DeFi protocols, AI trading, RWA tokenization, crypto payment gateway, NFT marketplace, Blackhole Protocol. 8+ years experience, 2,000+ clients served.',
       head: [
         ['meta', { name: 'keywords', content: 'Web3 developer, blockchain developer, smart contract developer, Solidity developer, DeFi developer, DApp developer, Ethereum developer, crypto payment gateway, NFT developer, hire blockchain developer' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({

@@ -1,8 +1,8 @@
-# ProjectCollection
+# Neil Yan (0xx402) - Web3 開発者ポートフォリオ | スマートコントラクト & DApp 開発
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-VitePress ドキュメントプロジェクト。ブロックチェーンフリーランス開発者 Neil Yan のポートフォリオを表示します。
+Neil Yan はシニア Web3 フリーランス開発者、8 年の経験と 2,000+ の顧客をサービス。スマートコントラクト開発（Solidity）、DeFi プロトコル、DApp 開発、ブロックチェーンコンサルティングを提供。Ethereum、Polygon、BNB Chain、Solana などに対応。
 
 ## プロジェクト
 

@@ -1,8 +1,8 @@
-# ProjectCollection
+# Neil Yan (0xx402) - Web3 开发者作品集 | 智能合约 & DApp 开发
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-VitePress 文档项目，展示区块链独立开发者 Neil Yan 的作品集。
+找 Web3 开发者？Neil Yan 资深区块链独立开发者，8 年经验，已服务 2,000+ 客户。提供智能合约开发（Solidity）、DeFi 协议开发、DApp 全栈开发、区块链开发外包服务。部署在 Ethereum、Polygon、BNB Chain、Solana 等多条公链。
 
 ## 项目
 

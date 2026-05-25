@@ -7,7 +7,7 @@ description: Neil Yan - Senior Web3 blockchain developer with 8+ years of experi
 hero:
   name: "Web3 Developer"
   text: "Blockchain Freelance Developer"
-  tagline: "Senior Web3 Blockchain Developer · 8 DApps Delivered · 100,000+ On-Chain Transactions"
+  tagline: "Senior Web3 Blockchain Developer · 8 Showcase DApps · 100,000+ On-Chain Transactions · 2,000+ Clients"
   actions:
     - theme: brand
       text: View Projects
@@ -42,11 +42,11 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## Neil Yan Portfolio {#about}
 
-**0xx402** is my Web3 developer portfolio showcasing all my blockchain projects.
+**0xx402** is my Web3 developer portfolio showcasing my representative blockchain projects.
 
 Hi, I'm **Neil Yan** — a **Senior Web3 & Blockchain Developer** with a proven track record of building production-grade decentralized applications. Looking to **hire a Web3 developer**? I offer smart contract development, DeFi protocol development, and full-stack DApp development services.
 
-Since **2018**, I've taken **8** Web3 DApp products from concept to launch, spanning **AI trading systems**, **DeFi wealth management platforms**, **perpetual trading engines**, **hybrid exchanges**, **RWA tokenization**, **crypto payment gateways**, **decentralized prediction markets**, and **Blackhole Protocol**. My smart contracts have processed **100,000+** on-chain transactions, serving **2,000+** clients worldwide.
+Since **2018**, I've served **2,000+** clients worldwide and processed **100,000+** on-chain transactions. Below are **8 representative DApp projects** I've built, spanning **AI trading systems**, **DeFi wealth management platforms**, **perpetual trading engines**, **hybrid exchanges**, **RWA tokenization**, **crypto payment gateways**, **decentralized prediction markets**, and **Blackhole Protocol**.
 
 My philosophy: **Turn your Web3 ideas into reliable, secure products with clean, audited code.**
 

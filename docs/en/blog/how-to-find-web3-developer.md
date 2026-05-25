@@ -41,7 +41,7 @@ Looking to **hire a Web3 developer** but don't know where to start? This guide w
 
 ### 4. Hire Me Directly
 
-I'm **Neil Yan**, a Web3 freelance developer with 8 years of experience. I've delivered 8 DApps, served 2,000+ clients, and support 15+ blockchains. Contact me on [Telegram](https://t.me/OS_Blockchain) for a quick conversation.
+I'm **Neil Yan**, a Web3 freelance developer with 8 years of experience. I've served 2,000+ clients and support 15+ blockchains. Contact me on [Telegram](https://t.me/OS_Blockchain) for a quick conversation.
 
 ## How to Evaluate a Web3 Developer
 
@@ -109,7 +109,7 @@ Finding the right **Web3 developer for hire** takes effort, but getting it right
 
 **Looking for a Web3 developer? I'm available for hire.**
 
-I'm **Neil Yan**, a senior Web3 and blockchain developer with 8 years of experience. I've built 8 DApps from concept to launch, supporting 15+ blockchains and processing 100,000+ on-chain transactions.
+I'm **Neil Yan**, a senior Web3 and blockchain developer with 8 years of experience. I've served 2,000+ clients, supporting 15+ blockchains and processing 100,000+ on-chain transactions.
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)

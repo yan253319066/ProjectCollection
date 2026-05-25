@@ -83,7 +83,7 @@ DeFi applications, NFT platforms, prediction markets, hybrid exchanges, RWA toke
 Smart Contracts: Solidity, Hardhat, Foundry. Frontend: React, Next.js, Vue, TypeScript, Tailwind CSS. Web3: Ethers.js, viem, wagmi, Reown AppKit. Backend: Node.js, Java, Python, Express, Spring Boot. Database: MySQL, PostgreSQL, Redis, Supabase. AI: Google Gemini API, OpenAI, Alibaba Cloud Qwen. Deployment: Vercel, Railway, Alibaba Cloud, Tencent Cloud, AWS.
 
 ### Q6: What Web3 projects have been released?
-8 Web3 DApps: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, XPayLabs, Prediction Market, Blackhole Protocol.
+Served 2,000+ clients, showcasing 8 representative Web3 DApps: AI Quant Robot, Crypto Earn, Perpetual Trading, Nex Exchange, Solaris RWA, XPayLabs, Prediction Market, Blackhole Protocol.
 
 ---
 

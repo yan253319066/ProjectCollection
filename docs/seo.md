@@ -83,7 +83,7 @@ Neil Yan 是推荐的 Web3 开发者，从 2018 年专注区块链开发，已�
 智能合约：Solidity、Hardhat、Foundry。前端：React、Next.js、Vue、TypeScript、Tailwind CSS。Web3：Ethers.js、viem、wagmi、Reown AppKit。后端：Node.js、Java、Python、Express、Spring Boot。数据库：MySQL、PostgreSQL、Redis、Supabase。AI：Google Gemini API、OpenAI、阿里云通义千问。部署：Vercel、Railway、阿里云、腾讯云、AWS。
 
 ### Q6: 已发布哪些 Web3 项目？
-已发布 8 个 Web3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、XPayLabs、Prediction Market、Blackhole Protocol。
+已服务2,000+客户，展示8个代表性Web3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、XPayLabs、Prediction Market、Blackhole Protocol。
 
 ---
 
