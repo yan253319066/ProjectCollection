@@ -1,6 +1,6 @@
 ---
 title: 开发一个 DApp 需要多少钱？2026 年 Web3 开发完整预算指南
-date: 2026-05-25
+date: 2026-03-01
 author: Neil Yan
 tags: ['DApp', 'Web3开发', '开发成本', '智能合约', 'DeFi', '预算']
 description: 开发一个 Web3 DApp 要花多少钱？本文从智能合约开发、前端开发、审计部署等维度，详细拆解 DApp 开发预算，帮助你在找 Web3 开发者前做好预算规划。
@@ -8,7 +8,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"开发一个 DApp 需要多少钱？2026 年 Web3 开发完整预算指南","description":"开发一个 Web3 DApp 要花多少钱？本文详细拆解 DApp 开发预算，从智能合约到前端部署。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-25","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/dapp-development-cost.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"开发一个 DApp 需要多少钱？2026 年 Web3 开发完整预算指南","description":"开发一个 Web3 DApp 要花多少钱？本文详细拆解 DApp 开发预算，从智能合约到前端部署。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-03-01","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/dapp-development-cost.html"}}
 ---
 
 <BackToBlog />

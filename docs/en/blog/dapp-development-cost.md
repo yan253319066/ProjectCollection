@@ -1,6 +1,6 @@
 ---
 title: How Much Does It Cost to Build a DApp? 2026 Web3 Development Budget Guide
-date: 2026-05-25
+date: 2026-03-01
 author: Neil Yan
 tags: ['DApp', 'Web3 Development', 'Development Cost', 'Smart Contract', 'DeFi', 'Budget']
 description: How much does it cost to build a Web3 DApp? This guide breaks down DApp development costs from smart contracts to frontend, helping you budget before hiring a Web3 developer.
@@ -8,7 +8,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"How Much Does It Cost to Build a DApp? 2026 Web3 Development Budget Guide","description":"How much does it cost to build a Web3 DApp? Complete budget breakdown covering smart contracts, frontend, audit, and deployment.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-25","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/dapp-development-cost.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"How Much Does It Cost to Build a DApp? 2026 Web3 Development Budget Guide","description":"How much does it cost to build a Web3 DApp? Complete budget breakdown covering smart contracts, frontend, audit, and deployment.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-03-01","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/dapp-development-cost.html"}}
 ---
 
 <BackToBlog />

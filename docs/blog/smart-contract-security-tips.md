@@ -1,6 +1,6 @@
 ---
 title: 智能合约安全开发最佳实践
-date: 2026-05-10
+date: 2020-03-15
 author: Neil Yan
 tags: ['Solidity', '安全', '智能合约', '开发']
 description: 从 8 年 Web3 开发经验中总结的智能合约安全要点，包括重入攻击防护、权限管理、预言机安全等关键实践。
@@ -8,7 +8,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"智能合约安全开发最佳实践","description":"从 8 年 Web3 开发经验中总结的智能合约安全要点。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/smart-contract-security-tips.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"智能合约安全开发最佳实践","description":"从 8 年 Web3 开发经验中总结的智能合约安全要点。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2020-03-15","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/smart-contract-security-tips.html"}}
 ---
 
 <BackToBlog />

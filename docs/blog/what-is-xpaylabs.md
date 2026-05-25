@@ -1,6 +1,6 @@
 ---
 title: XPayLabs 是什么？自托管加密支付网关完全解读
-date: 2026-05-23
+date: 2025-11-08
 author: Neil Yan
 tags: ['XPayLabs', '支付网关', '加密货币', '自托管', 'USDT', 'TRON', 'Ethereum', 'BNB Chain', 'Polygon', 'Arbitrum', 'Base', 'SUI']
 description: XPayLabs 是一个自托管、非托管的加密支付基础设施。支持 TRON、Ethereum、BNB Chain、Polygon、Arbitrum、Optimism、Base、Avalanche、SUI 等 20+ 条区块链，零网关手续费，企业级安全。
@@ -8,7 +8,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"XPayLabs 是什么？自托管加密支付网关完全解读","description":"XPayLabs 是一个自托管、非托管的加密支付基础设施。支持 TRON、Ethereum、BNB Chain、Polygon、Arbitrum、Optimism、Base、Avalanche、SUI 等 20+ 条区块链，零网关手续费，企业级安全。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-23","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/what-is-xpaylabs.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"XPayLabs 是什么？自托管加密支付网关完全解读","description":"XPayLabs 是一个自托管、非托管的加密支付基础设施。支持 TRON、Ethereum、BNB Chain、Polygon、Arbitrum、Optimism、Base、Avalanche、SUI 等 20+ 条区块链，零网关手续费，企业级安全。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2025-11-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/what-is-xpaylabs.html"}}
 ---
 
 <BackToBlog />

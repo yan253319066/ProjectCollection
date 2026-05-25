@@ -1,6 +1,6 @@
 ---
 title: What Is XPayLabs? A Complete Guide to Self-Hosted Crypto Payments
-date: 2026-05-23
+date: 2025-11-08
 author: Neil Yan
 tags: ['XPayLabs', 'Payment Gateway', 'Cryptocurrency', 'Self-Hosted', 'USDT', 'TRON', 'Ethereum', 'BNB Chain', 'Polygon', 'Arbitrum', 'Base', 'SUI']
 description: XPayLabs is a self-hosted, non-custodial crypto payment infrastructure supporting TRON, Ethereum, BNB Chain, Polygon, Arbitrum, Optimism, Base, Avalanche, SUI, and 20+ blockchains. Zero gateway fees, enterprise-grade security.
@@ -8,7 +8,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"What Is XPayLabs? A Complete Guide to Self-Hosted Crypto Payments","description":"XPayLabs is a self-hosted, non-custodial crypto payment infrastructure supporting TRON, Ethereum, BNB Chain, Polygon, Arbitrum, Optimism, Base, Avalanche, SUI, and 20+ blockchains. Zero gateway fees, enterprise-grade security.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-23","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/what-is-xpaylabs.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"What Is XPayLabs? A Complete Guide to Self-Hosted Crypto Payments","description":"XPayLabs is a self-hosted, non-custodial crypto payment infrastructure supporting TRON, Ethereum, BNB Chain, Polygon, Arbitrum, Optimism, Base, Avalanche, SUI, and 20+ blockchains. Zero gateway fees, enterprise-grade security.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2025-11-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/what-is-xpaylabs.html"}}
 ---
 
 <BackToBlog />

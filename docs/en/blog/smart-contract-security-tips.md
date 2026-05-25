@@ -1,6 +1,6 @@
 ---
 title: Smart Contract Security Best Practices
-date: 2026-05-10
+date: 2020-03-15
 author: Neil Yan
 tags: ['Solidity', 'Security', 'Smart Contract', 'Development']
 description: Smart contract security essentials from 8+ years of Web3 development experience, covering reentrancy protection, access control, oracle security, and more.
@@ -8,7 +8,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"Smart Contract Security Best Practices","description":"Smart contract security essentials from 8+ years of Web3 development experience.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/smart-contract-security-tips.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Smart Contract Security Best Practices","description":"Smart contract security essentials from 8+ years of Web3 development experience.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2020-03-15","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/smart-contract-security-tips.html"}}
 ---
 
 <BackToBlog />
