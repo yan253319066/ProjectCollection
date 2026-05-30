@@ -1,5 +1,5 @@
 # https://www.0xx402.com/ robots.txt
-# Web3 Developer Portfolio - 区块链开发者作品集
+# Neil Yan - Portfolio
 
 User-agent: *
 Allow: /
