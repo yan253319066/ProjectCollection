@@ -8,5 +8,8 @@
     "vitepress": "^1.6.4",
     "vitepress-plugin-llms": "^1.12.1",
     "vue": "^3.5.32"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
   }
 }
