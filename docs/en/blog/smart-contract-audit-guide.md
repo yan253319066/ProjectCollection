@@ -1,6 +1,7 @@
 ---
 title: "Smart Contract Audit Guide: Process, Costs, and Common Vulnerabilities"
 date: 2023-04-05
+updated: 2026-06-13
 author: Neil Yan
 tags: ['Smart Contract', 'Audit', 'Security', 'Solidity', 'DeFi', 'Vulnerability']
 description: Complete smart contract audit guide covering the audit process, cost estimates, 10 most common smart contract vulnerability types, and how to choose an audit firm.
@@ -109,3 +110,7 @@ Rendering critical functions inoperable.
 Security is an ongoing process. Stay updated with the latest vulnerability reports and best practices.
 
 Need **smart contract audit or development services**? I'm Neil Yan, 8+ years of Web3 experience. Contact me on [Telegram](https://t.me/OS_Blockchain).
+
+---
+
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

@@ -1,6 +1,7 @@
 ---
 title: NFT 市场开发指南：从智能合约到前端部署
 date: 2021-06-20
+updated: 2026-06-13
 author: Neil Yan
 tags: ['NFT', '市场', '智能合约', 'ERC721', 'Solidity', 'Web3开发']
 description: 完整的 NFT 市场开发指南，涵盖 ERC721 合约编写、元数据存储、铸币功能、交易市场合约和前端集成，以及常见安全陷阱和成本预算。
@@ -107,3 +108,7 @@ NFT 市场的开发涉及智能合约编写、去中心化存储、前端集成�
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

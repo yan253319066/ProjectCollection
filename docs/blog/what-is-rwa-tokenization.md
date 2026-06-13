@@ -1,6 +1,7 @@
 ---
 title: RWA 代币化是什么？现实世界资产上链完整解读
 date: 2024-09-18
+updated: 2026-06-13
 author: Neil Yan
 tags: ['RWA', '代币化', '现实世界资产', 'DeFi', '区块链', '可再生能源']
 description: RWA 代币化是将现实世界资产（如房地产、可再生能源、大宗商品）转化为区块链代币的过程。本文深入解读 RWA 代币化的原理、优势和实际应用案例。
@@ -95,3 +96,7 @@ RWA 代币化正在将传统金融和区块链世界连接起来。对于 Web3 �
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **查看项目**: [Solaris RWA](https://rwa.0xx402.com)
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

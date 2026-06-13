@@ -1,6 +1,7 @@
 ---
 title: Smart Contract Security Best Practices
 date: 2020-03-15
+updated: 2026-06-13
 author: Neil Yan
 tags: ['Solidity', 'Security', 'Smart Contract', 'Development']
 description: Smart contract security essentials from 8+ years of Web3 development experience, covering reentrancy protection, access control, oracle security, and more.
@@ -60,3 +61,7 @@ Use decentralized oracles like Chainlink and implement:
 - Hire third-party auditors for professional review
 
 Security is an ongoing process. Stay updated with the latest vulnerability reports and best practices.
+
+---
+
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

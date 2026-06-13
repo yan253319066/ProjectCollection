@@ -1,6 +1,7 @@
 ---
 title: "What Is RWA Tokenization? Real-World Assets on the Blockchain"
 date: 2024-09-18
+updated: 2026-06-13
 author: Neil Yan
 tags: ['RWA', 'Tokenization', 'Real World Assets', 'DeFi', 'Blockchain', 'Renewable Energy']
 description: RWA tokenization converts real-world assets like real estate, renewable energy, and commodities into blockchain tokens. A complete guide to how it works, benefits, and use cases.
@@ -66,3 +67,7 @@ Corporate and government bond tokenization improves market efficiency and access
 - **Oracle dependency** — Reliable off-chain data feeds needed
 
 I built **Solaris RWA** for renewable energy tokenization. Interested in **RWA tokenization development**? Contact me on [Telegram](https://t.me/OS_Blockchain) or visit [Solaris RWA](https://rwa.0xx402.com).
+
+---
+
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

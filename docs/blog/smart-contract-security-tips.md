@@ -1,6 +1,7 @@
 ---
 title: 智能合约安全开发最佳实践
 date: 2020-03-15
+updated: 2026-06-13
 author: Neil Yan
 tags: ['Solidity', '安全', '智能合约', '开发']
 description: 从 8 年 Web3 开发经验中总结的智能合约安全要点，包括重入攻击防护、权限管理、预言机安全等关键实践。
@@ -60,3 +61,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 - 聘请第三方审计公司进行专业审计
 
 安全开发是一个持续的过程。保持学习，关注最新的漏洞报告和安全最佳实践。
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

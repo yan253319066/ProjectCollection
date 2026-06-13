@@ -6,7 +6,7 @@ description: Neil Yan - Senior Web3 blockchain developer with 8+ years of experi
 
 hero:
   name: "Web3 Developer"
-  text: "Blockchain Project Founder"
+  text: "Founder of XPayLabs & GetCiteFlow"
   tagline: "Senior Web3 Blockchain Developer · 8 Showcase DApps · 100,000+ On-Chain Transactions · 2,000+ Clients"
   actions:
     - theme: brand

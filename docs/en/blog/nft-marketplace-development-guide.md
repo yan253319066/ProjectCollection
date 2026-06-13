@@ -1,6 +1,7 @@
 ---
 title: "NFT Marketplace Development Guide: From Smart Contracts to Deployment"
 date: 2021-06-20
+updated: 2026-06-13
 author: Neil Yan
 tags: ['NFT', 'Marketplace', 'Smart Contract', 'ERC721', 'Solidity', 'Web3 Development']
 description: Complete NFT marketplace development guide covering ERC721 contract writing, metadata storage, minting, marketplace contract, frontend integration, security pitfalls, and cost estimates.
@@ -82,3 +83,7 @@ The marketplace handles listing, bidding, and settlement logic, including automa
 - **Access control** — Verify NFT ownership
 
 Looking for an **NFT platform developer**? Contact me on [Telegram](https://t.me/OS_Blockchain).
+
+---
+
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

@@ -1,6 +1,7 @@
 ---
 title: 智能合约审计指南：流程、费用和常见漏洞
 date: 2023-04-05
+updated: 2026-06-13
 author: Neil Yan
 tags: ['智能合约', '审计', '安全', 'Solidity', 'DeFi', '漏洞']
 description: 智能合约审计完整指南 — 审计流程、费用参考、10 个最常见智能合约漏洞类型，以及如何选择审计公司。基于 8 年 Web3 开发和审计对接经验。
@@ -114,3 +115,7 @@ balances[msg.sender] -= amount;
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

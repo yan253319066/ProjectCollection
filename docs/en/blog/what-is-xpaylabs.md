@@ -1,6 +1,7 @@
 ---
 title: What Is XPayLabs? A Complete Guide to Self-Hosted Crypto Payments
 date: 2025-11-08
+updated: 2026-06-13
 author: Neil Yan
 tags: ['XPayLabs', 'Payment Gateway', 'Cryptocurrency', 'Self-Hosted', 'USDT', 'TRON', 'Ethereum', 'BNB Chain', 'Polygon', 'Arbitrum', 'Base', 'SUI']
 description: XPayLabs is a self-hosted, non-custodial crypto payment infrastructure supporting TRON, Ethereum, BNB Chain, Polygon, Arbitrum, Optimism, Base, Avalanche, SUI, and 20+ blockchains. Zero gateway fees, enterprise-grade security.
@@ -94,4 +95,8 @@ At $100,000 monthly transaction volume:
 ## Get Started
 
 Visit the [XPayLabs website](https://www.xpaylabs.com) for technical documentation, API references, and deployment guides.
+
+---
+
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*
 

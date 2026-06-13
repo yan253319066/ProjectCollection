@@ -1,6 +1,7 @@
 ---
 title: 开发一个 DApp 需要多少钱？2026 年 Web3 开发完整预算指南
 date: 2026-03-01
+updated: 2026-06-13
 author: Neil Yan
 tags: ['DApp', 'Web3开发', '开发成本', '智能合约', 'DeFi', '预算']
 description: 开发一个 Web3 DApp 要花多少钱？本文从智能合约开发、前端开发、审计部署等维度，详细拆解 DApp 开发预算，帮助你在找 Web3 开发者前做好预算规划。
@@ -105,4 +106,8 @@ DApp 不是一次性的项目。链上协议需要持续监控、升级和维护
 
 开发一个 DApp 的成本从几千到几万美元不等，取决于功能复杂度、链的数量、安全要求和团队选择。关键是**先明确产品需求，再匹配合适的开发资源**。
 
-我作为 Web3 项目创始人，已服务 2,000+ 客户，累计处理 100,000+ 笔链上交易。如果你正在找 Web3 开发者，欢迎通过 [Telegram](https://t.me/OS_Blockchain) 或 [Email](mailto:yanning-1987@outlook.com) 联系我，免费评估你的项目需求。
+我作为 XPayLabs 与 GetCiteFlow 创始人，已服务 2,000+ 客户，累计处理 100,000+ 笔链上交易。如果你正在找 Web3 开发者，欢迎通过 [Telegram](https://t.me/OS_Blockchain) 或 [Email](mailto:yanning-1987@outlook.com) 联系我，免费评估你的项目需求。
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

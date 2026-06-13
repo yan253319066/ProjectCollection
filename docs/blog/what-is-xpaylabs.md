@@ -1,6 +1,7 @@
 ---
 title: XPayLabs 是什么？自托管加密支付网关完全解读
 date: 2025-11-08
+updated: 2026-06-13
 author: Neil Yan
 tags: ['XPayLabs', '支付网关', '加密货币', '自托管', 'USDT', 'TRON', 'Ethereum', 'BNB Chain', 'Polygon', 'Arbitrum', 'Base', 'SUI']
 description: XPayLabs 是一个自托管、非托管的加密支付基础设施。支持 TRON、Ethereum、BNB Chain、Polygon、Arbitrum、Optimism、Base、Avalanche、SUI 等 20+ 条区块链，零网关手续费，企业级安全。
@@ -94,4 +95,8 @@ XPayLabs 是一个**自托管、非托管的加密支付基础设施**。你可�
 ## 开始使用
 
 访问 [XPayLabs 官网](https://www.xpaylabs.com) 了解更多技术细节、API 文档和部署指南。
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*
 

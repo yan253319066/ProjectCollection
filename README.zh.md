@@ -2,7 +2,7 @@
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-找 Web3 开发者？Neil Yan 资深区块链项目创始人，8 年经验，已服务 2,000+ 客户。提供智能合约开发（Solidity）、DeFi 协议开发、DApp 全栈开发、区块链开发外包服务。部署在 Ethereum、Polygon、BNB Chain、Solana 等多条公链。
+找 Web3 开发者？Neil Yan — XPayLabs & GetCiteFlow 创始人，8 年经验，已服务 2,000+ 客户。提供智能合约开发（Solidity）、DeFi 协议开发、DApp 全栈开发、区块链开发外包服务。部署在 Ethereum、Polygon、BNB Chain、Solana 等多条公链。
 
 ## 项目
 
@@ -19,7 +19,7 @@
 
 ## 关于 Neil Yan
 
-自 2018 年起专注于区块链和 Web3 领域的项目创始人。专长：
+XPayLabs 与 GetCiteFlow 创始人，自 2018 年起深耕 Web3 领域。专长：
 
 - 智能合约开发 (Solidity, Vyper, Hardhat, Foundry)
 - 前端开发 (React, Next.js, Vue)

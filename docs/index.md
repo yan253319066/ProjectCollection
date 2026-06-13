@@ -1,12 +1,12 @@
 ---
 layout: home
 
-title: Neil Yan - 资深区块链开发者 | Web3全栈开发 | 智能合约工程师
-description: Neil Yan 资深区块链项目创始人，8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务。已服务2,000+客户，展示8个代表性Web3项目，处理100,000+笔链上交易。
+title: Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 全栈开发
+description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务。已服务2,000+客户，展示8个代表性Web3项目，处理100,000+笔链上交易。
 
 hero:
   name: "Web3 Developer"
-  text: "区块链项目创始人"
+  text: "XPayLabs 创始人 · GetCiteFlow 创始人"
   tagline: "资深 Web3 区块链开发工程师 · 8 个代表性 DApp · 100,000+ 笔链上交易 · 2,000+ 客户"
   actions:
     - theme: brand
@@ -43,9 +43,9 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 ## Neil Yan 作品集 {#about}
 
-**0xx402** 是我的 Web3 开发者作品集，展示了我作为区块链项目创始人的代表性项目。
+**0xx402** 是我的 Web3 开发者作品集，展示了我作为 XPayLabs 与 GetCiteFlow 创始人的代表性项目。
 
-嗨，我是 **Neil Yan**，一位专注于 **Web3 区块链开发**的资深全栈工程师与项目创始人。正在找 **Web3 开发者**？我提供智能合约开发、DeFi 协议、DApp 全栈开发外包服务。
+嗨，我是 **Neil Yan**，**XPayLabs 与 GetCiteFlow 创始人**，资深 Web3 全栈工程师。正在找 **Web3 开发者**？我提供智能合约开发、DeFi 协议、DApp 全栈开发外包服务。
 
 自 **2018 年**投身区块链行业以来，我已服务海内外客户 **2,000+** 名，处理 **100,000+** 笔链上交易。以下展示我的 **8 个代表性 Web3 DApp 项目**，覆盖 **AI 量化交易系统**、**DeFi 加密理财平台**、**永续合约交易系统**、**混合交易所**、**RWA 代币化**、**加密货币支付网关**、**去中心化预测市场**和**Blackhole协议**等领域。
 

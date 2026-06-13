@@ -1,6 +1,7 @@
 ---
 title: 多链 DApp 开发指南：一次部署 15+ 条公链的实战经验
 date: 2022-08-10
+updated: 2026-06-13
 author: Neil Yan
 tags: ['多链', '跨链', 'DApp', 'Ethereum', 'Polygon', 'Arbitrum', '智能合约']
 description: 多链 DApp 开发实战指南，覆盖合约适配、跨链桥接、链上交互差异、Gas 策略和部署流程。基于 15+ 条公链的实际部署经验总结。
@@ -103,3 +104,7 @@ const chains = [mainnet, polygon, arbitrum, optimism, base] as const
 4. **用户体验优先** — 自动化链切换，不要让用户手动操作
 
 我支持 15+ 条公链的开发。如果需要多链 DApp 开发服务，欢迎通过 [Telegram](https://t.me/OS_Blockchain) 联系我。
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

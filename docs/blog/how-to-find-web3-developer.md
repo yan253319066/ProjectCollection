@@ -1,6 +1,7 @@
 ---
 title: 如何找 Web3 开发者？2026 年完整指南（附避坑建议）
 date: 2026-05-25
+updated: 2026-06-13
 author: Neil Yan
 tags: ['Web3开发', '找开发者', '区块链开发外包', '智能合约', '项目预算']
 description: 想找 Web3 开发者但不知道从哪里开始？本文详细介绍如何找到合适的区块链开发者，包括招聘渠道、评估标准、避坑指南和真实预算参考。
@@ -41,7 +42,7 @@ head:
 
 ### 4. 直接找我这样的项目创始人
 
-**找项目创始人的优势**：沟通直接、成本可控、交付灵活。我（Neil Yan）已服务 2,000+ 客户，支持 15+ 条公链。通过 [Telegram](https://t.me/OS_Blockchain) 可以快速沟通。
+**找项目创始人的优势**：沟通直接、成本可控、交付灵活。我（Neil Yan，XPayLabs & GetCiteFlow 创始人）已服务 2,000+ 客户，支持 15+ 条公链。通过 [Telegram](https://t.me/OS_Blockchain) 可以快速沟通。
 
 ## 如何评估一个 Web3 开发者？
 
@@ -118,3 +119,7 @@ head:
 - **Email**: yanning-1987@outlook.com
 
 Telegram 回复最快，欢迎联系免费评估项目需求。
+
+---
+
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

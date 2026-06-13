@@ -1,6 +1,7 @@
 ---
 title: "Multi-Chain DApp Development Guide: Deploying Across 15+ Blockchains"
 date: 2022-08-10
+updated: 2026-06-13
 author: Neil Yan
 tags: ['Multi-Chain', 'Cross-Chain', 'DApp', 'Ethereum', 'Polygon', 'Arbitrum', 'Smart Contract']
 description: Multi-chain DApp development guide covering contract adaptation, cross-chain bridges, chain-specific differences, gas strategies, and deployment workflows based on 15+ chain deployment experience.
@@ -78,3 +79,7 @@ const chains = [mainnet, polygon, arbitrum, optimism, base] as const
 | Solana | $0.0001-$0.001 | Micro-payments |
 
 I support 15+ blockchain networks. Need a **multi-chain DApp developer**? Contact me on [Telegram](https://t.me/OS_Blockchain).
+
+---
+
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

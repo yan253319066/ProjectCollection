@@ -1,6 +1,7 @@
 ---
 title: How Much Does It Cost to Build a DApp? 2026 Web3 Development Budget Guide
 date: 2026-03-01
+updated: 2026-06-13
 author: Neil Yan
 tags: ['DApp', 'Web3 Development', 'Development Cost', 'Smart Contract', 'DeFi', 'Budget']
 description: How much does it cost to build a Web3 DApp? This guide breaks down DApp development costs from smart contracts to frontend, helping you budget before hiring a Web3 developer.
@@ -105,8 +106,12 @@ DApps aren't one-and-done. Smart contracts need monitoring, upgrades, and mainte
 
 DApp development costs range from a few thousand to tens of thousands of dollars, depending on complexity, chains, security needs, and team choice. **Define your requirements first, then find the right developer**.
 
-I'm **Neil Yan**, a Web3 project founder with 8 years of experience, having served 2,000+ clients. If you're looking for a **Web3 developer for hire**, reach out for a free project assessment:
+I'm **Neil Yan**, founder of XPayLabs & GetCiteFlow, with 8 years of experience, having served 2,000+ clients. If you're looking for a **Web3 developer for hire**, reach out for a free project assessment:
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Email**: yanning-1987@outlook.com
+
+---
+
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*
