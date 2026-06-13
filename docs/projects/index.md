@@ -5,7 +5,7 @@ description: Neil Yan 的 Web3 项目作品集，展示 9 个代表性项目，�
 
 # Web3 项目作品集
 
-Neil Yan 已服务 2,000+ 客户，以下展示 9 个代表性 Web3 项目：
+Neil Yan 已服务 2,000+ 平台用户，以下展示 9 个代表性 Web3 项目：
 
 - [GetCiteFlow](/projects/getciteflow) — GEO 平台，提升 AI 搜索引擎可见性
 - [AI Quant Robot](/projects/ai-quant-robot) — AI 驱动的 Web3 量化交易平台

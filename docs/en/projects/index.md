@@ -5,7 +5,7 @@ description: Neil Yan's Web3 project portfolio featuring 9 representative projec
 
 # Web3 Project Portfolio
 
-Neil Yan has served 2,000+ clients. Below are 9 representative Web3 projects:
+Neil Yan has served 2,000+ platform users. Below are 9 representative Web3 projects:
 
 - [GetCiteFlow](/en/projects/getciteflow) — GEO platform, improve AI search visibility
 - [AI Quant Robot](/en/projects/ai-quant-robot) — AI-powered Web3 quantitative trading platform

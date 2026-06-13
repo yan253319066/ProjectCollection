@@ -7,7 +7,7 @@ description: Neil Yan - Founder of XPayLabs & GetCiteFlow. 8+ years in Web3 and 
 hero:
   name: "Founder & Developer"
   text: "Founder of XPayLabs & GetCiteFlow"
-  tagline: "GEO Optimization + Web3 Full-Stack Development · 9 Showcase Projects · 100,000+ On-Chain Transactions · 2,000+ Clients"
+  tagline: "GEO Optimization + Web3 Full-Stack Development · 9 Showcase Projects · 100,000+ On-Chain Transactions · 2,000+ Platform Users"
   actions:
     - theme: brand
       text: View Projects
@@ -48,7 +48,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 Hi, I'm **Neil Yan** — **Founder of XPayLabs & GetCiteFlow**.
 
-Since **2018**, I've served **2,000+** clients worldwide and processed **100,000+** on-chain transactions. Below are **9 representative projects**:
+Since **2018**, I've served **2,000+** platform users worldwide and processed **100,000+** on-chain transactions. Below are **9 representative projects**:
 
 - 🌐 **GEO Optimization** — [GetCiteFlow](/en/projects/getciteflow): Get your site cited by ChatGPT, Claude, Perplexity, Gemini & more
 - 🤖 **AI Trading System** — [AI Quant Robot](/en/projects/ai-quant-robot): Multi-chain auto arbitrage

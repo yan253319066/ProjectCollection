@@ -125,4 +125,4 @@ GEOはSEOの代替ではなく、AI検索時代に不可欠な補完です。あ
 
 ---
 
-*著者：Neil Yan — XPayLabs と GetCiteFlow 創業者。8年のWeb3とブロックチェーン開発経験。現在はWebサイトのAI検索エンジン可視性向上に取り組んでいます。*
+*著者：Neil Yan — XPayLabs と GetCiteFlow 創業者。8年のWeb3とブロックチェーン開発経験。AIアプリケーションとGEO最適化を専門としています。*

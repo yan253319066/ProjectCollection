@@ -108,4 +108,4 @@ Google 的 AI 搜索优化指南是一份有价值的参考，但它只代表了
 
 ---
 
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，现致力于帮助网站提升 AI 搜索引擎可见性。*
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与 GEO 优化领域。*

@@ -100,4 +100,4 @@ Google Rich Results Test, Schema.org Validator, GetCiteFlow로 구현 효과를 
 
 ---
 
-*저자: Neil Yan — XPayLabs와 GetCiteFlow 창업자. 8년의 Web3 및 블록체인 개발 경험. 현재 웹사이트의 AI 검색 엔진 가시성 향상에 주력하고 있습니다.*
+*저자: Neil Yan — XPayLabs와 GetCiteFlow 창업자. 8년의 Web3 및 블록체인 개발 경험. AI 애플리케이션 및 GEO 최적화를 전문으로 합니다.*

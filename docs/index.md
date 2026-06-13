@@ -2,12 +2,12 @@
 layout: home
 
 title: Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 全栈开发
-description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务，同时提供 GEO（Generative Engine Optimization）优化，帮助网站被 ChatGPT、Claude、Perplexity 等 AI 搜索引擎引用。已服务2,000+客户，展示9个代表性项目，处理100,000+笔链上交易。
+description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务，同时提供 GEO（Generative Engine Optimization）优化，帮助网站被 ChatGPT、Claude、Perplexity 等 AI 搜索引擎引用。已服务2,000+平台用户，展示9个代表性项目，处理100,000+笔链上交易。
 
 hero:
   name: "Founder & Developer"
   text: "XPayLabs 创始人 · GetCiteFlow 创始人"
-  tagline: "GEO 优化 + Web3 全栈开发 · 9 个代表性项目 · 100,000+ 笔链上交易 · 2,000+ 客户"
+  tagline: "GEO 优化 + Web3 全栈开发 · 9 个代表性项目 · 100,000+ 笔链上交易 · 2,000+ 平台用户"
   actions:
     - theme: brand
       text: 查看项目
@@ -49,7 +49,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 嗨，我是 **Neil Yan**，**XPayLabs 与 GetCiteFlow 创始人**。
 
-自 **2018 年**投身区块链行业以来，我已服务海内外客户 **2,000+** 名，处理 **100,000+** 笔链上交易。以下展示我的 **9 个代表性项目**：
+自 **2018 年**投身区块链行业以来，已服务海内外 **2,000+** 名平台用户，处理 **100,000+** 笔链上交易。以下展示我的 **9 个代表性项目**：
 
 - 🌐 **GEO 优化** — [GetCiteFlow](/projects/getciteflow)：帮助网站被 ChatGPT、Claude、Perplexity、Gemini 等 AI 搜索引擎引用
 - 🤖 **AI 量化交易系统** — AI Quant Robot：多链自动套利
@@ -92,9 +92,9 @@ import ProjectGrid from './components/ProjectGrid.vue'
 | 已发布 Web3 产品 | 9 个 |
 | 支持公链数量 | 15+ 条（EVM 全链支持） |
 | 智能合约累计处理 | 100,000+ 笔交易 |
-| 服务客户数量 | 2,000+ |
+| 服务平台用户数量 | 2,000+ |
 
-**客户评价**
+**用户评价**
 
 > "Neil 帮我开发了 DeFi 借贷协议，合约代码干净、安全，审计一次通过。响应速度快，沟通无障碍，强力推荐！" — DeFi 项目方
 

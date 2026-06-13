@@ -7,7 +7,7 @@ description: Neil Yan - シニアWeb3ブロックチェーン開発者。スマ�
 hero:
   name: "Founder & Developer"
   text: "XPayLabs と GetCiteFlow 創業者"
-  tagline: "GEO最適化 + Web3フルスタック開発 · 9つの代表プロジェクト · 100,000+オンチェーン取引 · 2,000+クライアント"
+  tagline: "GEO最適化 + Web3フルスタック開発 · 9つの代表プロジェクト · 100,000+オンチェーン取引 · 2,000+プラットフォームユーザー"
   actions:
     - theme: brand
       text: プロジェクトを見る
@@ -48,7 +48,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 こんにちは、**Neil Yan**です。**XPayLabs と GetCiteFlow 創業者**です。
 
-**2018年**からブロックチェーン業界に携わり、**2,000+** 名の国内外クライアントにサービスを提供し、**100,000+** 件のオンチェーン取引を処理してきました。以下は私の **9つの代表プロジェクト**です：
+**2018年**からブロックチェーン業界に携わり、国内外 **2,000+** 名のプラットフォームユーザーにサービスを提供し、**100,000+** 件のオンチェーン取引を処理してきました。以下は私の **9つの代表プロジェクト**です：
 
 - 🌐 **GEO最適化** — [GetCiteFlow](/ja/projects/getciteflow)：ChatGPT、Claude、Perplexity、GeminiなどのAI検索エンジンにWebサイトが引用されるよう支援
 - 🤖 **AI取引** — AI Quant Robot：AI駆動のWeb3クオンツ取引、マルチチェーン自動裁定
@@ -93,7 +93,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 | リリース済みWeb3製品 | 9個 |
 | 対応チェーン数 | 15以上（EVMフルサポート） |
 | スマートコントラクト取引 | 100,000件以上 |
-| サービス提供クライアント | 2,000以上 |
+| プラットフォームユーザー数 | 2,000以上 |
 
 **お客様の声**
 

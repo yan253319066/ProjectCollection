@@ -7,7 +7,7 @@ description: Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약 
 hero:
   name: "Founder & Developer"
   text: "XPayLabs와 GetCiteFlow 창업자"
-  tagline: "GEO 최적화 + Web3 풀스택 개발 · 대표 프로젝트 9개 · 온체인 거래 100,000+ 건 · 2,000+ 고객"
+  tagline: "GEO 최적화 + Web3 풀스택 개발 · 대표 프로젝트 9개 · 온체인 거래 100,000+ 건 · 플랫폼 사용자 2,000+ 명"
   actions:
     - theme: brand
       text: 프로젝트 보기
@@ -48,7 +48,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 안녕하세요, **Neil Yan**입니다. **XPayLabs와 GetCiteFlow 창업자**입니다.
 
-**2018년**부터 블록체인 업계에 종사하며 **2,000+** 명의 국내외 클라이언트에게 서비스를 제공하고, **100,000+** 건의 온체인 거래를 처리했습니다. 아래는 **9개의 대표 프로젝트**입니다：
+**2018년**부터 블록체인 업계에 종사하며 국내외 **플랫폼 사용자 2,000+** 명에게 서비스를 제공하고, **100,000+** 건의 온체인 거래를 처리했습니다. 아래는 **9개의 대표 프로젝트**입니다：
 
 - 🌐 **GEO 최적화** — [GetCiteFlow](/ko/projects/getciteflow)：ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진이 웹사이트를 인용하도록 지원
 - 🤖 **AI 트레이딩** — AI Quant Robot：AI 기반 Web3 퀀트 트레이딩, 멀티체인 자동 차익거래
@@ -93,9 +93,9 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 | 출시된 Web3 제품 | 9개 |
 | 지원 체인 수 | 15개+ (EVM 전체 지원) |
 | 스마트 계약 거래 | 100,000건+ |
-| 서비스 제공 고객 | 2,000+ |
+| 플랫폼 사용자 수 | 2,000+ |
 
-**고객 후기**
+**사용자 후기**
 
 > "Neil님이 DeFi 대출 프로토콜을 개발해 주셨습니다. 코드가 깔끔하고 감사도 한 번에 통과했어요. 응답이 빠르고 커뮤니케이션도 원활해서 강력 추천합니다!" — DeFi 프로젝트
 

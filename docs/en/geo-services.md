@@ -100,4 +100,4 @@ Or visit [GetCiteFlow](https://www.getciteflow.ai) for a self-service scan.
 
 ---
 
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, now helping websites gain AI search engine visibility.*
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and GEO optimization.*

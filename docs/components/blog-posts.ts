@@ -58,7 +58,7 @@ export const blogPosts: BlogPost[] = [
     id: 'dapp-development-cost',
     titleZh: '开发一个 DApp 需要多少钱？2026 年 Web3 开发完整预算指南',
     titleEn: 'How Much Does It Cost to Build a DApp? 2026 Web3 Development Budget Guide',
-    date: '2026-05-25',
+    date: '2026-03-01',
     tagsZh: ['DApp', 'Web3开发', '开发成本', '智能合约', 'DeFi', '预算'],
     tagsEn: ['DApp', 'Web3 Development', 'Development Cost', 'Smart Contract', 'DeFi', 'Budget'],
     descriptionZh: '开发一个 Web3 DApp 要花多少钱？本文从智能合约开发、前端开发、审计部署等维度，详细拆解 DApp 开发预算，帮助你在找 Web3 开发者前做好预算规划。',

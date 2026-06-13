@@ -108,4 +108,4 @@ Google's AI search optimization guide is a valuable reference, but it represents
 
 ---
 
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, now helping websites gain AI search engine visibility.*
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and GEO optimization.*

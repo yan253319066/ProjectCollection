@@ -157,7 +157,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2018-2026 Web3 Developer'
+          copyright: 'Copyright © 2018-2026 Neil Yan'
         }
       }
     },
@@ -230,7 +230,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2026 Web3 Developer'
+          copyright: 'Copyright © 2018-2026 Neil Yan'
         }
       }
     },
@@ -295,7 +295,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2026 Web3 Developer'
+          copyright: 'Copyright © 2018-2026 Neil Yan'
         }
       }
     },
@@ -360,7 +360,7 @@ export default defineConfig({
         ],
         footer: {
           message: 'Released under the MIT License.',
-          copyright: 'Copyright © 2026 Web3 Developer'
+          copyright: 'Copyright © 2018-2026 Neil Yan'
         }
       }
     }

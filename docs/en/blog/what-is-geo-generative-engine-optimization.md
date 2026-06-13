@@ -125,4 +125,4 @@ GEO isn't a replacement for SEO — it's an essential complement for the AI sear
 
 ---
 
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, now helping websites gain AI search engine visibility.*
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and GEO optimization.*

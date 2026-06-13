@@ -125,4 +125,4 @@ GEO 不是 SEO 的替代品，而是 AI 搜索时代的必要补充。如果你�
 
 ---
 
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，现致力于帮助网站提升 AI 搜索引擎可见性。*
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与 GEO 优化领域。*
