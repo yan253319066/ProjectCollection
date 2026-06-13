@@ -17,9 +17,31 @@ export interface Project {
   descriptionKo: string
   url: string
   icon: string
+  detailPath?: string
 }
 
 export const projects: Project[] = [
+  {
+    id: 'getciteflow',
+    name: 'GetCiteFlow',
+    nameZh: 'GetCiteFlow',
+    nameEn: 'GetCiteFlow',
+    nameJa: 'GetCiteFlow',
+    nameKo: 'GetCiteFlow',
+    tagline: 'GEO 平台 — 让您的网站被 AI 搜索引擎引用',
+    taglineZh: 'GEO 平台 — 让您的网站被 AI 搜索引擎引用',
+    taglineEn: 'GEO Platform — Get Your Site Cited by AI Search Engines',
+    taglineJa: 'GEOプラットフォーム — AI検索エンジンにサイトを引用させる',
+    taglineKo: 'GEO 플랫폼 — AI 검색 엔진이 사이트를 인용하게 하세요',
+    description: '',
+    descriptionZh: 'GetCiteFlow 是一个 Generative Engine Optimization (GEO) 平台，帮助网站被 ChatGPT、Claude、Perplexity、Gemini 等 AI 搜索引擎引用。通过 Scan → Diagnose → Fix → Export 四步流程，检测缺失的 GEO 组件（FAQ Schema、llms.txt、结构化数据等），按影响程度排序，并支持多格式导出修复建议。核心技术栈：Next.js 15 + React 19 + Tailwind CSS 4 + shadcn/ui + Google Gemini AI。支持免费版（每小时5次报告）和企业级人工服务。',
+    descriptionEn: 'GetCiteFlow is a Generative Engine Optimization (GEO) platform that helps websites get cited by AI search engines like ChatGPT, Claude, Perplexity, and Gemini. Scan → Diagnose → Fix → Export workflow. Detects missing GEO components (FAQ Schema, llms.txt, structured data, etc.), prioritizes by impact, and exports fixes in multiple formats. Built with Next.js 15 + React 19 + Tailwind CSS 4 + shadcn/ui + Google Gemini AI.',
+    descriptionJa: 'GetCiteFlowは、ChatGPT、Claude、Perplexity、GeminiなどのAI検索エンジンにウェブサイトを引用させるためのGEOプラットフォームです。Scan→Diagnose→Fix→Exportの4ステップで、不足しているGEOコンポーネントを検出し、影響度で優先順位付け、複数形式で修正をエクスポートします。',
+    descriptionKo: 'GetCiteFlow는 ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진이 웹사이트를 인용하도록 돕는 GEO 플랫폼입니다. Scan→Diagnose→Fix→Export 4단계로 누락된 GEO 구성요소를 감지하고, 영향도별로 우선순위를 지정하며, 여러 형식으로 수정사항을 내보냅니다.',
+    url: 'https://www.getciteflow.ai',
+    icon: '🔍',
+    detailPath: '/projects/getciteflow'
+  },
   {
     id: 'ai-quant-robot',
     name: 'AI Quant Robot',

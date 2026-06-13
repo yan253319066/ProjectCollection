@@ -12,6 +12,28 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    id: 'google-ai-optimization-guide',
+    titleZh: 'Google 官方 AI 搜索优化指南解读：哪些该做，哪些是噱头？',
+    titleEn: "Google's Official AI Search Optimization Guide: What Works, What's Hype?",
+    date: '2026-06-13',
+    tagsZh: ['Google', 'AI搜索', 'SEO', 'GEO', 'AI Overviews', 'E-E-A-T', '搜索优化', 'GetCiteFlow'],
+    tagsEn: ['Google', 'AI Search', 'SEO', 'GEO', 'AI Overviews', 'E-E-A-T', 'Search Optimization', 'GetCiteFlow'],
+    descriptionZh: 'Google 正式发布了 AI 搜索优化官方指南。本文解读核心要点，分析 Google 的建议与其它 AI 平台（ChatGPT、Claude、Perplexity）的差异，并介绍如何全面覆盖所有 AI 搜索引擎的优化需求。',
+    descriptionEn: 'Google has officially released its AI search optimization guide. Breaks down key takeaways, analyzes differences between Google and other AI platforms, and covers cross-platform optimization strategies.',
+    projectId: 'getciteflow'
+  },
+  {
+    id: 'what-is-geo-generative-engine-optimization',
+    titleZh: '什么是GEO？让网站被ChatGPT、Claude、Perplexity引用的完整指南',
+    titleEn: 'What is GEO? The Complete Guide to Getting Your Website Cited by ChatGPT, Claude & Perplexity',
+    date: '2026-06-13',
+    tagsZh: ['GEO', 'Generative Engine Optimization', 'AI搜索', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI可见性', 'SEO'],
+    tagsEn: ['GEO', 'Generative Engine Optimization', 'AI Search', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI Visibility', 'SEO'],
+    descriptionZh: 'GEO（Generative Engine Optimization）是让网站被AI搜索引擎引用的关键技术。本文详解GEO原理、8大优化维度、实施步骤，以及如何用GetCiteFlow提升AI可见性。',
+    descriptionEn: 'GEO (Generative Engine Optimization) is the key to getting your website cited by AI search engines. This guide covers 8 optimization dimensions, implementation steps, and how GetCiteFlow can help.',
+    projectId: 'getciteflow'
+  },
+  {
     id: 'what-is-xpaylabs',
     titleZh: 'XPayLabs 是什么？自托管加密支付网关完全解读',
     titleEn: 'What Is XPayLabs? A Complete Guide to Self-Hosted Crypto Payments',

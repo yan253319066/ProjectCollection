@@ -2,18 +2,20 @@
 layout: home
 
 title: Neil Yan - Senior Web3 Developer | Blockchain Engineer | Smart Contract Expert
-description: Neil Yan - Senior Web3 blockchain developer with 8+ years of experience. Smart contract development (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT marketplace, Blackhole Protocol development. 8 Web3 products delivered, 100,000+ on-chain transactions.
+description: Neil Yan - Founder of XPayLabs & GetCiteFlow. 8+ years in Web3 and blockchain development — smart contracts (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT platforms, Blackhole Protocol. Also offers GEO (Generative Engine Optimization) to help websites get cited by ChatGPT, Claude, Perplexity, and other AI search engines. 9 products delivered, 100,000+ on-chain transactions.
 
 hero:
-  name: "Web3 Developer"
+  name: "Founder & Developer"
   text: "Founder of XPayLabs & GetCiteFlow"
-  tagline: "Senior Web3 Blockchain Developer · 8 Showcase DApps · 100,000+ On-Chain Transactions · 2,000+ Clients"
+  tagline: "GEO Optimization + Web3 Full-Stack Development · 9 Showcase Projects · 100,000+ On-Chain Transactions · 2,000+ Clients"
   actions:
     - theme: brand
       text: View Projects
       link: /en/#projects
 
 features:
+  - title: GEO Platform
+    details: GetCiteFlow - AI search visibility optimization platform, get cited by ChatGPT, Perplexity & more
   - title: AI Trading System
     details: AI Quant Robot - AI-powered Web3 quantitative trading with multi-chain auto arbitrage
   - title: DeFi Wealth Management
@@ -42,13 +44,21 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## Neil Yan Portfolio {#about}
 
-**0xx402** is my Web3 developer portfolio showcasing my representative blockchain projects.
+**0xx402** is my portfolio showcasing representative projects across **GEO optimization** and **Web3 development** — two areas I'm equally passionate about as founder of XPayLabs & GetCiteFlow.
 
-Hi, I'm **Neil Yan** — a **Senior Web3 & Blockchain Developer** with a proven track record of building production-grade decentralized applications. Looking to **hire a Web3 developer**? I offer smart contract development, DeFi protocol development, and full-stack DApp development services.
+Hi, I'm **Neil Yan** — **Founder of XPayLabs & GetCiteFlow**.
 
-Since **2018**, I've served **2,000+** clients worldwide and processed **100,000+** on-chain transactions. Below are **8 representative DApp projects** I've built, spanning **AI trading systems**, **DeFi wealth management platforms**, **perpetual trading engines**, **hybrid exchanges**, **RWA tokenization**, **crypto payment gateways**, **decentralized prediction markets**, and **Blackhole Protocol**.
+Since **2018**, I've served **2,000+** clients worldwide and processed **100,000+** on-chain transactions. Below are **9 representative projects**:
 
-My philosophy: **Turn your Web3 ideas into reliable, secure products with clean, audited code.**
+- 🌐 **GEO Optimization** — [GetCiteFlow](/en/projects/getciteflow): Get your site cited by ChatGPT, Claude, Perplexity, Gemini & more
+- 🤖 **AI Trading System** — [AI Quant Robot](/en/projects/ai-quant-robot): Multi-chain auto arbitrage
+- 💰 **DeFi Wealth Management** — [Crypto Earn](/en/projects/crypto-earn): USDT smart wealth, up to 18.5% APY
+- 📊 **Perpetual Trading** — [Perpetual Trading](/en/projects/perpetual-trading): Futures with 1-50x leverage
+- 🔄 **Hybrid Exchange** — [Nex Exchange](/en/projects/nex-exchange): CEX speed + DEX transparency
+- 🌱 **RWA Tokenization** — [Solaris RWA](/en/projects/solaris-rwa): Renewable energy assets on-chain
+- 💳 **Crypto Payment Gateway** — [XPayLabs](/en/projects/xpay-labs): Self-hosted payment infra
+- 🎯 **Prediction Market** — [Prediction Market](/en/projects/prediction-market): Decentralized predictions
+- 🕳️ **Blackhole Protocol** — [Blackhole Protocol](/en/projects/blackhole-protocol): Behavior-driven node network
 
 ### Core Tech Stack
 
@@ -78,7 +88,7 @@ My philosophy: **Turn your Web3 ideas into reliable, secure products with clean,
 
 | Metric | Data |
 |--------|------|
-| Web3 Products Released | 8 |
+| Web3 Products Released | 9 |
 | Supported Chains | 15+ (Full EVM Support) |
 | Smart Contract Transactions | 100,000+ |
 | Clients Served | 2,000+ |

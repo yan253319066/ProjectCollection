@@ -2,18 +2,20 @@
 layout: home
 
 title: Neil Yan - シニアWeb3開発者 | ブロックチェーンエンジニア | スマートコントラクト専門家
-description: Neil Yan - シニアWeb3ブロックチェーン開発者。スマートコントラクト開発（Solidity）、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTマーケットプレイス、Blackholeプロトコル開発。8つのDApp納品、100,000+オンチェーン取引。
+description: Neil Yan - シニアWeb3ブロックチェーン開発者。スマートコントラクト開発（Solidity）、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTマーケットプレイス、Blackholeプロトコル開発。9つのDApp納品、100,000+オンチェーン取引。
 
 hero:
-  name: "Neil Yan"
-  text: "シニアWeb3ブロックチェーン開発者"
-  tagline: "8つのDApp納品実績 · 100,000+オンチェーン取引"
+  name: "Founder & Developer"
+  text: "XPayLabs と GetCiteFlow 創業者"
+  tagline: "GEO最適化 + Web3フルスタック開発 · 9つの代表プロジェクト · 100,000+オンチェーン取引 · 2,000+クライアント"
   actions:
     - theme: brand
       text: プロジェクトを見る
       link: /ja/#projects
 
 features:
+  - title: GEOプラットフォーム
+    details: GetCiteFlow - AI検索エンジン可視性最適化、ChatGPT・Perplexityに引用される
   - title: AIクオンツ取引
     details: AI Quant Robot - AI駆動のWeb3クオンツ取引、マルチチェーン自動裁定
   - title: 暗号資産運用
@@ -40,11 +42,23 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 <ProjectGrid />
 
-## Neil Yanについて {#about}
+## Neil Yan作品集 {#about}
 
-こんにちは、**Neil Yan**です。**Web3ブロックチェーン開発**を専門とするシニアフルスタックエンジニアです。
+**0xx402** は私のポートフォリオです。**XPayLabs と GetCiteFlow 創業者**としての代表プロジェクトを展示しています——**GEO最適化**と**Web3開発**の2分野をカバー。
 
-**2018年**からブロックチェーン業界に携わり、**8つ**のWeb3 DApp製品をゼロからローンチしてきました。**AIクオンツ取引**、**DeFi資産運用**、**永久先物取引**、**ハイブリッド取引所**、**RWAトークン化**、**暗号資産決済**、**分散型予測市場**、**Blackholeプロトコル**をカバー。スマートコントラクトは累計 **100,000+** 件のオンチェーン取引を処理し、**2,000+** 名の国内外クライアントにサービスを提供してきました。
+こんにちは、**Neil Yan**です。**XPayLabs と GetCiteFlow 創業者**です。
+
+**2018年**からブロックチェーン業界に携わり、**2,000+** 名の国内外クライアントにサービスを提供し、**100,000+** 件のオンチェーン取引を処理してきました。以下は私の **9つの代表プロジェクト**です：
+
+- 🌐 **GEO最適化** — [GetCiteFlow](/ja/projects/getciteflow)：ChatGPT、Claude、Perplexity、GeminiなどのAI検索エンジンにWebサイトが引用されるよう支援
+- 🤖 **AI取引** — AI Quant Robot：AI駆動のWeb3クオンツ取引、マルチチェーン自動裁定
+- 💰 **DeFi資産運用** — Crypto Earn：安全なUSDTスマート資産管理、年利18.5%
+- 📈 **永久先物取引** — Perpetual Trading：最新先物取引システム、1-50xレバレッジ
+- ⚡ **ハイブリッド取引所** — Nex Exchange：CEX速度×DEX透明性
+- ☀️ **RWAトークン化** — Solaris RWA：再生可能エネルギーに特化した実世界資産トークン化
+- 💳 **暗号資産決済** — XPayLabs：自己ホスト型暗号通貨決済インフラ
+- 🎯 **予測マーケット** — Prediction Market：ブロックチェーン基盤の分散型予測プラットフォーム
+- 🕳️ **Blackholeプロトコル** — Blackhole Protocol：資本しきい値を行動的価値に置き換える分散型ノードネットワーク
 
 私の理念：**安全で信頼性の高いコードで、あなたのWeb3アイデアを現実の製品に。**
 
@@ -76,7 +90,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 | 指標 | データ |
 |------|--------|
-| リリース済みWeb3製品 | 8個 |
+| リリース済みWeb3製品 | 9個 |
 | 対応チェーン数 | 15以上（EVMフルサポート） |
 | スマートコントラクト取引 | 100,000件以上 |
 | サービス提供クライアント | 2,000以上 |

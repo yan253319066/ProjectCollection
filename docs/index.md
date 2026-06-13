@@ -2,18 +2,20 @@
 layout: home
 
 title: Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 全栈开发
-description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务。已服务2,000+客户，展示8个代表性Web3项目，处理100,000+笔链上交易。
+description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务，同时提供 GEO（Generative Engine Optimization）优化，帮助网站被 ChatGPT、Claude、Perplexity 等 AI 搜索引擎引用。已服务2,000+客户，展示9个代表性项目，处理100,000+笔链上交易。
 
 hero:
-  name: "Web3 Developer"
+  name: "Founder & Developer"
   text: "XPayLabs 创始人 · GetCiteFlow 创始人"
-  tagline: "资深 Web3 区块链开发工程师 · 8 个代表性 DApp · 100,000+ 笔链上交易 · 2,000+ 客户"
+  tagline: "GEO 优化 + Web3 全栈开发 · 9 个代表性项目 · 100,000+ 笔链上交易 · 2,000+ 客户"
   actions:
     - theme: brand
       text: 查看项目
       link: /#projects
 
 features:
+  - title: GEO 平台
+    details: GetCiteFlow - AI 搜索引擎可见性优化平台，帮助网站被 ChatGPT、Perplexity 等引用
   - title: AI量化交易
     details: AI Quant Robot - AI驱动的Web3量化交易系统，多链自动套利
   - title: 加密资产理财
@@ -43,13 +45,21 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 ## Neil Yan 作品集 {#about}
 
-**0xx402** 是我的 Web3 开发者作品集，展示了我作为 XPayLabs 与 GetCiteFlow 创始人的代表性项目。
+**0xx402** 是我的作品集，展示了我作为 XPayLabs 与 GetCiteFlow 创始人的代表性项目——覆盖 **GEO 优化** 与 **Web3 开发** 两大领域。
 
-嗨，我是 **Neil Yan**，**XPayLabs 与 GetCiteFlow 创始人**，资深 Web3 全栈工程师。正在找 **Web3 开发者**？我提供智能合约开发、DeFi 协议、DApp 全栈开发外包服务。
+嗨，我是 **Neil Yan**，**XPayLabs 与 GetCiteFlow 创始人**。
 
-自 **2018 年**投身区块链行业以来，我已服务海内外客户 **2,000+** 名，处理 **100,000+** 笔链上交易。以下展示我的 **8 个代表性 Web3 DApp 项目**，覆盖 **AI 量化交易系统**、**DeFi 加密理财平台**、**永续合约交易系统**、**混合交易所**、**RWA 代币化**、**加密货币支付网关**、**去中心化预测市场**和**Blackhole协议**等领域。
+自 **2018 年**投身区块链行业以来，我已服务海内外客户 **2,000+** 名，处理 **100,000+** 笔链上交易。以下展示我的 **9 个代表性项目**：
 
-我的核心理念：**用安全、可靠的代码，将你的 Web3 想法变成现实产品。**
+- 🌐 **GEO 优化** — [GetCiteFlow](/projects/getciteflow)：帮助网站被 ChatGPT、Claude、Perplexity、Gemini 等 AI 搜索引擎引用
+- 🤖 **AI 量化交易系统** — AI Quant Robot：多链自动套利
+- 💰 **DeFi 加密理财平台** — Crypto Earn：USDT 智能财富管理
+- 📊 **永续合约交易系统** — Perpetual Trading：1-50 倍杠杆
+- 🔄 **混合交易所** — Nex Exchange：CEX 效率 + DEX 透明性
+- 🌱 **RWA 代币化** — Solaris RWA：可再生能源资产上链
+- 💳 **加密货币支付网关** — XPayLabs：自托管支付基础设施
+- 🎯 **预测市场** — Prediction Market：去中心化预测平台
+- 🕳️ **Blackhole 协议** — Blackhole Protocol：行为价值驱动的节点网络
 
 ### 核心技术栈
 
@@ -79,7 +89,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 | 指标 | 数据 |
 |------|------|
-| 已发布 Web3 产品 | 8 个 |
+| 已发布 Web3 产品 | 9 个 |
 | 支持公链数量 | 15+ 条（EVM 全链支持） |
 | 智能合约累计处理 | 100,000+ 笔交易 |
 | 服务客户数量 | 2,000+ |

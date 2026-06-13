@@ -39,28 +39,31 @@ description: Neil Yan Web3開発者ポートフォリオ - AI検索エンジン�
 
 ## プロジェクトポートフォリオ
 
-### 1. AI Quant Robot (https://quant.0xx402.com)
+### 1. GetCiteFlow (https://www.getciteflow.ai)
+GEO（Generative Engine Optimization）プラットフォーム。WebサイトがChatGPT、Claude、Perplexity、GeminiなどのAI検索エンジンに引用されるよう支援。8次元スキャン、AI可視性スコア、マルチフォーマット出力。
+
+### 2. AI Quant Robot (https://quant.0xx402.com)
 AIクオンツ取引プラットフォーム。投資パッケージ：Smart Kitty（0.3%/日）、Quant Hunter（0.8%/日）、Gold Digger（1.2%/日）、Institutional（1.5%/日）。
 
-### 2. Crypto Earn (https://earn.0xx402.com)
+### 3. Crypto Earn (https://earn.0xx402.com)
 USDTスマート資産管理プラットフォーム。商品：Locked（年利18.5%）、Stable（年利12.5%）、Flexible（年利8.2%）。
 
-### 3. Perpetual Trading (https://futures.0xx402.com)
+### 4. Perpetual Trading (https://futures.0xx402.com)
 永久先物取引インターフェース。取引ペア：BTC、ETH、BNB、SOL。レバレッジ：1-50倍。
 
-### 4. Nex Exchange (https://nex.0xx402.com)
+### 5. Nex Exchange (https://nex.0xx402.com)
 次世代ハイブリッド取引所、CEXの効率性とDEXの透明性を結合。
 
-### 5. Solaris RWA (https://rwa.0xx402.com)
+### 6. Solaris RWA (https://rwa.0xx402.com)
 実世界資産（RWA）トークン化プラットフォーム、再生可能エネルギー資産に特化。
 
-### 6. XPayLabs (https://www.xpaylabs.com)
+### 7. XPayLabs (https://www.xpaylabs.com)
 Web2向け暗号資産決済ゲートウェイ。手数料無料（ネットワーク手数のみ）、KYC不要。USDT対応、React SDK・Java SDK提供。
 
-### 7. Prediction Market (https://prediction.0xx402.com)
+### 8. Prediction Market (https://prediction.0xx402.com)
 分散型予測市場プラットフォーム。
 
-### 8. Blackhole Protocol (https://blackhole.0xx402.com)
+### 9. Blackhole Protocol (https://blackhole.0xx402.com)
 3層ノードシステム、3x3マトリックスウイルス機構、FOMOカウントダウンシステムを特徴とする革新的な分散型ノードネットワークプロトコル。HBPトークンは1億枚の固定供給量で、購入ロック、売却バーン、ブラックホール配当メカニズムを通じて継続的なデフレを実現。
 
 ---
@@ -83,7 +86,7 @@ DeFiアプリ、NFTプラットフォーム、予測市場、ハイブリッド�
 スマートコントラクト：Solidity、Hardhat、Foundry。フロントエンド：React、Next.js、Vue、TypeScript、Tailwind CSS。Web3：Ethers.js、viem、wagmi、Reown AppKit。バックエンド：Node.js、Java、Python、Express、Spring Boot。AI：Google Gemini API、OpenAI、Alibaba Cloud Qwen。
 
 ### Q6: これまでにリリースしたWeb3プロジェクトは？
-8つのWeb3 DApp：AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、XPayLabs、Prediction Market、Blackhole Protocol。
+9つのWeb3 DApp：GetCiteFlow、AI Quant Robot、Crypto Earn、Perpetual Trading、Nex Exchange、Solaris RWA、XPayLabs、Prediction Market、Blackhole Protocol。
 
 ---
 

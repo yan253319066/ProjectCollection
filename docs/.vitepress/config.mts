@@ -77,7 +77,7 @@ export default defineConfig({
       lang: 'zh-CN',
       link: '/',
       title: 'Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3全栈工程师',
-      description: 'Neil Yan — XPayLabs 与 GetCiteFlow 创始人，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。展示8个代表性Web3项目，服务2,000+客户。',
+      description: 'Neil Yan — XPayLabs 与 GetCiteFlow 创始人，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。展示9个代表性Web3项目，服务2,000+客户。',
       head: [
         ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
@@ -97,7 +97,7 @@ export default defineConfig({
               "name": "已发布哪些 Web3 项目？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "已服务2,000+客户，展示8个代表性Web3 DApp：AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、XPayLabs（自托管支付基础设施）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
+                "text": "已服务2,000+客户，展示9个代表性Web3 DApp：GetCiteFlow（GEO优化平台）、AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、XPayLabs（自托管支付基础设施）、Prediction Market（预测市场）、Blackhole Protocol（Blackhole协议）。"
               }
             },
             {
@@ -148,6 +148,7 @@ export default defineConfig({
         nav: [
           { text: '首页', link: '/' },
           { text: '项目', link: '/projects/' },
+          { text: 'GEO 服务', link: '/geo-services' },
           { text: '博客', link: '/blog/' }
         ],
         socialLinks: [
@@ -164,7 +165,7 @@ export default defineConfig({
       label: 'English',
       lang: 'en-US',
       link: '/en/',
-      title: 'Neil Yan - Web3 Developer Portfolio | Blockchain Engineer',
+      title: 'Neil Yan - Founder of XPayLabs & GetCiteFlow | Web3 Developer',
       description: 'Neil Yan - Senior Web3 blockchain developer. Smart contract development, DeFi protocols, AI trading, RWA tokenization, crypto payment gateway, NFT marketplace, Blackhole Protocol. 8+ years experience, 2,000+ clients served.',
       head: [
         ['meta', { name: 'keywords', content: 'Web3 developer, blockchain developer, smart contract developer, Solidity developer, DeFi developer, DApp developer, Ethereum developer, crypto payment gateway, NFT developer, hire blockchain developer' }],
@@ -185,7 +186,7 @@ export default defineConfig({
               "name": "What Web3 projects have been released?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "8 Web3 DApps: AI Quant Robot (AI quantitative trading), Crypto Earn (crypto wealth management), Perpetual Trading (perpetual contracts), Nex Exchange (hybrid exchange), Solaris RWA (RWA tokenization), XPayLabs (self-hosted payment infrastructure), Prediction Market, Blackhole Protocol."
+                "text": "9 Web3 DApps: GetCiteFlow (GEO platform), AI Quant Robot (AI quantitative trading), Crypto Earn (crypto wealth management), Perpetual Trading (perpetual contracts), Nex Exchange (hybrid exchange), Solaris RWA (RWA tokenization), XPayLabs (self-hosted payment infrastructure), Prediction Market, Blackhole Protocol."
               }
             },
             {
@@ -220,6 +221,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Projects', link: '/en/projects/' },
+          { text: 'GEO Services', link: '/en/geo-services' },
           { text: 'Blog', link: '/en/blog/' }
         ],
         socialLinks: [
@@ -236,8 +238,8 @@ export default defineConfig({
       label: '日本語',
       lang: 'ja-JP',
       link: '/ja/',
-      title: 'Neil Yan - シニアWeb3開発者 | ブロックチェーンエンジニア',
-      description: 'Neil Yan - シニアWeb3ブロックチェーン開発者。スマートコントラクト、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTプラットフォーム、Blackholeプロトコル開発。8つのDApp製品を納品。',
+      title: 'Neil Yan - XPayLabs と GetCiteFlow 創業者 | Web3開発者',
+      description: 'Neil Yan - シニアWeb3ブロックチェーン開発者。スマートコントラクト、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTプラットフォーム、Blackholeプロトコル開発。9つのDApp製品を納品。',
       head: [
         ['meta', { name: 'keywords', content: 'Web3開発者, ブロックチェーン開発者, スマートコントラクト開発, Solidity, DeFi開発, DApp開発, NFT開発, 暗号資産決済' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
@@ -249,7 +251,7 @@ export default defineConfig({
               "name": "Neil Yanは何をしている人ですか？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Neil Yanはブロックチェーンプロジェクト創設者で、2018年からWeb3、DeFi、DApp開発に専念し、複数のWeb3 DApp製品を成功裏にリリースしています。"
+                "text": "Neil YanはXPayLabsとGetCiteFlowの創業者で、2018年からWeb3、DeFi、DApp開発に専念し、複数のWeb3 DApp製品を成功裏にリリースしています。"
               }
             },
             {
@@ -257,7 +259,7 @@ export default defineConfig({
               "name": "リリースしたWeb3プロジェクトは？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "8つのWeb3 DApp：AI Quant Robot（AI取引）、Crypto Earn（暗号資産運用）、Perpetual Trading（永久先物）、Nex Exchange（ハイブリッド取引所）、Solaris RWA（RWAトークン化）、XPayLabs（自己ホスト型決済インフラ）、Prediction Market（予測市場）、Blackhole Protocol。"
+                "text": "9つのWeb3 DApp：GetCiteFlow（GEOプラットフォーム）、AI Quant Robot（AI取引）、Crypto Earn（暗号資産運用）、Perpetual Trading（永久先物）、Nex Exchange（ハイブリッド取引所）、Solaris RWA（RWAトークン化）、XPayLabs（自己ホスト型決済インフラ）、Prediction Market（予測市場）、Blackhole Protocol。"
               }
             },
             {
@@ -284,6 +286,7 @@ export default defineConfig({
         nav: [
           { text: 'ホーム', link: '/ja/' },
           { text: 'プロジェクト', link: '/ja/#projects' },
+          { text: 'GEO サービス', link: '/ja/geo-services' },
           { text: 'ブログ', link: '/en/blog/' }
         ],
         socialLinks: [
@@ -300,8 +303,8 @@ export default defineConfig({
       label: '한국어',
       lang: 'ko-KR',
       link: '/ko/',
-      title: 'Neil Yan - 시니어 Web3 개발자 | 블록체인 엔지니어',
-      description: 'Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약, DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜 개발. 8개의 DApp 제품 납품 완료.',
+      title: 'Neil Yan - XPayLabs와 GetCiteFlow 창업자 | Web3 개발자',
+      description: 'Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약, DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜 개발. 9개의 DApp 제품 납품 완료.',
       head: [
         ['meta', { name: 'keywords', content: 'Web3 개발자, 블록체인 개발자, 스마트 계약 개발, Solidity, DeFi 개발, DApp 개발, NFT 개발, 암호화폐 결제' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
@@ -313,7 +316,7 @@ export default defineConfig({
               "name": "Neil Yan은 어떤 일을 하나요?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Neil Yan은 블록체인 프로젝트 창업자로, 2018년부터 Web3, DeFi, DApp 개발에 전념하여 여러 Web3 DApp 제품을 성공적으로 출시했습니다."
+                "text": "Neil Yan은 XPayLabs와 GetCiteFlow의 창업자로, 2018년부터 Web3, DeFi, DApp 개발에 전념하여 여러 Web3 DApp 제품을 성공적으로 출시했습니다."
               }
             },
             {
@@ -321,7 +324,7 @@ export default defineConfig({
               "name": "출시한 Web3 프로젝트는 무엇인가요?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "8개의 Web3 DApp: AI Quant Robot (AI 트레이딩), Crypto Earn (암호화폐 금융), Perpetual Trading (무기한 선물), Nex Exchange (하이브리드 거래소), Solaris RWA (RWA 토큰화), XPayLabs (자체 호스팅 결제 인프라), Prediction Market (예측 시장), Blackhole Protocol."
+                "text": "9개의 Web3 DApp: GetCiteFlow (GEO 플랫폼), AI Quant Robot (AI 트레이딩), Crypto Earn (암호화폐 금융), Perpetual Trading (무기한 선물), Nex Exchange (하이브리드 거래소), Solaris RWA (RWA 토큰화), XPayLabs (자체 호스팅 결제 인프라), Prediction Market (예측 시장), Blackhole Protocol."
               }
             },
             {
@@ -348,6 +351,7 @@ export default defineConfig({
         nav: [
           { text: '홈', link: '/ko/' },
           { text: '프로젝트', link: '/ko/#projects' },
+          { text: 'GEO 서비스', link: '/ko/geo-services' },
           { text: '블로그', link: '/en/blog/' }
         ],
         socialLinks: [

@@ -17,10 +17,10 @@ const modalLocale = computed(() => props.locale || 'zh')
 const labels = computed(() => {
   const l = modalLocale.value
   const translations = {
-    zh: { title: '项目介绍', visit: '访问项目 →' },
-    en: { title: 'Project Overview', visit: 'Visit Project →' },
-    ja: { title: 'プロジェクト紹介', visit: 'プロジェクトを訪問 →' },
-    ko: { title: '프로젝트 소개', visit: '프로젝트 방문 →' }
+    zh: { title: '项目介绍', visit: '访问项目 →', details: '查看详情 →' },
+    en: { title: 'Project Overview', visit: 'Visit Project →', details: 'View Details →' },
+    ja: { title: 'プロジェクト紹介', visit: 'プロジェクトを訪問 →', details: '詳細を見る →' },
+    ko: { title: '프로젝트 소개', visit: '프로젝트 방문 →', details: '자세히 보기 →' }
   }
   return translations[l as keyof typeof translations] || translations.zh
 })
@@ -57,6 +57,13 @@ const description = computed(() => {
     default: return props.project.descriptionZh
   }
 })
+
+const detailLink = computed(() => {
+  if (!props.project?.detailPath) return null
+  const l = modalLocale.value
+  const prefix = l === 'zh' ? '' : `/${l}`
+  return `${prefix}${props.project.detailPath}`
+})
 </script>
 
 <template>
@@ -78,9 +85,14 @@ const description = computed(() => {
           </div>
         </div>
         
-        <a :href="project.url" target="_blank" class="project-link">
-          {{ labels.visit }}
-        </a>
+        <div class="modal-actions">
+          <a :href="project.url" target="_blank" class="project-link">
+            {{ labels.visit }}
+          </a>
+          <a v-if="detailLink" :href="detailLink" class="project-link project-link-secondary">
+            {{ labels.details }}
+          </a>
+        </div>
       </div>
     </div>
   </Teleport>
@@ -175,7 +187,13 @@ const description = computed(() => {
   font-size: 15px;
 }
 
+.modal-actions {
+  display: flex;
+  gap: 12px;
+}
+
 .project-link {
+  flex: 1;
   display: block;
   background: var(--vp-c-brand);
   color: #fff;
@@ -191,5 +209,16 @@ const description = computed(() => {
 .project-link:hover {
   background: #2563eb;
   transform: translateY(-1px);
+}
+
+.project-link-secondary {
+  background: transparent;
+  border: 2px solid var(--vp-c-brand);
+  color: var(--vp-c-brand);
+}
+
+.project-link-secondary:hover {
+  background: var(--vp-c-brand);
+  color: #fff;
 }
 </style>

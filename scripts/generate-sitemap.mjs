@@ -25,7 +25,7 @@ function walk(dir) {
   for (const entry of readdirSync(dir, { withFileTypes: true })) {
     const full = join(dir, entry.name)
     if (entry.isDirectory()) walk(full)
-    else if (entry.name.endsWith('.html') && entry.name !== '404.html' && !entry.name.startsWith('google')) {
+    else if (entry.name.endsWith('.html') && entry.name !== '404.html') {
       const url = pageUrl(full)
       const stat = statSync(full)
       const lastmod = stat.mtime.toISOString().split('T')[0]

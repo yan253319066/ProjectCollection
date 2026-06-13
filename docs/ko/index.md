@@ -2,18 +2,20 @@
 layout: home
 
 title: Neil Yan - 시니어 Web3 개발자 | 블록체인 엔지니어 | 스마트 계약 전문가
-description: Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약 개발 (Solidity), DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜 개발. 8개의 DApp 납품, 100,000+ 온체인 거래.
+description: Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약 개발 (Solidity), DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜 개발. 9개의 DApp 납품, 100,000+ 온체인 거래.
 
 hero:
-  name: "Neil Yan"
-  text: "시니어 Web3 블록체인 개발자"
-  tagline: "DApp 8개 납품 · 온체인 거래 100,000+ 건"
+  name: "Founder & Developer"
+  text: "XPayLabs와 GetCiteFlow 창업자"
+  tagline: "GEO 최적화 + Web3 풀스택 개발 · 대표 프로젝트 9개 · 온체인 거래 100,000+ 건 · 2,000+ 고객"
   actions:
     - theme: brand
       text: 프로젝트 보기
       link: /ko/#projects
 
 features:
+  - title: GEO 플랫폼
+    details: GetCiteFlow - AI 검색 엔진 가시성 최적화, ChatGPT·Perplexity에 인용
   - title: AI 퀀트 트레이딩
     details: AI Quant Robot - AI 기반 Web3 퀀트 트레이딩, 멀티체인 자동 차익거래
   - title: DeFi 자산 관리
@@ -40,11 +42,23 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 <ProjectGrid />
 
-## Neil Yan 소개 {#about}
+## Neil Yan 포트폴리오 {#about}
 
-안녕하세요, **Neil Yan**입니다. **Web3 블록체인 개발**을 전문으로 하는 시니어 풀스택 엔지니어입니다.
+**0xx402**는 제 포트폴리오입니다. **XPayLabs와 GetCiteFlow 창업자**로서의 대표 프로젝트를 전시합니다——**GEO 최적화**와 **Web3 개발** 두 분야를 아우릅니다.
 
-**2018년**부터 블록체인 업계에 종사하며 **8개**의 Web3 DApp 제품을 기획부터 론칭까지 성공적으로 이끌었습니다. **AI 퀀트 트레이딩**, **DeFi 자산 관리**, **무기한 선물 거래**, **하이브리드 거래소**, **RWA 토큰화**, **암호화폐 결제**, **분산형 예측 시장**, **Blackhole 프로토콜**을 아우릅니다. 스마트 계약은 누적 **100,000+** 건의 온체인 거래를 처리했으며, **2,000+** 명의 국내외 클라이언트에게 서비스를 제공했습니다.
+안녕하세요, **Neil Yan**입니다. **XPayLabs와 GetCiteFlow 창업자**입니다.
+
+**2018년**부터 블록체인 업계에 종사하며 **2,000+** 명의 국내외 클라이언트에게 서비스를 제공하고, **100,000+** 건의 온체인 거래를 처리했습니다. 아래는 **9개의 대표 프로젝트**입니다：
+
+- 🌐 **GEO 최적화** — [GetCiteFlow](/ko/projects/getciteflow)：ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진이 웹사이트를 인용하도록 지원
+- 🤖 **AI 트레이딩** — AI Quant Robot：AI 기반 Web3 퀀트 트레이딩, 멀티체인 자동 차익거래
+- 💰 **DeFi 자산 관리** — Crypto Earn：안전한 USDT 스마트 자산 관리, 연 18.5%
+- 📈 **무기한 선물 거래** — Perpetual Trading：최신 선물 거래 시스템, 1-50x 레버리지
+- ⚡ **하이브리드 거래소** — Nex Exchange：CEX 속도 × DEX 투명성
+- ☀️ **RWA 토큰화** — Solaris RWA：재생 에너지 특화 실물 자산 토큰화 플랫폼
+- 💳 **암호화폐 결제** — XPayLabs：자체 호스팅 암호화폐 결제 인프라
+- 🎯 **예측 시장** — Prediction Market：블록체인 기반 분산형 예측 플랫폼
+- 🕳️ **Blackhole 프로토콜** — Blackhole Protocol：자본 장벽을 행동 가치로 대체하는 분산형 노드 네트워크
 
 제 철학: **안전하고 신뢰할 수 있는 코드로 여러분의 Web3 아이디어를 실제 제품으로 만듭니다.**
 
@@ -76,7 +90,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 | 지표 | 데이터 |
 |------|--------|
-| 출시된 Web3 제품 | 8개 |
+| 출시된 Web3 제품 | 9개 |
 | 지원 체인 수 | 15개+ (EVM 전체 지원) |
 | 스마트 계약 거래 | 100,000건+ |
 | 서비스 제공 고객 | 2,000+ |
