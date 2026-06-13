@@ -48,7 +48,7 @@ export const blogPosts: BlogPost[] = [
     titleEn: 'How to Find a Web3 Developer in 2026 — Complete Guide',
     date: '2026-05-25',
     tagsZh: ['Web3开发', '找开发者', '区块链开发外包', '智能合约', '项目预算'],
-    tagsEn: ['Web3 Developer', 'Hire Blockchain Developer', 'Smart Contract Developer', 'Freelance Developer', 'DApp Development'],
+    tagsEn: ['Web3 Developer', 'Hire Blockchain Developer', 'Smart Contract Developer', 'Founder & Developer', 'DApp Development'],
     descriptionZh: '想找 Web3 开发者但不知道从哪里开始？本文详细介绍如何找到合适的区块链开发者，包括招聘渠道、评估标准、避坑指南和真实预算参考。',
     descriptionEn: 'Looking to hire a Web3 developer? This guide covers where to find blockchain developers, how to evaluate them, red flags to avoid, and real budget expectations for DApp projects.',
   },

@@ -13,8 +13,8 @@ export default defineConfig({
       })
     ]
   },
-  title: "Web3 Developer Portfolio | Neil Yan - 区块链独立开发者",
-  description: "Neil Yan - 区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。",
+  title: "Web3 Developer Portfolio | Neil Yan - 区块链项目创始人",
+  description: "Neil Yan - 区块链项目创始人作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。",
   outDir: './.vitepress/dist',
   lastUpdated: true,
   cleanUrls: true,
@@ -26,12 +26,12 @@ export default defineConfig({
     ['link', { rel: 'alternate', href: siteUrl + '/ja/', hreflang: 'ja-JP' }],
     ['link', { rel: 'alternate', href: siteUrl + '/ko/', hreflang: 'ko-KR' }],
     ['meta', { name: 'author', content: 'Neil Yan - Web3 Developer & Blockchain Engineer' }],
-    ['meta', { name: 'keywords', content: 'Web3, Blockchain, DeFi, DApp, Solidity, Ethereum, 智能合约, 量化交易, 加密货币, 区块链开发者, 独立开发者, Crypto, Web3 Developer, Blockchain Developer, 区块链开发工程师, Web3开发, DeFi开发, Solidity开发, 加密货币支付, NFT开发, 智能合约开发外包, EVM开发, 区块链全栈开发, Blackhole Protocol' }],
+    ['meta', { name: 'keywords', content: 'Web3, Blockchain, DeFi, DApp, Solidity, Ethereum, 智能合约, 量化交易, 加密货币, 区块链开发者, 区块链项目创始人, Crypto, Web3 Developer, Blockchain Developer, 区块链开发工程师, Web3开发, DeFi开发, Solidity开发, 加密货币支付, NFT开发, 智能合约开发外包, EVM开发, 区块链全栈开发, Blackhole Protocol' }],
     ['meta', { name: 'theme-color', content: '#646cff' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (中文)', href: siteUrl + '/blog/rss.xml' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (English)', href: siteUrl + '/en/blog/rss.xml' }],
-    ['meta', { property: 'og:title', content: 'Web3 Developer Portfolio | Neil Yan - 区块链独立开发者' }],
-    ['meta', { property: 'og:description', content: '区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。' }],
+    ['meta', { property: 'og:title', content: 'Web3 Developer Portfolio | Neil Yan - 区块链项目创始人' }],
+    ['meta', { property: 'og:description', content: '区块链项目创始人作品集。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: siteUrl }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
@@ -39,8 +39,8 @@ export default defineConfig({
     ['meta', { property: 'og:locale:alternate', content: 'ja_JP' }],
     ['meta', { property: 'og:locale:alternate', content: 'ko_KR' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Web3 Developer Portfolio | Neil Yan - 区块链独立开发者' }],
-    ['meta', { name: 'twitter:description', content: '区块链独立开发者作品集。专注于 Web3、DeFi、DApp 开发。' }],
+    ['meta', { name: 'twitter:title', content: 'Web3 Developer Portfolio | Neil Yan - 区块链项目创始人' }],
+    ['meta', { name: 'twitter:description', content: '区块链项目创始人作品集。专注于 Web3、DeFi、DApp 开发。' }],
     ['meta', { property: 'og:image', content: siteUrl + '/og-image.png' }],
     ['meta', { name: 'twitter:image', content: siteUrl + '/og-image.png' }],
     ['meta', { name: 'googlebot', content: 'index, follow' }],
@@ -51,7 +51,7 @@ export default defineConfig({
       "name": "Neil Yan",
       "url": siteUrl,
       "jobTitle": "Senior Web3 Developer & Blockchain Engineer",
-      "description": "资深区块链独立开发者，8年+ Web3、DeFi、DApp 开发经验。精通 Solidity、React、Next.js、Vue 技术栈，已成功发布多个 Web3 DApp 产品，智能合约累计处理 100,000+ 笔交易。",
+      "description": "资深区块链项目创始人，8年+ Web3、DeFi、DApp 开发经验。精通 Solidity、React、Next.js、Vue 技术栈，已成功发布多个 Web3 DApp 产品，智能合约累计处理 100,000+ 笔交易。",
       "knowsAbout": ["Web3", "Blockchain", "DeFi", "DApp", "Solidity", "Ethereum", "Smart Contracts", "React", "Next.js", "Vue", "Ethers.js", "wagmi", "viem", "Hardhat", "Foundry", "OpenZeppelin", "AI Trading", "RWA Tokenization", "Crypto Payment Gateway", "NFT Marketplace", "Perpetual Trading", "Blackhole Protocol"],
       "sameAs": ["https://github.com/yan253319066", "https://t.me/OS_Blockchain"],
       "contactPoint": { "@type": "ContactPoint", "email": "yanning-1987@outlook.com", "contactType": "Developer" }
@@ -76,8 +76,8 @@ export default defineConfig({
       label: '中文',
       lang: 'zh-CN',
       link: '/',
-      title: 'Neil Yan - 区块链独立开发者作品集 | Web3全栈工程师',
-      description: 'Neil Yan 资深区块链独立开发者，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。展示8个代表性Web3项目，服务2,000+客户。',
+      title: 'Neil Yan - 区块链项目创始人作品集 | Web3全栈工程师',
+      description: 'Neil Yan 资深区块链项目创始人，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。展示8个代表性Web3项目，服务2,000+客户。',
       head: [
         ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
@@ -89,7 +89,7 @@ export default defineConfig({
               "name": "Neil Yan 是做什么的开发者？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Neil Yan 是区块链独立开发者，专注于 Web3、DeFi、DApp 开发。从 2018 年开始投身区块链技术，已成功发布多个 Web3 DApp 产品。"
+                "text": "Neil Yan 是区块链项目创始人，专注于 Web3、DeFi、DApp 开发。从 2018 年开始投身区块链技术，已成功发布多个 Web3 DApp 产品。"
               }
             },
             {
@@ -113,7 +113,7 @@ export default defineConfig({
               "name": "如何找 Web3 开发者？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "可以通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系 Neil Yan。Neil Yan 是专注 Web3 开发的独立开发者，自 2018 年从事区块链技术。"
+                "text": "可以通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系 Neil Yan。Neil Yan 是专注 Web3 开发的项目创始人，自 2018 年从事区块链技术。"
               }
             },
             {
@@ -177,7 +177,7 @@ export default defineConfig({
               "name": "What does Neil Yan do?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Neil Yan is a blockchain freelance developer specializing in Web3, DeFi, and DApp development since 2018, with multiple successful Web3 DApp products launched."
+                "text": "Neil Yan is a blockchain project founder specializing in Web3, DeFi, and DApp development since 2018, with multiple successful Web3 DApp products launched."
               }
             },
             {
@@ -249,7 +249,7 @@ export default defineConfig({
               "name": "Neil Yanは何をしている人ですか？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Neil Yanはブロックチェーンフリーランス開発者で、2018年からWeb3、DeFi、DApp開発に専念し、複数のWeb3 DApp製品を成功裏にリリースしています。"
+                "text": "Neil Yanはブロックチェーンプロジェクト創設者で、2018年からWeb3、DeFi、DApp開発に専念し、複数のWeb3 DApp製品を成功裏にリリースしています。"
               }
             },
             {
@@ -313,7 +313,7 @@ export default defineConfig({
               "name": "Neil Yan은 어떤 일을 하나요?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Neil Yan은 블록체인 프리랜서 개발자로, 2018년부터 Web3, DeFi, DApp 개발에 전념하여 여러 Web3 DApp 제품을 성공적으로 출시했습니다."
+                "text": "Neil Yan은 블록체인 프로젝트 창업자로, 2018년부터 Web3, DeFi, DApp 개발에 전념하여 여러 Web3 DApp 제품을 성공적으로 출시했습니다."
               }
             },
             {
