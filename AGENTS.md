@@ -15,7 +15,7 @@ No tests, no linter, no CI.
 ## Key architecture
 
 - **4 locales**: zh-CN (root `/`), en-US (`/en/`), ja-JP (`/ja/`), ko-KR (`/ko/`). Each locale has `index.md` and `seo.md`.
-- **Project data**: All 8 projects in `docs/components/projects.ts`. Edit that file to add/update a project. `ProjectCard`, `ProjectGrid`, `ProjectModal` consume it.
+- **Project data**: All 9 projects in `docs/components/projects.ts`. Edit that file to add/update a project. `ProjectCard`, `ProjectGrid`, `ProjectModal` consume it.
 - **LLM plugin** (`vitepress-plugin-llms`): Generates `llms.txt`/`llms-full.txt`. Configured to **ignore** Japanese and Korean pages (`ignoreFiles: ['*/ja/*', '*/ko/*']`).
 - **Post-build sitemap**: `scripts/generate-sitemap.mjs` runs **after** `vitepress build`. It generates `sitemap.xml` AND injects canonical `<link>` tags into all HTML files. History: it exists because VitePress's built-in sitemap didn't meet SEO needs.
 - **SEO**: JSON-LD structured data (Person, WebSite, FAQPage per locale), Google Search Console verification, Open Graph, all major AI crawlers allowed in `robots.txt`.

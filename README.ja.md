@@ -1,15 +1,16 @@
-# Neil Yan (0xx402) - Web3 開発者ポートフォリオ | スマートコントラクト & DApp 開発
+# Neil Yan (0xx402) - Founder & Developer | スマートコントラクト & GEO 最適化
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-Neil Yan はシニア Web3 フリーランス開発者、8 年の経験と 2,000+ の顧客をサービス。スマートコントラクト開発（Solidity）、DeFi プロトコル、DApp 開発、ブロックチェーンコンサルティングを提供。Ethereum、Polygon、BNB Chain、Solana などに対応。
+Neil Yan は XPayLabs と GetCiteFlow の創業者、8 年の経験と 2,000+ のプラットフォームユーザーをサービス。スマートコントラクト開発（Solidity）、DeFi プロトコル、DApp 開発、GEO 最適化、ブロックチェーンコンサルティングを提供。Ethereum、Polygon、BNB Chain、Solana などに対応。
 
 ## プロジェクト
 
 | プロジェクト | 説明 |
 |------------|------|
+| GetCiteFlow | GEO 最適化プラットフォーム — AI 検索エンジンに引用される |
 | AI Quant Robot | 高性能 Web3 AI 取引プラットフォーム |
-| Crypto Earn | 安全効率的な USDT スマート、理財 |
+| Crypto Earn | 安全効率的な USDT スマート資産運用 |
 | Perpetual Trading | 現代的な先物取引インターフェース |
 | NexExchange | 次世代ハイブリッドエクスチェンジ |
 | Solaris RWA | 実世界資産トークナイゼーション |
@@ -19,12 +20,12 @@ Neil Yan はシニア Web3 フリーランス開発者、8 年の経験と 2,000
 
 ## Neil Yan について
 
-2018 年からブロックチェーンと Web3 に集中的なフリーランス開発者。専門分野：
+XPayLabs と GetCiteFlow の創業者。2018 年からブロックチェーンと Web3 に従事し、AI アプリケーションと GEO 最適化を専門とする。専門分野：
 
 - スマートコントラクト開発 (Solidity, Vyper, Hardhat, Foundry)
 - フロントエンド開発 (React, Next.js, Vue)
 - Web3 統合 (Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism)
-- AI 統合 (Gemini API, OpenAI)
+- GEO と AI 統合 (Gemini API, OpenAI, Generative Engine Optimization)
 
 ## 技術スタック
 

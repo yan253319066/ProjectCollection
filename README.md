@@ -1,13 +1,14 @@
-# Neil Yan (0xx402) - Web3 Developer Portfolio | Smart Contract & DApp Development
+# Neil Yan (0xx402) - Founder & Developer | Smart Contract & GEO Optimization
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-Hire Neil Yan — founder of XPayLabs & GetCiteFlow, specializing in smart contract development (Solidity), DeFi protocols, DApp development, and blockchain consulting. With 8+ years of experience serving 2,000+ clients, I build production-grade decentralized applications across Ethereum, Polygon, BNB Chain, Solana, and more.
+Hire Neil Yan — founder of XPayLabs & GetCiteFlow, specializing in smart contract development (Solidity), DeFi protocols, DApp development, blockchain consulting, and GEO (Generative Engine Optimization). With 8+ years of experience serving 2,000+ platform users, I build production-grade decentralized applications across Ethereum, Polygon, BNB Chain, Solana, and more.
 
 ## Projects
 
 | Project | Description |
 |---------|-------------|
+| GetCiteFlow | GEO Platform — Get Cited by AI Search Engines |
 | AI Quant Robot | High-performance Web3 AI Trading Platform |
 | Crypto Earn | Secure USDT Smart Wealth Management |
 | Perpetual Trading | Modern Futures Trading Interface |
@@ -19,12 +20,12 @@ Hire Neil Yan — founder of XPayLabs & GetCiteFlow, specializing in smart contr
 
 ## About Neil Yan
 
-Founder of XPayLabs & GetCiteFlow. Building in Web3 since 2018. Specializing in:
+Founder of XPayLabs & GetCiteFlow. Building in Web3 since 2018, with deep expertise in AI applications and GEO optimization. Specializing in:
 
 - Smart Contract Development (Solidity, Vyper, Hardhat, Foundry)
 - Frontend Development (React, Next.js, Vue)
 - Web3 Integration (Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism)
-- AI Integration (Gemini API, OpenAI)
+- GEO & AI Integration (Gemini API, OpenAI, Generative Engine Optimization)
 
 ## Tech Stack
 
