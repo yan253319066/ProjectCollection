@@ -109,13 +109,13 @@ AI 更倾向于引用知名品牌和行业权威。建立品牌认知度、获�
 
 ## GetCiteFlow：你的 GEO 工具箱
 
-[GetCiteFlow](https://www.getciteflow.ai) 是我基于实际需求开发的 GEO 优化平台：
+[GetCiteFlow](https://www.getciteflow.ai) 是我基于实际需求开发的企业级 AI 品牌服务平台：
 
-- **一键扫描** — 输入 URL，8 维度全面诊断
+- **一键扫描** — 输入 URL，6 维度全面诊断
 - **影响排序** — 按修复影响程度排列建议
-- **多格式导出** — JSON-LD、Markdown、HTML、React JSX、Vue、WordPress
 - **竞争对手对比** — 对比自己与竞品的 AI 可见性
-- **企业级服务** — Technical GEO 从 $999 起、AI Visibility Growth 从 $2,999/月起
+- **可分享报告** — SSR 渲染报告页面，带动态 OG 图片
+- **企业品牌服务** — Brand Visibility 从 $3,999 起、AI Visibility Growth 从 $4,999/月起
 
 ## 总结
 
@@ -125,4 +125,4 @@ GEO 不是 SEO 的替代品，而是 AI 搜索时代的必要补充。如果你�
 
 ---
 
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与 GEO 优化领域。*
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与品牌可见性优化领域。*

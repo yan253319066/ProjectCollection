@@ -80,7 +80,7 @@ Core Web Vitals affect not just Google rankings but also other AI crawlers' effi
 
 As the developer of [GetCiteFlow](https://www.getciteflow.ai), my philosophy is: **don't optimize for a single platform — cover all AI search engines.**
 
-GetCiteFlow's 8-dimension scan covers everything Google recommends AND what non-Google platforms need:
+GetCiteFlow's 6-dimension scan covers everything Google recommends AND what non-Google platforms need:
 
 - **Structured data detection** — Checks if FAQ Schema, Product Schema, Article Schema exist and are valid
 - **llms.txt validation** — Verifies `/llms.txt` and `/llms-full.txt` configuration (unimportant for Google, critical for ChatGPT, Perplexity, Claude)
@@ -108,4 +108,4 @@ Google's AI search optimization guide is a valuable reference, but it represents
 
 ---
 
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and GEO optimization.*
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and brand visibility optimization.*

@@ -1,36 +1,34 @@
 ---
-title: GEO Optimization Services | Neil Yan - Get Cited by AI Search Engines
-description: GEO (Generative Engine Optimization) services to help your website get cited by ChatGPT, Claude, Perplexity, Gemini, and other AI search engines. Scan, diagnose, implement, and monitor.
+title: AI Brand Services | Neil Yan - Get Your Brand Cited by AI Systems
+description: Enterprise AI Brand Services to help your brand get cited by ChatGPT, Claude, Perplexity, Gemini, DeepSeek, and other AI systems. AI Visibility Scan, Brand Visibility implementation, AI Visibility Growth managed service.
 head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Service","name":"GEO Optimization Services","description":"GEO (Generative Engine Optimization) services to help your website get cited by ChatGPT, Claude, Perplexity, Gemini, and other AI search engines.","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","hasOfferCatalog":{"@type":"OfferCatalog","name":"GEO Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"GEO Diagnostic Scan"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Technical GEO"},"price":"999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"2999","priceCurrency":"USD","unitText":"month"}]}}
+      {"@context":"https://schema.org","@type":"Service","name":"Enterprise AI Brand Service","description":"Enterprise AI Brand Service. Helps brands get cited by ChatGPT, Claude, Perplexity, Gemini, and other AI systems.","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","hasOfferCatalog":{"@type":"OfferCatalog","name":"AI Brand Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Scan"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Brand Visibility"},"price":"3999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"4999","priceCurrency":"USD","unitText":"month"}]}}
 ---
 
-# GEO Optimization Services
+# AI Brand Services
 
-> Get your website cited by ChatGPT, Claude, Perplexity, Gemini, and other AI search engines.
+> Get your brand cited and recommended by ChatGPT, Claude, Perplexity, Gemini, DeepSeek, and other AI systems.
 
-## Why GEO Matters
+## Why AI Brand Services Matter
 
-Traditional search engines require users to **click a link** to see your content. AI search engines cite your content directly in their answers — users get the information without clicking through, but your brand gets **zero-click visibility**.
-
-Websites not cited by AI engines are essentially **invisible** in the AI search era.
+AI systems (ChatGPT, Claude, Perplexity, Gemini, DeepSeek, etc.) are becoming the primary way users discover information. When someone asks "recommend a CRM" or "what's the best analytics tool," the AI's answer determines which brands get traffic and exposure. Most brands are **not optimized** to be cited by these AI systems — they lack clear entity definitions, FAQ Schema, llms.txt files, proper content structure, and other signals AI models use to determine citation worthiness.
 
 ## Services
 
-### GEO Diagnostic Scan — Free
+### AI Visibility Scan — Free
 
-- 8-dimension full scan (structured data, llms.txt, semantic HTML, content authority, verifiability, performance, brand authority, multi-format)
+- 6-dimension full scan (AI Visibility, FAQ Coverage, Entity Clarity, Authority, Content Structure, Summary Optimization)
 - AI Visibility Score (0-100)
 - Impact-prioritized fix recommendations
 - Competitor comparison
 - Visit [GetCiteFlow](https://www.getciteflow.ai) to use it free
 
-### Technical GEO — From $999
+### Brand Visibility — From $3,999
 
-Includes everything in Diagnostic Scan, plus:
+Includes everything in AI Visibility Scan, plus:
 
 - FAQ Schema / HowTo Schema / Article Schema implementation
 - `/llms.txt` and `/llms-full.txt` setup
@@ -40,14 +38,14 @@ Includes everything in Diagnostic Scan, plus:
 - Deliverable: Full implementation + validation pass
 - *Price varies based on site size and scope*
 
-### AI Visibility Growth — From $2,999/month
+### AI Visibility Growth — From $4,999/month
 
-Includes everything in Technical GEO, plus:
+Includes everything in Brand Visibility, plus:
 
 - Ongoing AI visibility monitoring
 - Content strategy optimization (crafting AI-citable content)
 - Authority building (back-citation network strategy)
-- Monthly GEO reports
+- Monthly AI visibility reports
 - Unlimited scans and diagnostics
 - Priority technical support
 - *Custom-priced based on product positioning and scope. Contact for a quote.*
@@ -60,7 +58,7 @@ Scan → Diagnose → Prioritize → Implement → Verify → Monitor
 
 ### 1. Scan
 
-Full 8-dimension scan using [GetCiteFlow](https://www.getciteflow.ai) to identify all missing GEO components.
+Full scan using [GetCiteFlow](https://www.getciteflow.ai) AI Visibility Scanner to identify all missing AI citation signals.
 
 ### 2. Diagnose & Prioritize
 
@@ -68,7 +66,7 @@ Rank fixes by impact — tackle the highest ROI optimizations first.
 
 ### 3. Design
 
-Provide specific implementation plans with code examples for each missing component.
+Provide specific implementation plans with code examples for each missing signal.
 
 ### 4. Implement
 
@@ -84,9 +82,9 @@ Regularly scan AI visibility changes and track citations across ChatGPT, Perplex
 
 ## Why Choose Me?
 
-- **Hands-on experience** — I built [GetCiteFlow](https://www.getciteflow.ai), a GEO optimization platform, giving me deep insight into how AI search engines work
+- **Hands-on experience** — I built [GetCiteFlow](https://www.getciteflow.ai), an Enterprise AI Brand Service platform, giving me deep insight into how AI systems work
 - **Technical background** — 8 years of Web3 and full-stack development, expert in Schema, HTML, and performance optimization
-- **Verifiable results** — My portfolio site 0xx402.com has been cited by multiple AI search engines through GEO optimization
+- **Verifiable results** — My portfolio site 0xx402.com has been cited by multiple AI systems through optimization
 
 ## Get Started
 
@@ -100,4 +98,4 @@ Or visit [GetCiteFlow](https://www.getciteflow.ai) for a self-service scan.
 
 ---
 
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and GEO optimization.*
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and brand visibility optimization.*

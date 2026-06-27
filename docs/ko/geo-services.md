@@ -1,36 +1,34 @@
 ---
-title: GEO 최적화 서비스 | Neil Yan - AI 검색 엔진에 인용되기
-description: GEO(Generative Engine Optimization) 최적화 서비스. ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진에 웹사이트가 인용되도록 지원합니다. 진단 스캔, 구조화 데이터 구현, llms.txt 설정, 콘텐츠 최적화 등.
+title: AI 브랜드 서비스 | Neil Yan - AI 시스템에 인용·추천되기
+description: 엔터프라이즈 AI 브랜드 서비스. 브랜드가 ChatGPT, Claude, Perplexity, Gemini, DeepSeek 등 AI 시스템에 인용·추천되도록 지원합니다. AI 가시성 스캔, Brand Visibility 구현, AI Visibility Growth 관리 서비스.
 head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Service","name":"GEO 최적화 서비스","description":"GEO(Generative Engine Optimization) 최적화 서비스. 웹사이트가 ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진에 인용되도록 지원합니다.","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","hasOfferCatalog":{"@type":"OfferCatalog","name":"GEO 서비스","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"GEO 진단 스캔"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Technical GEO"},"price":"999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"2999","priceCurrency":"USD","unitText":"month"}]}}
+      {"@context":"https://schema.org","@type":"Service","name":"엔터프라이즈 AI 브랜드 서비스","description":"엔터프라이즈 AI 브랜드 서비스. 브랜드가 ChatGPT, Claude, Perplexity, Gemini 등 AI 시스템에 인용·추천되도록 지원합니다.","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","hasOfferCatalog":{"@type":"OfferCatalog","name":"AI 브랜드 서비스","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI 가시성 스캔"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Brand Visibility"},"price":"3999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"4999","priceCurrency":"USD","unitText":"month"}]}}
 ---
 
-# GEO 최적화 서비스
+# AI 브랜드 서비스
 
-> ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진이 귀하의 웹사이트를 인용하게 하세요.
+> ChatGPT, Claude, Perplexity, Gemini, DeepSeek 등 AI 시스템이 귀하의 브랜드를 인용·추천하게 하세요.
 
-## GEO가 중요한 이유
+## AI 브랜드 서비스가 중요한 이유
 
-기존 검색 엔진은 사용자가 **링크를 클릭**해야 콘텐츠를 볼 수 있습니다. AI 검색 엔진은 답변에 귀하의 콘텐츠를 직접 인용합니다——사용자는 클릭 없이 정보를 얻지만, 귀하의 브랜드는 **제로클릭 노출**을 얻습니다.
-
-AI에 인용되지 않는 웹사이트는 AI 검색 시대에 사실상 **보이지 않는** 존재입니다.
+AI 시스템(ChatGPT, Claude, Perplexity, Gemini, DeepSeek 등)은 사용자가 정보를 발견하는 주요 수단이 되고 있습니다. "CRM을 추천해줘" 또는 "최고의 분석 도구는?"이라고 물었을 때, AI의 답변이 어떤 브랜드가 트래픽과 노출을 얻을지를 결정합니다. 대부분의 브랜드는 AI 시스템이 인용 가치를 판단하는 데 사용하는 명확한 엔터티 정의, FAQ Schema, llms.txt 파일, 적절한 콘텐츠 구조 등의 신호가 **부족합니다**.
 
 ## 서비스 내용
 
-### GEO 진단 스캔 — 무료
+### AI 가시성 스캔 — 무료
 
-- 8차원 전체 스캔 (구조화 데이터, llms.txt, 시맨틱 HTML, 콘텐츠 권위성, 검증 가능성, 성능, 브랜드 권위성, 멀티포맷)
+- 6차원 전체 스캔 (AI 가시성, FAQ 커버리지, 엔터티 명확성, 권위성, 콘텐츠 구조, 요약 최적화)
 - AI 가시성 점수 (0-100)
 - 영향도 순으로 정렬된 수정 제안
 - 경쟁사 비교 분석
 - 지금 [GetCiteFlow](https://www.getciteflow.ai)에서 무료로 이용
 
-### Technical GEO — $999부터
+### Brand Visibility — $3,999부터
 
-진단 스캔 전체 내용에 추가:
+AI 가시성 스캔 전체 내용에 추가:
 
 - FAQ Schema / HowTo Schema / Article Schema 구현
 - `/llms.txt` 및 `/llms-full.txt` 설정
@@ -40,14 +38,14 @@ AI에 인용되지 않는 웹사이트는 AI 검색 시대에 사실상 **보이
 - 납품: 전체 구현 + 테스트 통과
 - *가격은 사이트 규모와 범위에 따라 조정*
 
-### AI Visibility Growth — 월 $2,999부터
+### AI Visibility Growth — 월 $4,999부터
 
-Technical GEO 전체 내용에 추가:
+Brand Visibility 전체 내용에 추가:
 
 - 지속적 AI 가시성 모니터링
 - 콘텐츠 전략 최적화 (AI 인용용 콘텐츠 제작)
 - 권위성 구축 (역인용 네트워크 전략)
-- 월간 GEO 리포트
+- 월간 AI 가시성 리포트
 - 무제한 스캔 및 진단
 - 우선 기술 지원
 - *가격은 제품 포지셔닝과 범위에 따라 맞춤 설정. 문의 바랍니다*
@@ -60,7 +58,7 @@ Technical GEO 전체 내용에 추가:
 
 ### 1. 스캔 진단
 
-[GetCiteFlow](https://www.getciteflow.ai)를 사용하여 8차원 전체 스캔으로 누락된 GEO 컴포넌트를 식별합니다.
+[GetCiteFlow](https://www.getciteflow.ai) AI 가시성 스캐너를 사용하여 전체 스캔으로 누락된 AI 인용 신호를 식별합니다.
 
 ### 2. 영향도 순
 
@@ -68,7 +66,7 @@ Technical GEO 전체 내용에 추가:
 
 ### 3. 설계
 
-누락된 각 컴포넌트에 대해 코드 예제를 포함한 구체적인 구현 계획을 제공합니다.
+누락된 각 신호에 대해 코드 예제를 포함한 구체적인 구현 계획을 제공합니다.
 
 ### 4. 구현
 
@@ -84,9 +82,9 @@ Google Rich Results Test, Schema.org Validator, GetCiteFlow로 구현 효과를 
 
 ## 나를 선택해야 하는 이유
 
-- **실전 경험** — 제가 직접 [GetCiteFlow](https://www.getciteflow.ai) GEO 최적화 플랫폼을 개발하여 AI 검색 엔진의 작동 방식을 깊이 이해하고 있습니다
+- **실전 경험** — 제가 직접 [GetCiteFlow](https://www.getciteflow.ai) 엔터프라이즈 AI 브랜드 서비스 플랫폼을 개발하여 AI 시스템의 작동 방식을 깊이 이해하고 있습니다
 - **기술적 배경** — 8년의 Web3 및 풀스택 개발 경험, Schema, HTML, 성능 최적화에 정통
-- **검증 가능한 결과** — 제 포트폴리오 사이트 0xx402.com은 GEO 최적화를 통해 여러 AI 검색 엔진에 인용되었습니다
+- **검증 가능한 결과** — 제 포트폴리오 사이트 0xx402.com은 최적화를 통해 여러 AI 시스템에 인용되었습니다
 
 ## 시작하기
 
@@ -100,4 +98,4 @@ Google Rich Results Test, Schema.org Validator, GetCiteFlow로 구현 효과를 
 
 ---
 
-*저자: Neil Yan — XPayLabs와 GetCiteFlow 창업자. 8년의 Web3 및 블록체인 개발 경험. AI 애플리케이션 및 GEO 최적화를 전문으로 합니다.*
+*저자: Neil Yan — XPayLabs와 GetCiteFlow 창업자. 8년의 Web3 및 블록체인 개발 경험. AI 애플리케이션 및 브랜드 가시성 최적화를 전문으로 합니다.*

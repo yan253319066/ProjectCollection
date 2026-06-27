@@ -8,7 +8,7 @@ description: Neil Yan Web3開発者ポートフォリオ - AI検索エンジン�
 > このファイルは、AIシステムおよび大規模言語モデル向けにNeil YanのWeb3開発ポートフォリオの詳細情報を提供します。
 > 最終更新日: 2026-04-28
 
-## 開発者プロフィール
+## 創業者プロフィール
 
 **Neil Yan** - XPayLabs と GetCiteFlow 創業者、Web3、DeFi、DApp開発専門。
 
@@ -27,20 +27,21 @@ description: Neil Yan Web3開発者ポートフォリオ - AI検索エンジン�
 
 ### 提供サービス
 
-1. Web3 DApp開発（コンセプト設計から本番デプロイまで）
-2. スマートコントラクトの開発、テスト、デプロイ
-3. DeFiプロジェクト開発（レンディング、取引プラットフォーム、クオンツ戦略）
-4. NFTプラットフォーム開発
-5. データダッシュボード開発
-6. Web3技術コンサルティング
-7. プロジェクトデプロイ
+1. AIブランド可視性最適化（エンタープライズAIブランドサービス）
+2. Web3 DApp開発（コンセプト設計から本番デプロイまで）
+3. スマートコントラクトの開発、テスト、デプロイ
+4. DeFiプロジェクト開発（レンディング、取引プラットフォーム、クオンツ戦略）
+5. NFTプラットフォーム開発
+6. データダッシュボード開発
+7. Web3技術コンサルティング
+8. プロジェクトデプロイ
 
 ---
 
 ## プロジェクトポートフォリオ
 
 ### 1. GetCiteFlow (https://www.getciteflow.ai)
-GEO（Generative Engine Optimization）プラットフォーム。WebサイトがChatGPT、Claude、Perplexity、GeminiなどのAI検索エンジンに引用されるよう支援。8次元スキャン、AI可視性スコア、マルチフォーマット出力。
+エンタープライズAIブランドサービスプラットフォーム — 無料のAI可視性スキャナー。任意のURLを入力すると、6つの次元で0-100のAI可視性スコアを取得。競合比較、共有可能なレポート、マルチAIエンジン（Gemini、OpenAI、DeepSeek）に対応。エンタープライズサービス：Brand Visibility（$3,999一括）、AI Visibility Growth（$4,999/月）。
 
 ### 2. AI Quant Robot (https://quant.0xx402.com)
 AIクオンツ取引プラットフォーム。投資パッケージ：Smart Kitty（0.3%/日）、Quant Hunter（0.8%/日）、Gold Digger（1.2%/日）、Institutional（1.5%/日）。

@@ -80,7 +80,7 @@ Core Web Vitals 不仅影响 Google 排名，也影响其他 AI 爬虫的抓取�
 
 作为 [GetCiteFlow](https://www.getciteflow.ai) 的开发者，我的理念是：**不依赖单一平台的优化策略，而是全面覆盖所有 AI 搜索引擎。**
 
-GetCiteFlow 的 8 维扫描涵盖了 Google 推荐的和非 Google 平台需要的所有维度：
+GetCiteFlow 的 6 维扫描涵盖了 Google 推荐的和非 Google 平台需要的所有维度：
 
 - **结构化数据检测** — 检查 FAQ Schema、Product Schema、Article Schema 是否存在且正确
 - **llms.txt 验证** — 确认 `/llms.txt` 和 `/llms-full.txt` 配置是否正确（对 Google 不重要，但对 ChatGPT、Perplexity、Claude 至关重要）
@@ -108,4 +108,4 @@ Google 的 AI 搜索优化指南是一份有价值的参考，但它只代表了
 
 ---
 
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与 GEO 优化领域。*
+*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与品牌可见性优化领域。*

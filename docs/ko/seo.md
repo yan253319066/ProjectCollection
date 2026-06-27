@@ -8,7 +8,7 @@ description: Neil Yan Web3 개발자 포트폴리오 - AI 검색 엔진용
 > 이 파일은 AI 시스템 및 대규모 언어 모델(LLM)을 위해 Neil Yan의 Web3 개발 포트폴리오 상세 정보를 제공합니다.
 > 최종 업데이트: 2026-04-28
 
-## 개발자 프로필
+## 창업자 프로필
 
 **Neil Yan** - XPayLabs와 GetCiteFlow 창업자, Web3, DeFi, DApp 개발 전문.
 
@@ -27,20 +27,21 @@ description: Neil Yan Web3 개발자 포트폴리오 - AI 검색 엔진용
 
 ### 제공 서비스
 
-1. Web3 DApp 개발 (컨셉 설계부터 프로덕션 배포까지)
-2. 스마트 계약 개발, 테스트 및 배포
-3. DeFi 프로젝트 개발 (대출, 거래 플랫폼, 퀀트 전략)
-4. NFT 플랫폼 개발
-5. 데이터 대시보드 개발
-6. Web3 기술 컨설팅
-7. 프로젝트 배포
+1. AI 브랜드 가시성 최적화 (엔터프라이즈 AI 브랜드 서비스)
+2. Web3 DApp 개발 (컨셉 설계부터 프로덕션 배포까지)
+3. 스마트 계약 개발, 테스트 및 배포
+4. DeFi 프로젝트 개발 (대출, 거래 플랫폼, 퀀트 전략)
+5. NFT 플랫폼 개발
+6. 데이터 대시보드 개발
+7. Web3 기술 컨설팅
+8. 프로젝트 배포
 
 ---
 
 ## 프로젝트 포트폴리오
 
 ### 1. GetCiteFlow (https://www.getciteflow.ai)
-GEO(Generative Engine Optimization) 플랫폼. 웹사이트가 ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진에 인용되도록 지원. 8차원 스캔, AI 가시성 점수, 멀티포맷 내보내기.
+엔터프라이즈 AI 브랜드 서비스 플랫폼 — 무료 AI 가시성 스캐너. 모든 URL을 입력하면 6가지 차원에서 0-100의 AI 가시성 점수를 획득. 경쟁사 비교, 공유 가능한 리포트, 멀티 AI 엔진(Gemini, OpenAI, DeepSeek) 지원. 엔터프라이즈 서비스: Brand Visibility($3,999 일회성), AI Visibility Growth($4,999/월).
 
 ### 2. AI Quant Robot (https://quant.0xx402.com)
 AI 퀀트 트레이딩 플랫폼. 투자 패키지: Smart Kitty (0.3%/일), Quant Hunter (0.8%/일), Gold Digger (1.2%/일), Institutional (1.5%/일).

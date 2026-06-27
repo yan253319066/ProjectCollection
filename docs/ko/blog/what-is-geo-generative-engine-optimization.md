@@ -109,13 +109,13 @@ AI는 유명 브랜드와 업계 권위자를 인용하는 경향이 있습니�
 
 ## GetCiteFlow: 당신의 GEO 도구 상자
 
-[GetCiteFlow](https://www.getciteflow.ai)는 실제 필요에 따라 개발된 GEO 최적화 플랫폼입니다:
+[GetCiteFlow](https://www.getciteflow.ai)는 실제 필요에 따라 개발된 엔터프라이즈 AI 브랜드 서비스 플랫폼입니다:
 
-- **원클릭 스캔** — URL 입력, 8차원 완전 진단
-- **영향도 순 정렬** — 수정 영향도에 따라 제안 정렬
-- **멀티포맷 내보내기** — JSON-LD, Markdown, HTML, React JSX, Vue, WordPress
-- **경쟁사 비교** — 자신과 경쟁사의 AI 가시성 비교
-- **엔터프라이즈 서비스** — Technical GEO $999부터, AI Visibility Growth 월 $2,999부터
+- **원클릭 스캔** — URL 입력, 6차원 전체 진단
+- **영향도 정렬** — 수정 영향도 순으로 제안 표시
+- **경쟁사 비교** — 자사와 경쟁사의 AI 가시성 비교
+- **공유 가능한 리포트** — SSR 리포트 페이지, 동적 OG 이미지 지원
+- **엔터프라이즈 서비스** — Brand Visibility $3,999부터, AI Visibility Growth 월 $4,999부터
 
 ## 요약
 
@@ -125,4 +125,4 @@ GEO는 SEO의 대체재가 아니라, AI 검색 시대에 필수적인 보완입
 
 ---
 
-*저자: Neil Yan — XPayLabs와 GetCiteFlow 창업자. 8년의 Web3 및 블록체인 개발 경험. AI 애플리케이션 및 GEO 최적화를 전문으로 합니다.*
+*저자: Neil Yan — XPayLabs와 GetCiteFlow 창업자. 8년의 Web3 및 블록체인 개발 경험. AI 애플리케이션 및 브랜드 가시성 최적화를 전문으로 합니다.*

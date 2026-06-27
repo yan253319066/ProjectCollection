@@ -109,13 +109,13 @@ Implement fixes by priority:
 
 ## GetCiteFlow: Your GEO Toolkit
 
-[GetCiteFlow](https://www.getciteflow.ai) is the GEO optimization platform I built to solve real problems:
+[GetCiteFlow](https://www.getciteflow.ai) is the Enterprise AI Brand Service platform I built to solve real problems:
 
-- **One-click scan** — Enter URL, 8-dimension diagnosis
+- **One-click scan** — Enter URL, 6-dimension diagnosis
 - **Impact prioritization** — Fix suggestions sorted by impact
-- **Multi-format export** — JSON-LD, Markdown, HTML, React JSX, Vue, WordPress
 - **Competitor comparison** — Compare AI visibility with competitors
-- **Enterprise services** — Technical GEO from $999, AI Visibility Growth from $2,999/month
+- **Shareable reports** — SSR report pages with dynamic OG images
+- **Enterprise services** — Brand Visibility from $3,999, AI Visibility Growth from $4,999/month
 
 ## Summary
 
@@ -125,4 +125,4 @@ GEO isn't a replacement for SEO — it's an essential complement for the AI sear
 
 ---
 
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and GEO optimization.*
+*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and brand visibility optimization.*
