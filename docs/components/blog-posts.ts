@@ -2,11 +2,17 @@ export interface BlogPost {
   id: string
   titleZh: string
   titleEn: string
+  titleJa?: string
+  titleKo?: string
   date: string
   tagsZh: string[]
   tagsEn: string[]
+  tagsJa?: string[]
+  tagsKo?: string[]
   descriptionZh: string
   descriptionEn: string
+  descriptionJa?: string
+  descriptionKo?: string
   projectId?: string
 }
 
@@ -26,11 +32,17 @@ export const blogPosts: BlogPost[] = [
     id: 'what-is-geo-generative-engine-optimization',
     titleZh: '什么是GEO？让网站被ChatGPT、Claude、Perplexity引用的完整指南',
     titleEn: 'What is GEO? The Complete Guide to Getting Your Website Cited by ChatGPT, Claude & Perplexity',
+    titleJa: 'GEOとは？ChatGPT、Claude、Perplexityに引用されるための完全ガイド',
+    titleKo: 'GEO란? ChatGPT, Claude, Perplexity에 인용되는 완벽 가이드',
     date: '2026-06-13',
     tagsZh: ['GEO', 'Generative Engine Optimization', 'AI搜索', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI可见性', 'SEO'],
     tagsEn: ['GEO', 'Generative Engine Optimization', 'AI Search', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI Visibility', 'SEO'],
+    tagsJa: ['GEO', 'Generative Engine Optimization', 'AI検索', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI可視性'],
+    tagsKo: ['GEO', 'Generative Engine Optimization', 'AI 검색', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI 가시성'],
     descriptionZh: 'GEO（Generative Engine Optimization）是让网站被AI搜索引擎引用的关键技术。本文详解GEO原理、8大优化维度、实施步骤，以及如何用GetCiteFlow提升AI可见性。',
     descriptionEn: 'GEO (Generative Engine Optimization) is the key to getting your website cited by AI search engines. This guide covers 8 optimization dimensions, implementation steps, and how GetCiteFlow can help.',
+    descriptionJa: 'GEO（Generative Engine Optimization）は、WebサイトがAI検索エンジンに引用されるための重要な技術です。GEOの原理、8つの最適化次元、実装手順、GetCiteFlowを使ったAI可視性向上方法を詳しく解説します。',
+    descriptionKo: 'GEO(Generative Engine Optimization)는 웹사이트가 AI 검색 엔진에 인용되는 핵심 기술입니다. GEO 원리, 8가지 최적화 차원, 구현 단계, GetCiteFlow를 사용한 AI 가시성 향상 방법을 상세히 설명합니다.',
     projectId: 'getciteflow'
   },
   {
@@ -118,14 +130,26 @@ export const blogPosts: BlogPost[] = [
   }
 ]
 
-export function getBlogPosts(locale: 'zh' | 'en') {
+export function getBlogPosts(locale: 'zh' | 'en' | 'ja' | 'ko') {
   return blogPosts
-    .map(post => ({
-      ...post,
-      title: locale === 'zh' ? post.titleZh : post.titleEn,
-      tags: locale === 'zh' ? post.tagsZh : post.tagsEn,
-      description: locale === 'zh' ? post.descriptionZh : post.descriptionEn,
-      link: locale === 'zh' ? `/blog/${post.id}.html` : `/en/blog/${post.id}.html`
-    }))
+    .map(post => {
+      const title = locale === 'zh' ? post.titleZh
+        : locale === 'ja' ? (post.titleJa || post.titleEn)
+        : locale === 'ko' ? (post.titleKo || post.titleEn)
+        : post.titleEn
+      const tags = locale === 'zh' ? post.tagsZh
+        : locale === 'ja' ? (post.tagsJa || post.tagsEn)
+        : locale === 'ko' ? (post.tagsKo || post.tagsEn)
+        : post.tagsEn
+      const description = locale === 'zh' ? post.descriptionZh
+        : locale === 'ja' ? (post.descriptionJa || post.descriptionEn)
+        : locale === 'ko' ? (post.descriptionKo || post.descriptionEn)
+        : post.descriptionEn
+      const link = locale === 'zh' ? `/blog/${post.id}.html`
+        : locale === 'en' ? `/en/blog/${post.id}.html`
+        : locale === 'ja' ? `/ja/blog/${post.id}.html`
+        : `/ko/blog/${post.id}.html`
+      return { ...post, title, tags, description, link }
+    })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
 }

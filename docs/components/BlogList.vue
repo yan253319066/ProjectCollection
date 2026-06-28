@@ -10,7 +10,7 @@ function navigate(path: string) {
   router.go(path)
 }
 
-const props = defineProps<{ locale: 'zh' | 'en' }>()
+const props = defineProps<{ locale: 'zh' | 'en' | 'ja' | 'ko' }>()
 
 const posts = computed(() => {
   return getBlogPosts(props.locale).map(post => {

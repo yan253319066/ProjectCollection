@@ -1,12 +1,8 @@
 ---
 title: ブログ | Neil Yan - Web3創業者
-head:
-  - - meta
-    - http-equiv: refresh
-      content: 0; url=/en/blog/
-  - - link
-    - rel: canonical
-      href: https://www.0xx402.com/en/blog/
+description: Neil YanのWeb3開発ブログ — スマートコントラクト、DeFiプロトコル、暗号資産決済、AI取引など。
 ---
 
-リダイレクトしています... <a href="/en/blog/">こちらをクリック</a>
+# ブログ
+
+<BlogList locale="ja" />

@@ -7,11 +7,24 @@ export default defineConfig({
   vite: {
     plugins: [
       llms({
-        ignoreFiles: ['*/ja/*', '*/ko/*'],
+        ignoreFiles: ['**/ja/**', '**/ko/**'],
         generateLLMsFullTxt: true,
         generateLLMFriendlyDocsForEachPage: false
       })
     ]
+  },
+  transformHead: async ({ pageData }) => {
+    const fm = pageData.frontmatter as Record<string, unknown>
+    if (fm.date) {
+      const date = new Date(fm.date as string).toISOString()
+      const updated = fm.updated ? new Date(fm.updated as string).toISOString() : date
+      return [
+        ['meta', { property: 'article:published_time', content: date }],
+        ['meta', { property: 'article:modified_time', content: updated }],
+        ['meta', { property: 'article:author', content: 'Neil Yan' }]
+      ]
+    }
+    return []
   },
   title: "Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人",
   description: "Neil Yan — XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。已推出 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术栈。",
@@ -33,6 +46,7 @@ export default defineConfig({
     ['meta', { property: 'og:title', content: 'Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人' }],
     ['meta', { property: 'og:description', content: 'XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。已推出 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。' }],
     ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:site_name', content: 'Neil Yan - Web3 Founder Portfolio' }],
     ['meta', { property: 'og:url', content: siteUrl }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
     ['meta', { property: 'og:locale:alternate', content: 'en_US' }],
@@ -287,7 +301,7 @@ export default defineConfig({
           { text: 'ホーム', link: '/ja/' },
           { text: 'プロジェクト', link: '/ja/#projects' },
           { text: 'GEO サービス', link: '/ja/geo-services' },
-          { text: 'ブログ', link: '/en/blog/' }
+          { text: 'ブログ', link: '/ja/blog/' }
         ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },
@@ -352,7 +366,7 @@ export default defineConfig({
           { text: '홈', link: '/ko/' },
           { text: '프로젝트', link: '/ko/#projects' },
           { text: 'GEO 서비스', link: '/ko/geo-services' },
-          { text: '블로그', link: '/en/blog/' }
+          { text: '블로그', link: '/ko/blog/' }
         ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/yan253319066/ProjectCollection', ariaLabel: 'GitHub' },

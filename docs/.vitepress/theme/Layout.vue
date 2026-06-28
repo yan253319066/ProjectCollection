@@ -2,6 +2,7 @@
 import DefaultTheme from 'vitepress/theme'
 import { onMounted } from 'vue'
 import { inject } from '@vercel/analytics'
+import BreadcrumbJsonLd from '../../components/BreadcrumbJsonLd.vue'
 
 const { Layout } = DefaultTheme
 
@@ -11,5 +12,6 @@ onMounted(() => {
 </script>
 
 <template>
+  <BreadcrumbJsonLd />
   <Layout />
 </template>

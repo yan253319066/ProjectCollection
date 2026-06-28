@@ -8,9 +8,18 @@
 import { useRoute } from 'vitepress'
 
 const route = useRoute()
-const isEn = route.path.startsWith('/en/')
-const link = isEn ? '/en/blog/' : '/blog/'
-const text = isEn ? 'Back to Blog' : '返回博客'
+const path = route.path
+const isEn = path.startsWith('/en/')
+const isJa = path.startsWith('/ja/')
+const isKo = path.startsWith('/ko/')
+const link = isEn ? '/en/blog/'
+  : isJa ? '/ja/blog/'
+  : isKo ? '/ko/blog/'
+  : '/blog/'
+const text = isEn ? 'Back to Blog'
+  : isJa ? 'ブログに戻る'
+  : isKo ? '블로그로 돌아가기'
+  : '返回博客'
 </script>
 
 <style scoped>
