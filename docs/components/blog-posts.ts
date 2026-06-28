@@ -131,7 +131,10 @@ export const blogPosts: BlogPost[] = [
 ]
 
 export function getBlogPosts(locale: 'zh' | 'en' | 'ja' | 'ko') {
-  return blogPosts
+  const filtered = locale === 'ja' ? blogPosts.filter(p => p.titleJa)
+    : locale === 'ko' ? blogPosts.filter(p => p.titleKo)
+    : blogPosts
+  return filtered
     .map(post => {
       const title = locale === 'zh' ? post.titleZh
         : locale === 'ja' ? (post.titleJa || post.titleEn)
