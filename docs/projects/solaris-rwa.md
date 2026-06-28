@@ -1,6 +1,6 @@
 ---
 title: Solaris RWA - RWA 代币化平台开发 | Neil Yan 作品
-description: Solaris RWA 是一个去中心化现实世界资产代币化平台，专注于可再生能源项目，由区块链开发者 Neil Yan 开发。
+description: Solaris RWA 是一个去中心化现实世界资产代币化平台，专注于可再生能源项目，由 Neil Yan 打造。
 ---
 
 # Solaris RWA

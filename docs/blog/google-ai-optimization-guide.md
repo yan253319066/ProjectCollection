@@ -78,7 +78,7 @@ Core Web Vitals 不仅影响 Google 排名，也影响其他 AI 爬虫的抓取�
 
 ## 如何用 GetCiteFlow 全面覆盖所有平台？
 
-作为 [GetCiteFlow](https://www.getciteflow.ai) 的开发者，我的理念是：**不依赖单一平台的优化策略，而是全面覆盖所有 AI 搜索引擎。**
+作为 [GetCiteFlow](https://www.getciteflow.ai) 的创始人，我的理念是：**不依赖单一平台的优化策略，而是全面覆盖所有 AI 搜索引擎。**
 
 GetCiteFlow 的 6 维扫描涵盖了 Google 推荐的和非 Google 平台需要的所有维度：
 

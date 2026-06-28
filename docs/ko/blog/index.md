@@ -1,5 +1,5 @@
 ---
-title: 블로그 | Neil Yan - Web3 블록체인 개발자
+title: 블로그 | Neil Yan - Web3 창업자
 head:
   - - meta
     - http-equiv: refresh

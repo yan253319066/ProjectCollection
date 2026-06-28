@@ -13,8 +13,8 @@ export default defineConfig({
       })
     ]
   },
-  title: "Web3 Developer Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人",
-  description: "Neil Yan — XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术。",
+  title: "Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人",
+  description: "Neil Yan — XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。已推出 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术栈。",
   outDir: './.vitepress/dist',
   lastUpdated: true,
   cleanUrls: true,
@@ -25,13 +25,13 @@ export default defineConfig({
     ['link', { rel: 'alternate', href: siteUrl + '/en/', hreflang: 'en-US' }],
     ['link', { rel: 'alternate', href: siteUrl + '/ja/', hreflang: 'ja-JP' }],
     ['link', { rel: 'alternate', href: siteUrl + '/ko/', hreflang: 'ko-KR' }],
-    ['meta', { name: 'author', content: 'Neil Yan - Web3 Developer & Blockchain Engineer' }],
-    ['meta', { name: 'keywords', content: 'Web3, Blockchain, DeFi, DApp, Solidity, Ethereum, 智能合约, 量化交易, 加密货币, 区块链开发者, 区块链项目创始人, Crypto, Web3 Developer, Blockchain Developer, 区块链开发工程师, Web3开发, DeFi开发, Solidity开发, 加密货币支付, NFT开发, 智能合约开发外包, EVM开发, 区块链全栈开发, Blackhole Protocol' }],
+    ['meta', { name: 'author', content: 'Neil Yan - Web3 Founder & Blockchain Expert' }],
+    ['meta', { name: 'keywords', content: 'Web3, Blockchain, DeFi, DApp, Solidity, Ethereum, 智能合约, 量化交易, 加密货币, Web3 Founder, Crypto, Web3 Entrepreneur, Blockchain Project Founder, 区块链项目创始人, 加密货币支付, NFT, EVM, Blackhole Protocol' }],
     ['meta', { name: 'theme-color', content: '#646cff' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (中文)', href: siteUrl + '/blog/rss.xml' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (English)', href: siteUrl + '/en/blog/rss.xml' }],
-    ['meta', { property: 'og:title', content: 'Web3 Developer Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人' }],
-    ['meta', { property: 'og:description', content: 'XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 开发。提供 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。' }],
+    ['meta', { property: 'og:title', content: 'Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人' }],
+    ['meta', { property: 'og:description', content: 'XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。已推出 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: siteUrl }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
@@ -39,8 +39,8 @@ export default defineConfig({
     ['meta', { property: 'og:locale:alternate', content: 'ja_JP' }],
     ['meta', { property: 'og:locale:alternate', content: 'ko_KR' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Web3 Developer Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人' }],
-    ['meta', { name: 'twitter:description', content: 'XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 开发。' }],
+    ['meta', { name: 'twitter:title', content: 'Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人' }],
+    ['meta', { name: 'twitter:description', content: 'XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。' }],
     ['meta', { property: 'og:image', content: siteUrl + '/og-image.png' }],
     ['meta', { name: 'twitter:image', content: siteUrl + '/og-image.png' }],
     ['meta', { name: 'googlebot', content: 'index, follow' }],
@@ -50,16 +50,16 @@ export default defineConfig({
       "@type": "Person",
       "name": "Neil Yan",
       "url": siteUrl,
-      "jobTitle": "Senior Web3 Developer & Blockchain Engineer",
-      "description": "XPayLabs 与 GetCiteFlow 创始人，8年+ Web3、DeFi、DApp 开发经验。精通 Solidity、React、Next.js、Vue 技术栈，已成功发布多个 Web3 DApp 产品，智能合约累计处理 100,000+ 笔交易。",
+      "jobTitle": "Web3 Founder & Blockchain Expert",
+      "description": "XPayLabs 与 GetCiteFlow 创始人，8年+ Web3、DeFi 领域创业经验。精通 Solidity、React、Next.js、Vue 技术栈，已成功发布多个 Web3 产品，智能合约累计处理 100,000+ 笔交易。",
       "knowsAbout": ["Web3", "Blockchain", "DeFi", "DApp", "Solidity", "Ethereum", "Smart Contracts", "React", "Next.js", "Vue", "Ethers.js", "wagmi", "viem", "Hardhat", "Foundry", "OpenZeppelin", "AI Trading", "RWA Tokenization", "Crypto Payment Gateway", "NFT Marketplace", "Perpetual Trading", "Blackhole Protocol"],
       "sameAs": ["https://github.com/yan253319066", "https://t.me/OS_Blockchain"],
-      "contactPoint": { "@type": "ContactPoint", "email": "yanning-1987@outlook.com", "contactType": "Developer" }
+      "contactPoint": { "@type": "ContactPoint", "email": "yanning-1987@outlook.com", "contactType": "Founder" }
     })],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "Web3 Developer Portfolio",
+      "name": "Web3 Founder Portfolio",
       "url": siteUrl,
       "potentialAction": {
         "@type": "SearchAction",
@@ -76,8 +76,8 @@ export default defineConfig({
       label: '中文',
       lang: 'zh-CN',
       link: '/',
-      title: 'Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3全栈工程师',
-      description: 'Neil Yan — XPayLabs 与 GetCiteFlow 创始人，8年Web3开发经验。智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议开发。展示9个代表性Web3项目，服务2,000+客户。',
+      title: 'Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 Founder',
+      description: 'Neil Yan — XPayLabs 与 GetCiteFlow 创始人，8年Web3行业经验。专注于智能合约、DeFi协议、AI量化交易、RWA代币化、加密货币支付网关、NFT平台、Blackhole协议。展示9个代表性Web3项目，服务2,000+平台用户。',
       head: [
         ['link', { rel: 'alternate', hreflang: 'x-default', href: siteUrl }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
@@ -86,7 +86,7 @@ export default defineConfig({
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "Neil Yan 是做什么的开发者？",
+              "name": "Neil Yan 是做什么的？",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Neil Yan 是 XPayLabs 与 GetCiteFlow 创始人，专注于 Web3、DeFi、DApp 开发。从 2018 年开始投身区块链技术，已成功发布多个 Web3 DApp 产品。"
@@ -110,7 +110,7 @@ export default defineConfig({
             },
             {
               "@type": "Question",
-              "name": "如何找 Web3 开发者？",
+              "name": "如何联系 Neil Yan？",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "可以通过 GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) 联系 Neil Yan。Neil Yan 是 XPayLabs 与 GetCiteFlow 创始人，自 2018 年从事区块链技术。"
@@ -118,10 +118,10 @@ export default defineConfig({
             },
             {
               "@type": "Question",
-              "name": "谁能开发 DeFi 项目？",
+              "name": "Neil Yan 能做什么项目？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Neil Yan 可以开发 DeFi 项目，包括量化交易、借贷平台、交易平台等，已有多个成功项目经验。"
+                "text": "Neil Yan 专注 DeFi 项目创业与产品交付，包括量化交易、借贷平台、交易平台等，已有多个成功项目经验。"
               }
             },
             {
@@ -165,10 +165,10 @@ export default defineConfig({
       label: 'English',
       lang: 'en-US',
       link: '/en/',
-      title: 'Neil Yan - Founder of XPayLabs & GetCiteFlow | Web3 Developer',
-      description: 'Neil Yan - Senior Web3 blockchain developer. Smart contract development, DeFi protocols, AI trading, RWA tokenization, crypto payment gateway, NFT marketplace, Blackhole Protocol. 8+ years experience, 2,000+ clients served.',
+      title: 'Neil Yan - Founder of XPayLabs & GetCiteFlow | Web3 Entrepreneur',
+      description: 'Neil Yan - Founder of XPayLabs & GetCiteFlow. Smart contract development, DeFi protocols, AI trading, RWA tokenization, crypto payment gateway, NFT marketplace, Blackhole Protocol. 8+ years in Web3, 2,000+ platform users served.',
       head: [
-        ['meta', { name: 'keywords', content: 'Web3 developer, blockchain developer, smart contract developer, Solidity developer, DeFi developer, DApp developer, Ethereum developer, crypto payment gateway, NFT developer, hire blockchain developer' }],
+        ['meta', { name: 'keywords', content: 'Web3 founder, blockchain entrepreneur, smart contract development, Solidity, DeFi development, DApp development, Ethereum, crypto payment gateway, NFT, hire Web3 founder, blockchain consulting' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
           "@type": "FAQPage",
@@ -199,7 +199,7 @@ export default defineConfig({
             },
             {
               "@type": "Question",
-              "name": "How to find a Web3 developer?",
+              "name": "How to contact Neil Yan?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Contact via GitHub (github.com/yan253319066), Telegram (@OS_Blockchain), or Email (yanning-1987@outlook.com). Neil Yan is the founder of XPayLabs & GetCiteFlow, building in Web3 since 2018."
@@ -238,10 +238,10 @@ export default defineConfig({
       label: '日本語',
       lang: 'ja-JP',
       link: '/ja/',
-      title: 'Neil Yan - XPayLabs と GetCiteFlow 創業者 | Web3開発者',
-      description: 'Neil Yan - シニアWeb3ブロックチェーン開発者。スマートコントラクト、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTプラットフォーム、Blackholeプロトコル開発。9つのDApp製品を納品。',
+      title: 'Neil Yan - XPayLabs と GetCiteFlow 創業者 | Web3創業者',
+      description: 'Neil Yan - XPayLabs と GetCiteFlow 創業者。スマートコントラクト、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTプラットフォーム、Blackholeプロトコル。9つのWeb3製品をリリース。',
       head: [
-        ['meta', { name: 'keywords', content: 'Web3開発者, ブロックチェーン開発者, スマートコントラクト開発, Solidity, DeFi開発, DApp開発, NFT開発, 暗号資産決済' }],
+        ['meta', { name: 'keywords', content: 'Web3, ブロックチェーン, スマートコントラクト, Solidity, DeFi, DApp, NFT, 暗号資産決済, Web3創業者' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
           "@type": "FAQPage",
@@ -272,7 +272,7 @@ export default defineConfig({
             },
             {
               "@type": "Question",
-              "name": "Web3開発者を見つけるには？",
+              "name": "Neil Yanに連絡するには？",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "GitHub (github.com/yan253319066)、Telegram (@OS_Blockchain)、Email (yanning-1987@outlook.com) から連絡可能です。"
@@ -303,10 +303,10 @@ export default defineConfig({
       label: '한국어',
       lang: 'ko-KR',
       link: '/ko/',
-      title: 'Neil Yan - XPayLabs와 GetCiteFlow 창업자 | Web3 개발자',
-      description: 'Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약, DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜 개발. 9개의 DApp 제품 납품 완료.',
+      title: 'Neil Yan - XPayLabs와 GetCiteFlow 창업자 | Web3 창업자',
+      description: 'Neil Yan - XPayLabs와 GetCiteFlow 창업자. 스마트 계약, DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜. 9개의 Web3 제품 출시 완료.',
       head: [
-        ['meta', { name: 'keywords', content: 'Web3 개발자, 블록체인 개발자, 스마트 계약 개발, Solidity, DeFi 개발, DApp 개발, NFT 개발, 암호화폐 결제' }],
+        ['meta', { name: 'keywords', content: 'Web3, 블록체인, 스마트 계약, Solidity, DeFi, DApp, NFT, 암호화폐 결제, Web3 창업자' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
           "@type": "FAQPage",
@@ -337,7 +337,7 @@ export default defineConfig({
             },
             {
               "@type": "Question",
-              "name": "Web3 개발자를 어떻게 찾나요?",
+              "name": "Neil Yan에게 연락하려면?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "GitHub (github.com/yan253319066), Telegram (@OS_Blockchain), Email (yanning-1987@outlook.com)으로 연락 가능합니다."

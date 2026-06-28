@@ -1,6 +1,6 @@
 ---
 title: Blackhole Protocol - Decentralized Node Network | Neil Yan Portfolio
-description: Blackhole Protocol replaces capital thresholds with behavioral value in a decentralized node network, featuring HBP token economy, developed by blockchain developer Neil Yan.
+description: Blackhole Protocol replaces capital thresholds with behavioral value in a decentralized node network, featuring HBP token economy, built by Neil Yan.
 ---
 
 # Blackhole Protocol

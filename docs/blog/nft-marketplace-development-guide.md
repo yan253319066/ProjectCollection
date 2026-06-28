@@ -104,7 +104,7 @@ NFT 的图片和元数据需要存储在去中心化存储上：
 
 NFT 市场的开发涉及智能合约编写、去中心化存储、前端集成等多个环节。使用 OpenZeppelin 标准库和经过审计的合约模板可以大幅降低安全风险。
 
-我（Neil Yan）已交付多个 Web3 DApp，包括 NFT 相关开发。如果你正在找 **NFT 平台开发** 的 Web3 开发者，欢迎联系：
+我（Neil Yan）已交付多个 Web3 DApp，包括 NFT 相关开发。如果你正在找 **NFT 平台开发** 合作，欢迎联系：
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com

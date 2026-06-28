@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Neil Yan - 시니어 Web3 개발자 | 블록체인 엔지니어 | 스마트 계약 전문가
-description: Neil Yan - 시니어 Web3 블록체인 개발자. 스마트 계약 개발 (Solidity), DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜 개발. 9개의 DApp 납품, 100,000+ 온체인 거래.
+title: Neil Yan - XPayLabs와 GetCiteFlow 창업자 | Web3 창업자
+description: Neil Yan - XPayLabs와 GetCiteFlow 창업자. 스마트 계약 개발 (Solidity), DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜. 9개의 Web3 제품 출시, 100,000+ 온체인 거래.
 
 hero:
-  name: "Founder & Developer"
+  name: "Founder & Builder"
   text: "XPayLabs와 GetCiteFlow 창업자"
-  tagline: "GEO 최적화 + Web3 풀스택 개발 · 대표 프로젝트 9개 · 온체인 거래 100,000+ 건 · 플랫폼 사용자 2,000+ 명"
+  tagline: "GEO 최적화 + Web3 제품 개발 · 대표 프로젝트 9개 · 온체인 거래 100,000+ 건 · 플랫폼 사용자 2,000+ 명"
   actions:
     - theme: brand
       text: 프로젝트 보기
@@ -118,7 +118,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ## 연락처
 
-Web3 개발 문의는 언제든지 연락주세요：
+Web3 프로젝트 문의는 언제든지 연락주세요：
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)

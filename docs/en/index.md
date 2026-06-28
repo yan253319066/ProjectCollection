@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Neil Yan - Senior Web3 Developer | Blockchain Engineer | Smart Contract Expert
-description: Neil Yan - Founder of XPayLabs & GetCiteFlow. 8+ years in Web3 and blockchain development — smart contracts (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT platforms, Blackhole Protocol. Also offers GEO (Generative Engine Optimization) to help websites get cited by ChatGPT, Claude, Perplexity, and other AI search engines. 9 products delivered, 100,000+ on-chain transactions.
+title: Neil Yan - Founder of XPayLabs & GetCiteFlow | Web3 Entrepreneur
+description: Neil Yan - Founder of XPayLabs & GetCiteFlow. 8+ years in Web3 — smart contracts (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT platforms, Blackhole Protocol. Also offers GEO (Generative Engine Optimization) to help websites get cited by ChatGPT, Claude, Perplexity, and other AI search engines. 9 products delivered, 100,000+ on-chain transactions.
 
 hero:
-  name: "Founder & Developer"
+  name: "Founder & Builder"
   text: "Founder of XPayLabs & GetCiteFlow"
-  tagline: "GEO Optimization + Web3 Full-Stack Development · 9 Showcase Projects · 100,000+ On-Chain Transactions · 2,000+ Platform Users"
+  tagline: "GEO Optimization + Web3 Product Delivery · 9 Showcase Projects · 100,000+ On-Chain Transactions · 2,000+ Platform Users"
   actions:
     - theme: brand
       text: View Projects
@@ -116,7 +116,7 @@ Since **2018**, I've served **2,000+** platform users worldwide and processed **
 
 ## Contact
 
-Have a Web3 project in mind? Let's talk:
+Have a Web3 project or partnership in mind? Let's talk:
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)

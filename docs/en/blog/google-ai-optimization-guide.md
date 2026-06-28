@@ -78,7 +78,7 @@ Core Web Vitals affect not just Google rankings but also other AI crawlers' effi
 
 ## How GetCiteFlow Covers All Platforms
 
-As the developer of [GetCiteFlow](https://www.getciteflow.ai), my philosophy is: **don't optimize for a single platform — cover all AI search engines.**
+As the founder of [GetCiteFlow](https://www.getciteflow.ai), my philosophy is: **don't optimize for a single platform — cover all AI search engines.**
 
 GetCiteFlow's 6-dimension scan covers everything Google recommends AND what non-Google platforms need:
 

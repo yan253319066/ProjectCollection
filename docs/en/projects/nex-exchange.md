@@ -1,6 +1,6 @@
 ---
 title: Nex Exchange - Hybrid Exchange DApp Development | Neil Yan Portfolio
-description: Nex Exchange is a next-generation hybrid exchange combining CEX efficiency with DEX transparency, developed by blockchain developer Neil Yan.
+description: Nex Exchange is a next-generation hybrid exchange combining CEX efficiency with DEX transparency, built by Neil Yan.
 ---
 
 # Nex Exchange

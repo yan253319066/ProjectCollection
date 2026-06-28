@@ -1,6 +1,6 @@
 ---
 title: Nex Exchange - 混合交易所 DApp 开发 | Neil Yan 作品
-description: Nex Exchange 是结合 CEX 效率与 DEX 透明性的新一代混合交易所，由区块链开发者 Neil Yan 开发。
+description: Nex Exchange 是结合 CEX 效率与 DEX 透明性的新一代混合交易所，由 Neil Yan 打造。
 ---
 
 # Nex Exchange

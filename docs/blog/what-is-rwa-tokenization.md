@@ -92,7 +92,7 @@ contract RWAToken is ERC20, Ownable {
 
 RWA 代币化正在将传统金融和区块链世界连接起来。对于 Web3 开发者来说，这是一个充满机会的赛道。
 
-我开发的 **Solaris RWA** 平台专注于可再生能源资产代币化。如果你对 RWA 代币化开发感兴趣，或正在找 **RWA 项目开发** 的区块链开发者，欢迎联系：
+我开发的 **Solaris RWA** 平台专注于可再生能源资产代币化。如果你对 RWA 代币化开发感兴趣，或正在找 **RWA 项目** 合作，欢迎联系：
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **查看项目**: [Solaris RWA](https://rwa.0xx402.com)

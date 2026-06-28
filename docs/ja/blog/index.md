@@ -1,5 +1,5 @@
 ---
-title: ブログ | Neil Yan - Web3 ブロックチェーン開発者
+title: ブログ | Neil Yan - Web3創業者
 head:
   - - meta
     - http-equiv: refresh

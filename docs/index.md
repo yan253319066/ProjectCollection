@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 全栈开发
-description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3、DeFi、DApp开发经验。提供智能合约开发（Solidity）、DeFi协议开发、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等全栈区块链开发服务，同时提供 GEO（Generative Engine Optimization）优化，帮助网站被 ChatGPT、Claude、Perplexity 等 AI 搜索引擎引用。已服务2,000+平台用户，展示9个代表性项目，处理100,000+笔链上交易。
+title: Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 Founder
+description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3行业经验，专注于智能合约开发（Solidity）、DeFi协议、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等领域，同时提供 GEO（Generative Engine Optimization）优化，帮助网站被 ChatGPT、Claude、Perplexity 等 AI 搜索引擎引用。已服务2,000+平台用户，展示9个代表性项目，处理100,000+笔链上交易。
 
 hero:
-  name: "Founder & Developer"
+  name: "Founder & Builder"
   text: "XPayLabs 创始人 · GetCiteFlow 创始人"
-  tagline: "GEO 优化 + Web3 全栈开发 · 9 个代表性项目 · 100,000+ 笔链上交易 · 2,000+ 平台用户"
+  tagline: "GEO 优化 + Web3 产品交付 · 9 个代表性项目 · 100,000+ 笔链上交易 · 2,000+ 平台用户"
   actions:
     - theme: brand
       text: 查看项目
@@ -117,7 +117,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 ## 联系我
 
-有 Web3 开发需求？欢迎随时联系：
+有 Web3 项目合作需求？欢迎随时联系：
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
