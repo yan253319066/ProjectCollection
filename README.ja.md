@@ -1,58 +1,60 @@
-# Neil Yan (0xx402) - Founder & Developer | スマートコントラクト & GEO 最適化
+# Neil Yan — 独立系ファウンダー & フルスタック開発者（Web3 & AI）
 
 [English](./README.md) · [中文](./README.zh.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-Neil Yan は XPayLabs と GetCiteFlow の創業者、8 年の経験と 2,000+ のプラットフォームユーザーをサービス。スマートコントラクト開発（Solidity）、DeFi プロトコル、DApp 開発、GEO 最適化、ブロックチェーンコンサルティングを提供。Ethereum、Polygon、BNB Chain、Solana などに対応。
+**[XPayLabs](https://www.xpaylabs.com) と [GetCiteFlow](https://www.getciteflow.ai) の独立系ファウンダー**。17 年のフルスタック開発経験、うち 8 年は Web3・ブロックチェーンに特化、AI プロダクト開発にも対応。自社製品開発 + クライアント納品の二軸モデル。9 製品リリース、2,000+ のプラットフォームユーザーにサービス提供、スマートコントラクト累計 100,000+ トランザクション処理。投資・提携募集中。
+
+ポートフォリオ：[www.0xx402.com](https://www.0xx402.com)
 
 ## プロジェクト
 
 | プロジェクト | 説明 |
 |------------|------|
-| GetCiteFlow | GEO 最適化プラットフォーム — AI 検索エンジンに引用される |
-| AI Quant Robot | 高性能 Web3 AI 取引プラットフォーム |
-| Crypto Earn | 安全効率的な USDT スマート資産運用 |
-| Perpetual Trading | 現代的な先物取引インターフェース |
-| NexExchange | 次世代ハイブリッドエクスチェンジ |
-| Solaris RWA | 実世界資産トークナイゼーション |
-| XPayLabs | 自己ホスト型暗号通貨決済インフラ |
-| Prediction Market | 分散型予測マーケットプレイス |
-| Blackhole Protocol | 資本しきい値を行動的価値に置き換え、AIと共存する |
-
-## Neil Yan について
-
-XPayLabs と GetCiteFlow の創業者。2018 年からブロックチェーンと Web3 に従事し、AI アプリケーションと GEO 最適化を専門とする。専門分野：
-
-- スマートコントラクト開発 (Solidity, Vyper, Hardhat, Foundry)
-- フロントエンド開発 (React, Next.js, Vue)
-- Web3 統合 (Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism)
-- GEO と AI 統合 (Gemini API, OpenAI, Generative Engine Optimization)
+| [**GetCiteFlow**](https://www.getciteflow.ai) | エンタープライズ AI ブランド可視性プラットフォーム — 無料 AI 可視性スキャナー、6 次元スコアリング、競合比較 |
+| [**AI Quant Robot**](https://quant.0xx402.com) | AI クオンツ取引プラットフォーム、複数投資パッケージ |
+| [**Crypto Earn**](https://earn.0xx402.com) | USDT スマート資産運用（Locked 18.5% / Stable 12.5% / Flexible 8.2% APY） |
+| [**Perpetual Trading**](https://futures.0xx402.com) | 永久先物取引 — BTC、ETH、BNB、SOL、1-50 倍レバレッジ |
+| [**Nex Exchange**](https://nex.0xx402.com) | 次世代ハイブリッド取引所、CEX 効率 + DEX 透明性 |
+| [**Solaris RWA**](https://rwa.0xx402.com) | RWA トークン化プラットフォーム、再生可能エネルギー資産に特化 |
+| [**XPayLabs**](https://www.xpaylabs.com) | セルフホスト型暗号資産決済インフラ — 手数料無料（ネットワーク手数料のみ）、KYC 不要、React + Java SDK |
+| [**Prediction Market**](https://prediction.0xx402.com) | 分散型予測市場プラットフォーム |
+| [**Blackhole Protocol**](https://blackhole.0xx402.com) | 分散型ノードネットワーク — 3 層ノードシステム、3x3 マトリックス、HBP デフレメカニズム |
 
 ## 技術スタック
 
 | カテゴリ | 技術 |
 |----------|------|
-| ブロックチェーン | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism |
-| スマートコントラクト | Solidity, Hardhat, Foundry, OpenZeppelin |
-| フロントエンド | React, Next.js, Vue, TypeScript, Tailwind CSS |
-| Web3 | Ethers.js, viem, wagmi, Reown AppKit |
-| バックエンド | Node.js, Java, Python, Express, Spring Boot |
-| AI | Google Gemini API, OpenAI |
+| スマートコントラクト | Solidity、Vyper、Hardhat、Foundry、OpenZeppelin |
+| フロントエンド | React、Next.js、Vue、TypeScript、Tailwind CSS |
+| Web3 統合 | Ethers.js、viem、wagmi、Reown AppKit — 15+ チェーン（Ethereum、Solana、Polygon、Arbitrum、Base…） |
+| バックエンド | Node.js、Java、Python、Express、Spring Boot |
+| データベース | MySQL、PostgreSQL、Redis、Supabase |
+| AI | Google Gemini API、OpenAI、Alibaba Cloud Qwen |
+| デプロイ | Vercel、Railway、Docker、AWS、Alibaba Cloud、Tencent Cloud |
+
+## 開発可能なプロジェクト
+
+- **DeFi プロトコル** — レンディング、AMM、イールドアグリゲーター
+- **NFT プラットフォーム** — ミント、マーケットプレイス、ブラインドボックス
+- **暗号資産決済ゲートウェイ** — セルフホスト、ゼロ手数料、マルチチェーン
+- **AI クオンツ取引システム** — クオンツ戦略、スマート資産運用
+- **RWA トークン化プラットフォーム** — 現実資産のオンチェーン化
+- **予測市場 & ハイブリッド取引所**
+- **AI ブランド可視性（GEO）** — エンタープライズサービス、GetCiteFlow で提供
+- **ブロックチェーンデータダッシュボード & スマートコントラクト開発**
 
 ## 連絡先
 
-- **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
+- **ポートフォリオ**: [www.0xx402.com](https://www.0xx402.com)
+- **GitHub**: [github.com/yan253319066](https://github.com/yan253319066)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-## はじめに
+## 開発
 
 ```bash
 npm install
-npm run docs:dev
+npm run docs:dev     # 開発サーバー起動（ホットリロード）
+npm run docs:build   # 本番ビルド → サイトマップ → RSS
+npm run docs:preview # 本番ビルドをプレビュー
 ```
-
-## コマンド
-
-- `npm run docs:dev` - 開発サーバーを起動
-- `npm run docs:build` - 本番用にビルド
-- `npm run docs:preview` - 本番ビルドをプレビュー
