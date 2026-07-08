@@ -13,6 +13,14 @@ if (!existsSync(outDir)) {
 
 const posts = [
   {
+    id: 'independent-developer-survival-guide',
+    titleZh: '独立开发者生存指南：从接项目到自研产品，我的 17 年全栈之路',
+    titleEn: "The Independent Developer's Survival Guide: 17 Years of Full-Stack, From Freelancing to Building Products",
+    date: '2026-07-08',
+    descriptionZh: '从 17 年全栈开发经验出发，分享独立开发者的真实生存指南：如何找客户、报价技巧、双轨模式（自研产品+客户交付）、时间管理和技术栈选择。',
+    descriptionEn: "A 17-year full-stack developer shares real survival strategies: finding clients, pricing, the dual-track model, time management, and tech stack decisions.",
+  },
+  {
     id: 'smart-contract-security-tips',
     titleZh: '智能合约安全开发最佳实践',
     titleEn: 'Smart Contract Security Best Practices',
@@ -75,6 +83,22 @@ const posts = [
     date: '2026-05-25',
     descriptionZh: '详细介绍如何找到合适的区块链开发者，包括招聘渠道、评估标准、避坑指南和真实预算参考。',
     descriptionEn: 'Complete guide to hiring a Web3 developer — where to find them, how to evaluate, and real budget expectations.',
+  },
+  {
+    id: 'crypto-payment-gateway-comparison',
+    titleZh: '自托管 vs 第三方：加密货币支付网关怎么选？全面对比指南',
+    titleEn: 'Self-Hosted vs Third-Party Crypto Payment Gateways: A Complete Comparison',
+    date: '2026-07-08',
+    descriptionZh: '加密货币支付网关选型指南。从手续费、资金控制权、KYC、接入难度等 8 个维度对比自托管和第三方方案。',
+    descriptionEn: 'A comprehensive comparison of self-hosted vs third-party crypto payment gateways across 8 dimensions: fees, fund control, KYC, integration difficulty, and more.',
+  },
+  {
+    id: 'how-to-get-cited-by-chatgpt-geo-guide',
+    titleZh: '如何被 ChatGPT 引用？AI 品牌可见性（GEO）实战指南',
+    titleEn: 'How to Get Cited by ChatGPT: A Practical Guide to AI Brand Visibility (GEO)',
+    date: '2026-07-08',
+    descriptionZh: 'AI 搜索引擎正在改变用户获取信息的方式。详解优化网站被 AI 引用的 6 个核心维度和 7 个可执行步骤。',
+    descriptionEn: 'AI search engines are changing how users discover content. Practical guide covering 6 dimensions and 7 actionable steps to get your website cited by AI.',
   }
 ]
 

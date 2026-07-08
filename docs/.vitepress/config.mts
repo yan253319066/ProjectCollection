@@ -47,7 +47,7 @@ export default defineConfig({
     ['link', { rel: 'alternate', href: siteUrl + '/ja/', hreflang: 'ja-JP' }],
     ['link', { rel: 'alternate', href: siteUrl + '/ko/', hreflang: 'ko-KR' }],
     ['meta', { name: 'author', content: 'Neil Yan - Independent Founder & Full-Stack Developer (Web3 & AI)' }],
-    ['meta', { name: 'keywords', content: 'Web3, Blockchain, AI, 全栈开发, Full-Stack, GEO, DeFi, DApp, Solidity, Ethereum, 智能合约, 独立创始人, Independent Founder, Web3 Founder, Crypto, Web3 Entrepreneur, AI应用, 区块链项目创始人, 加密货币支付, NFT, EVM, Blackhole Protocol, Indie Founder, 融资, Investment' }],
+    ['meta', { name: 'keywords', content: 'Web3, Blockchain, AI, 全栈开发, Full-Stack, GEO, DeFi, DApp, Solidity, Ethereum, 智能合约, 独立创始人, Independent Founder, Web3 Founder, Crypto, Web3 Entrepreneur, AI应用, 区块链项目创始人, 加密货币支付, NFT, EVM, Blackhole Protocol, Indie Founder, 融资, Investment, Web3外包, 区块链开发外包, 找Web3开发者, 雇佣全栈开发者, 远程开发者, 加密货币支付网关, USDT支付, 自托管支付, GEO优化, AI品牌可见性, 生成式引擎优化, ChatGPT引用, AI量化交易, 加密理财, 永续合约交易所, 去中心化预测市场, RWA代币化, 可再生能源代币化, 混合交易所, 多链开发, EVM开发, 独立开发者, DeFi借贷, 节点网络协议, DApp开发' }],
     ['meta', { name: 'theme-color', content: '#646cff' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (中文)', href: siteUrl + '/blog/rss.xml' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (English)', href: siteUrl + '/en/blog/rss.xml' }],
@@ -190,7 +190,7 @@ export default defineConfig({
       title: 'Neil Yan - Independent Founder | XPayLabs & GetCiteFlow | Web3 & AI Full-Stack',
       description: 'Neil Yan — Independent founder behind XPayLabs & GetCiteFlow. Dual-track model: building my own products + delivering for clients. 17+ years full-stack, 8 years deep in Web3 & blockchain, plus AI product development. 9 products shipped, 100,000+ transactions. Open to investment and partnerships.',
       head: [
-        ['meta', { name: 'keywords', content: 'Web3 founder, AI developer, full-stack developer, independent founder, indie founder, blockchain entrepreneur, smart contract development, Solidity, DeFi development, DApp development, Ethereum, crypto payment gateway, NFT, hire Web3 founder, blockchain consulting, GEO, AI brand visibility, Web3 investment' }],
+        ['meta', { name: 'keywords', content: 'Web3 founder, AI developer, full-stack developer, independent founder, indie founder, blockchain entrepreneur, smart contract development, Solidity, DeFi development, DApp development, Ethereum, crypto payment gateway, NFT, hire Web3 founder, blockchain consulting, GEO, AI brand visibility, Web3 investment, hire web3 developer, blockchain freelancer, remote blockchain developer, hire full-stack developer, USDT payment API, self-hosted crypto payment, generative engine optimization, AI search visibility, ChatGPT SEO, Perplexity SEO, LLM optimization, AI quant trading, crypto wealth management, perpetual futures trading, RWA tokenization, prediction market platform, hybrid exchange, multi-chain developer, EVM developer, DeFi lending protocol, node network protocol, crypto entrepreneur for hire' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
           "@type": "FAQPage",
@@ -263,7 +263,7 @@ export default defineConfig({
       title: 'Neil Yan - 独立系ファウンダー | XPayLabs & GetCiteFlow | Web3 & AI フルスタック',
       description: 'Neil Yan — XPayLabs と GetCiteFlow を構築する独立系ファウンダー。自社製品開発 + クライアント案件の二軸モデル。17年のフルスタック開発経験、うち8年はWeb3・ブロックチェーンに特化、AIプロダクト開発にも対応。9製品リリース、100,000+取引。投資・提携募集中。',
       head: [
-        ['meta', { name: 'keywords', content: 'Web3, AI, ブロックチェーン, スマートコントラクト, Solidity, DeFi, DApp, NFT, 暗号資産決済, AIブランド可視性, GEO, Web3創業者, フルスタック開発' }],
+        ['meta', { name: 'keywords', content: 'Web3, AI, ブロックチェーン, スマートコントラクト, Solidity, DeFi, DApp, NFT, 暗号資産決済, AIブランド可視性, GEO, Web3創業者, フルスタック開発, Web3開発者募集, ブロックチェーン開発委託, フリーランス開発者, 暗号資産決済ゲートウェイ, USDT決済, セルフホスト決済, AIブランド最適化, ジェネレーティブエンジン最適化, ChatGPT引用, AIクオンツ取引, 暗号資産運用, 永久先物取引, RWAトークン化, 予測市場プラットフォーム, ハイブリッド取引所, マルチチェーン開発, EVM開発, DeFiレンディング, ノードネットワーク' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
           "@type": "FAQPage",
@@ -328,7 +328,7 @@ export default defineConfig({
       title: 'Neil Yan - 독립 창업자 | XPayLabs & GetCiteFlow | Web3 & AI 풀스택',
       description: 'Neil Yan — XPayLabs와 GetCiteFlow를 구축하는 독립 창업자. 자체 제품 개발 + 클라이언트 딜리버리 듀얼 트랙 모델. 17년 풀스택 개발, 8년간 Web3 & 블록체인 전문, AI 제품 개발 병행. 9개 제품 출시, 100,000+ 트랜잭션. 투자 및 파트너십 제안 환영.',
       head: [
-        ['meta', { name: 'keywords', content: 'Web3, AI, 블록체인, 스마트 계약, Solidity, DeFi, DApp, NFT, 암호화폐 결제, AI 브랜드 가시성, GEO, Web3 창업자, 풀스택 개발' }],
+        ['meta', { name: 'keywords', content: 'Web3, AI, 블록체인, 스마트 계약, Solidity, DeFi, DApp, NFT, 암호화폐 결제, AI 브랜드 가시성, GEO, Web3 창업자, 풀스택 개발, Web3 개발자 고용, 블록체인 개발 아웃소싱, 프리랜서 개발자, 암호화폐 결제 게이트웨이, USDT 결제, 셀프 호스트 결제, AI 브랜드 최적화, 생성형 엔진 최적화, ChatGPT 인용, AI 퀀트 트레이딩, 암호화폐 자산 관리, 영구 선물 거래, RWA 토큰화, 예측 시장 플랫폼, 하이브리드 거래소, 멀티체인 개발, EVM 개발, DeFi 대출, 노드 네트워크' }],
         ['script', { type: 'application/ld+json' }, JSON.stringify({
           "@context": "https://schema.org",
           "@type": "FAQPage",

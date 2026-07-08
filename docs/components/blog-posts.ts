@@ -18,6 +18,38 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    id: 'independent-developer-survival-guide',
+    titleZh: '独立开发者生存指南：从接项目到自研产品，我的 17 年全栈之路',
+    titleEn: "The Independent Developer's Survival Guide: 17 Years of Full-Stack, From Freelancing to Building Products",
+    date: '2026-07-08',
+    tagsZh: ['独立开发者', '全栈开发', '自由职业', '远程工作', '接项目', '创业', 'Web3', '独立创始人', '副业', '开发者成长'],
+    tagsEn: ['Independent Developer', 'Full-Stack', 'Freelance', 'Remote Work', 'Solo Founder', 'Web3', 'Indie Hacker', 'Career Growth', 'Side Project'],
+    descriptionZh: '从 17 年全栈开发经验出发，分享独立开发者的真实生存指南：如何找客户、报价技巧、双轨模式（自研产品+客户交付）、时间管理和技术栈选择。不只是方法论，更是踩坑经验。',
+    descriptionEn: "A 17-year full-stack developer shares the real survival guide for independent developers: finding clients, pricing strategies, the dual-track model (products + client work), time management, and tech stack decisions. Honest lessons from the trenches.",
+  },
+  {
+    id: 'crypto-payment-gateway-comparison',
+    titleZh: '自托管 vs 第三方：加密货币支付网关怎么选？全面对比指南',
+    titleEn: 'Self-Hosted vs Third-Party Crypto Payment Gateways: A Complete Comparison',
+    date: '2026-07-08',
+    tagsZh: ['加密货币支付', '支付网关', 'XPayLabs', 'USDT', '自托管', '电商', '区块链支付', 'TRON', '支付接入'],
+    tagsEn: ['Crypto Payment', 'Payment Gateway', 'XPayLabs', 'USDT', 'Self-Hosted', 'E-Commerce', 'Blockchain Payment', 'TRON', 'Payment Integration'],
+    descriptionZh: '加密货币支付网关选型指南。从手续费、资金控制权、KYC、接入难度等 8 个维度对比自托管和第三方方案，帮助电商和开发者选择最适合的加密支付方案。',
+    descriptionEn: 'A comprehensive comparison of self-hosted vs third-party crypto payment gateways across 8 dimensions: fees, fund control, KYC, integration difficulty, and more. Built on experience from XPayLabs.',
+    projectId: 'xpay-labs'
+  },
+  {
+    id: 'how-to-get-cited-by-chatgpt-geo-guide',
+    titleZh: '如何被 ChatGPT 引用？AI 品牌可见性（GEO）实战指南',
+    titleEn: 'How to Get Cited by ChatGPT: A Practical Guide to AI Brand Visibility (GEO)',
+    date: '2026-07-08',
+    tagsZh: ['GEO', 'AI品牌可见性', 'ChatGPT', '生成式引擎优化', 'AI搜索', 'LLM', 'GetCiteFlow', 'AI引用'],
+    tagsEn: ['GEO', 'AI Brand Visibility', 'ChatGPT', 'Generative Engine Optimization', 'AI Search', 'LLM', 'GetCiteFlow', 'AI Citations'],
+    descriptionZh: 'AI 搜索引擎（ChatGPT、Perplexity、Claude）正在改变用户获取信息的方式。本文从实战出发，详解如何优化网站被 AI 引用的 6 个核心维度和 7 个可执行步骤，帮助你抓住 AI 搜索流量入口。',
+    descriptionEn: 'AI search engines like ChatGPT, Perplexity, and Claude are changing how users discover information. A practical guide covering the 6 dimensions and 7 actionable steps to get your website cited by AI, from the builder of GetCiteFlow.',
+    projectId: 'getciteflow'
+  },
+  {
     id: 'google-ai-optimization-guide',
     titleZh: 'Google 官方 AI 搜索优化指南解读：哪些该做，哪些是噱头？',
     titleEn: "Google's Official AI Search Optimization Guide: What Works, What's Hype?",

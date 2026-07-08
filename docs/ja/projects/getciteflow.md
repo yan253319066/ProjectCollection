@@ -1,5 +1,5 @@
 ---
-title: GetCiteFlow - GEOプラットフォーム | Neil Yan 作品
+title: GetCiteFlow - エンタープライズAIブランド可視性プラットフォーム | Neil Yan 作品
 description: GetCiteFlow は GEO プラットフォームです。WebサイトがChatGPT、Claude、Perplexity、GeminiなどのAI検索エンジンに引用されるよう支援します。Scan → Diagnose → Fix → Export。
 ---
 

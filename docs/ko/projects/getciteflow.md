@@ -1,5 +1,5 @@
 ---
-title: GetCiteFlow - GEO 플랫폼 | Neil Yan 포트폴리오
+title: GetCiteFlow - 엔터프라이즈 AI 브랜드 가시성 플랫폼 | Neil Yan 포트폴리오
 description: GetCiteFlow는 GEO 플랫폼으로, 웹사이트가 ChatGPT, Claude, Perplexity, Gemini 등 AI 검색 엔진에 인용되도록 지원합니다. Scan → Diagnose → Fix → Export.
 ---
 
