@@ -83,7 +83,7 @@ Google Rich Results Test、Schema.org Validator、GetCiteFlowで実装効果を�
 ## 私を選ぶ理由
 
 - **実戦経験** — 私自身が [GetCiteFlow](https://www.getciteflow.ai) エンタープライズAIブランドサービスプラットフォームを開発し、AIシステムの仕組みを深く理解しています
-- **技術的背景** — 8年のWeb3とフルスタック開発経験、Schema、HTML、パフォーマンス最適化に精通
+- **技術的背景** — 17年のフルスタック開発経験、8年のWeb3・ブロックチェーン専門知識、Schema、HTML、パフォーマンス最適化に精通
 - **検証可能な結果** — 私のポートフォリオサイト 0xx402.com は最適化により複数のAIシステムに引用されています
 
 ## 始め方

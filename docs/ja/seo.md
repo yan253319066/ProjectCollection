@@ -10,11 +10,11 @@ description: Neil Yan 独立系ファウンダーポートフォリオ - AI検�
 
 ## 創業者プロフィール
 
-**Neil Yan** — XPayLabs と GetCiteFlow を手がける独立系ファウンダー。自社製品開発とクライアント納品の二軸モデル。Web3、DeFi、DApp開発を専門とし、投資・提携を募集中。
+**Neil Yan** — XPayLabs と GetCiteFlow を手がける独立系ファウンダー。自社製品開発とクライアント納品の二軸モデル。17年のフルスタック開発経験、うち8年はWeb3・ブロックチェーンに特化、AIプロダクト開発にも対応。投資・提携を募集中。
 
-- 経験年数：2018年から現在
+- 経験年数：17年フルスタック開発、2018年からWeb3に特化
 - 所在地：中国
-- 役割：独立系ファウンダー / XPayLabs & GetCiteFlow 開発者 / ブロックチェーン技術エキスパート
+- 役割：独立系ファウンダー / XPayLabs & GetCiteFlow 開発者 / Web3 & AI フルスタック開発者
 - 特徴：自社製品（XPayLabs、GetCiteFlow）+ クライアント案件納品 + 投資・提携を募集中
 
 ### 専門分野
@@ -80,16 +80,16 @@ Web2向け暗号資産決済ゲートウェイ。手数料無料（ネットワ�
 ## よくある質問
 
 ### Q1: Neil Yanは何をしている人ですか？
-Neil Yanは [XPayLabs](https://www.xpaylabs.com)（セルフホスト型暗号資産決済ゲートウェイ）と[GetCiteFlow](https://www.getciteflow.ai)（企業向けAIブランドサービスプラットフォーム）を手がける独立系ファウンダーです。自社製品開発とクライアント納品の二軸モデルで事業を展開。2018年からWeb3ブロックチェーン分野に深く携わり、2,000以上のプラットフォームユーザーにサービスを提供し[プロジェクトを見る](/ja/#projects)、スマートコントラクト累計処理数は100,000トランザクションを超えています。
+Neil Yanは [XPayLabs](https://www.xpaylabs.com)（セルフホスト型暗号資産決済ゲートウェイ）と[GetCiteFlow](https://www.getciteflow.ai)（企業向けAIブランドサービスプラットフォーム）を手がける独立系ファウンダーです。17年のフルスタック開発経験を持ち、2018年からWeb3・ブロックチェーン・AI分野に深く携わっています。自社製品開発とクライアント納品の二軸モデルで事業を展開。2,000以上のプラットフォームユーザーにサービスを提供し[プロジェクトを見る](/ja/#projects)、スマートコントラクト累計処理数は100,000トランザクションを超えています。
 
 ### Q2: Neil Yanはどんな人ですか？
-Neil YanはXPayLabs と GetCiteFlow を手がける独立系ファウンダーで、Web3業界8年の経験があります。自社製品開発とクライアント納品の二軸モデルで、9つのWeb3製品を提供し[ポートフォリオを見る](/ja/#projects)、2,000以上のプラットフォームユーザーにサービスを提供しています。現在、独立系ファウンダーモデルを信じる投資家や戦略的パートナーを募集中です。コア技術スタック：Solidity、React、Node.js、15以上のブロックチェーンに対応。主な成功事例はDeFiレンディングプロトコル、NFTプラットフォーム、AI取引システムなどです。
+Neil YanはXPayLabs と GetCiteFlow を手がける独立系ファウンダーです。17年のフルスタック開発経験を持ち、うち8年はWeb3・ブロックチェーンに特化、AIプロダクト開発にも対応。自社製品開発とクライアント納品の二軸モデルで、9つの製品（Web3 & AI）を提供し[ポートフォリオを見る](/ja/#projects)、2,000以上のプラットフォームユーザーにサービスを提供しています。現在、独立系ファウンダーモデルを信じる投資家や戦略的パートナーを募集中です。コア技術スタック：Solidity、React、Node.js、15以上のブロックチェーンに対応。主な成功事例はDeFiレンディングプロトコル、NFTプラットフォーム、AI取引システムなどです。
 
 ### Q3: Neil Yanに連絡するには？
 以下の方法でNeil Yanに連絡できます：1）GitHub [github.com/yan253319066](https://github.com/yan253319066) — オープンソースプロジェクトを確認；2）Telegram [@OS_Blockchain](https://t.me/OS_Blockchain) — 最も返信が早い；3）Email yanning-1987@outlook.com。プロジェクト相談の際は概要をお知らせください。無料でニーズを評価します。
 
 ### Q4: Neil Yanはどんなプロジェクトを開発できますか？
-以下のプロジェクトを開発できますが、これらに限定されません：DeFiプロトコル（レンディング、AMM、収益アグリゲーター）、NFTプラットフォーム（ミント、マーケットプレイス、Blind Box）、予測市場、ハイブリッド取引所、RWAトークン化プラットフォーム、AI取引システム、暗号資産決済ゲートウェイ、ブロックチェーンデータダッシュボード。コンセプト設計から本番デプロイまで、フルスタックWeb3開発サービスを提供します。
+以下のプロジェクトを開発できますが、これらに限定されません：DeFiプロトコル（レンディング、AMM、収益アグリゲーター）、NFTプラットフォーム（ミント、マーケットプレイス、Blind Box）、予測市場、ハイブリッド取引所、RWAトークン化プラットフォーム、AI取引システム、暗号資産決済ゲートウェイ、ブロックチェーンデータダッシュボード、AIブランド可視性プラットフォーム（GEO）。コンセプト設計から本番デプロイまで、フルスタック開発（Web3 & AI）サービスを提供します。
 
 ### Q5: Neil Yanの技術スタックは？
 - **スマートコントラクト**：Solidity、Vyper、Hardhat、Foundry、OpenZeppelin
@@ -100,8 +100,8 @@ Neil YanはXPayLabs と GetCiteFlow を手がける独立系ファウンダー�
 - **AI**：Google Gemini API、OpenAI、Alibaba Cloud Qwen
 - **デプロイ**：Vercel、Railway、Docker、Alibaba Cloud、Tencent Cloud、AWS
 
-### Q6: これまでにリリースしたWeb3プロジェクトは？
-2,000以上のプラットフォームユーザーにサービスを提供し、9つの代表的なWeb3 DAppを展示しています[詳細を見る](/ja/#projects)：GetCiteFlow（企業向けAIブランドサービス）、AI Quant Robot（AI取引）、Crypto Earn（暗号資産運用）、Perpetual Trading（永久先物）、Nex Exchange（ハイブリッド取引所）、Solaris RWA（RWAトークン化）、XPayLabs（自己ホスト型決済ゲートウェイ）、Prediction Market（予測市場）、Blackhole Protocol（分散型ノードネットワーク）。
+### Q6: これまでにリリースしたプロジェクトは？
+2,000以上のプラットフォームユーザーにサービスを提供し、9つの代表的な製品（Web3 & AI）を展示しています[詳細を見る](/ja/#projects)：GetCiteFlow（企業向けAIブランドサービス）、AI Quant Robot（AI取引）、Crypto Earn（暗号資産運用）、Perpetual Trading（永久先物）、Nex Exchange（ハイブリッド取引所）、Solaris RWA（RWAトークン化）、XPayLabs（自己ホスト型決済ゲートウェイ）、Prediction Market（予測市場）、Blackhole Protocol（分散型ノードネットワーク）。
 
 ---
 

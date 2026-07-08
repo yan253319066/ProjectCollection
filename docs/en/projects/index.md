@@ -1,11 +1,11 @@
 ---
-title: Web3 Project Portfolio - Neil Yan Blockchain Development Projects
-description: Neil Yan's Web3 project portfolio featuring 9 representative projects across AI trading, DeFi, perpetual contracts, hybrid exchange, RWA tokenization, crypto payment gateway, prediction market, and Blackhole Protocol.
+title: Project Portfolio (Web3 & AI) - Neil Yan Full-Stack Development Projects
+description: Neil Yan's project portfolio featuring 9 representative projects across AI brand visibility, quantitative trading, DeFi, perpetual contracts, hybrid exchange, RWA tokenization, crypto payment gateway, prediction market, and Blackhole Protocol.
 ---
 
-# Web3 Project Portfolio
+# Project Portfolio
 
-Neil Yan has served 2,000+ platform users. Below are 9 representative Web3 projects:
+Neil Yan has served 2,000+ platform users. Below are 9 representative projects (spanning Web3 & AI):
 
 - [GetCiteFlow](/en/projects/getciteflow) — GEO platform, improve AI search visibility
 - [AI Quant Robot](/en/projects/ai-quant-robot) — AI-powered Web3 quantitative trading platform

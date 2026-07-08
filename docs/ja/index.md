@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Neil Yan - インディペンデント・ファウンダー | XPayLabs & GetCiteFlow | Web3フルスタック開発
-description: Neil Yan —— インディペンデント・ファウンダー、XPayLabsとGetCiteFlowの構築者。自社プロダクト開発とクライアントデリバリーの両輪経営：プロダクトが実力を証明し、クライアント案件がキャッシュフローを生む。Web3歴8年、9プロダクトリリース、100,000件以上のオンチェーン取引実績。投資・協業を募集中。
+title: Neil Yan - インディペンデント・ファウンダー | XPayLabs & GetCiteFlow | Web3 & AI フルスタック開発
+description: Neil Yan —— インディペンデント・ファウンダー、XPayLabsとGetCiteFlowの構築者。自社プロダクト開発とクライアントデリバリーの両輪経営：プロダクトが実力を証明し、クライアント案件がキャッシュフローを生む。17年のフルスタック開発経験、そのうち8年はWeb3・ブロックチェーンに特化、AIプロダクト開発にも対応。9プロダクトリリース、100,000件以上のオンチェーン取引実績。投資・協業を募集中。
 
 hero:
   name: "Neil Yan"
   text: "インディペンデント・ファウンダー · フルスタックビルダー"
-  tagline: "自社プロダクト（XPayLabs、GetCiteFlow）を開発する一方、クライアントのWeb3プロジェクトも手がける。プロダクトが実力を証明し、クライアント案件がキャッシュフローを生む——両輪で支え合う経営だ。これは副業じゃない。これが、僕の選んだ起業のかたちだ。"
+  tagline: "自社プロダクト（XPayLabs、GetCiteFlow）を開発する一方、クライアントのWeb3・AIプロジェクトも手がける。プロダクトが実力を証明し、クライアント案件がキャッシュフローを生む——両輪で支え合う経営だ。これは副業じゃない。これが、僕の選んだ起業のかたちだ。"
   actions:
     - theme: brand
       text: プロジェクトを見る
@@ -53,7 +53,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 インディペンデント・ファウンダーとは？——自分でコードを書き、自分でプロダクトを作り、自分でクライアントと話す。給料ゼロでまずプロダクトを磨き、案件の収益をプロダクトに再投資する。XPayLabsもGetCiteFlowも、そうやって一歩ずつ育ててきた。
 
-**2018年**からブロックチェーン業界に携わり、国内外 **2,000+** 名のプラットフォームユーザーにサービスを提供し、**100,000+** 件のオンチェーン取引を処理してきました。以下は私の **9つの代表プロジェクト**です：
+**2018年**からブロックチェーン業界に携わり、**17年のフルスタック開発**を基盤に、国内外 **2,000+** 名のプラットフォームユーザーにサービスを提供し、**100,000+** 件のオンチェーン取引を処理してきました。以下は私の **9つの代表プロジェクト**（Web3 と AI 分野）です：
 
 - 🌐 **GEO最適化** — [GetCiteFlow](/ja/projects/getciteflow)：ChatGPT、Claude、Perplexity、GeminiなどのAI検索エンジンにWebサイトが引用されるよう支援
 - 🤖 **AI取引** — AI Quant Robot：AI駆動のWeb3クオンツ取引、マルチチェーン自動裁定
@@ -65,14 +65,14 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 - 🎯 **予測マーケット** — Prediction Market：ブロックチェーン基盤の分散型予測プラットフォーム
 - 🕳️ **Blackholeプロトコル** — Blackhole Protocol：資本しきい値を行動的価値に置き換える分散型ノードネットワーク
 
-信念はシンプルです：**安全で信頼性の高いコードで、あなたのWeb3アイデアを現実のプロダクトに。**
+信念はシンプルです：**安全で信頼性の高いコードで、あなたのWeb3・AIアイデアを現実のプロダクトに。**
 
 ### コア技術スタック
 
 | 分野 | 技術力 |
 |------|--------|
 | **スマートコントラクト** | Solidity, Vyper, Hardhat, Foundry, OpenZeppelin — 監査レベルのセキュリティ |
-| **フロントエンド** | React, Next.js, Vue, TypeScript, Tailwind CSS — 高性能Web3 UI |
+| **フロントエンド** | React, Next.js, Vue, TypeScript, Tailwind CSS — 高性能UI |
 | **Web3統合** | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism など15+チェーン |
 | **バックエンド** | Node.js, Java, Python, MySQL, Redis, Supabase — 高可用アーキテクチャ |
 | **ウォレット接続** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
@@ -93,7 +93,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 ### 技術開発サービス
 
-Web3プロダクトをカタチにしたい方へ。僕が提供できることは：
+Web3・AIプロダクトをカタチにしたい方へ。僕が提供できることは：
 
 | サービス | 説明 |
 |----------|------|
@@ -109,7 +109,7 @@ Web3プロダクトをカタチにしたい方へ。僕が提供できること�
 
 | 指標 | データ |
 |------|--------|
-| リリース済みWeb3製品 | 9個 |
+| リリース済み製品 | 9個 |
 | 対応チェーン数 | 15以上（EVMフルサポート） |
 | スマートコントラクト取引 | 100,000件以上 |
 | プラットフォームユーザー数 | 2,000以上 |
@@ -118,7 +118,7 @@ Web3プロダクトをカタチにしたい方へ。僕が提供できること�
 
 **投資家・パートナーの方へ：** インディペンデント・ファウンダーのスタイルに共感し、投資・資金調達・戦略的提携について話したい方は——[Telegram](https://t.me/OS_Blockchain) で直接ご連絡ください。詳細な事業計画書をお見せできます。
 
-**プロジェクトオーナーの方へ：** Web3プロダクトの開発パートナーをお探しですか？アイデアをお持ちください。0→1でカタチにします。
+**プロジェクトオーナーの方へ：** Web3・AIプロダクトの開発パートナーをお探しですか？アイデアをお持ちください。0→1でカタチにします。
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)

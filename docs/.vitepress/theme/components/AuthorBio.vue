@@ -28,10 +28,10 @@ function shouldShow(): boolean {
 
 /** 作者简介文案，按 VitePress localeIndex 区分 */
 const BIOS: Record<string, string> = {
-  root:  '<strong>作者：Neil Yan</strong> — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。<br>8 年 Web3 与区块链开发经验。',
-  en:    '<strong>Author: Neil Yan</strong> — Independent founder behind XPayLabs & GetCiteFlow.<br>8+ years of Web3 and blockchain experience.',
-  ja:    '<strong>著者：Neil Yan</strong> — インディペンデント・ファウンダー、XPayLabs と GetCiteFlow の構築者。<br>8 年の Web3 とブロックチェーン開発経験。',
-  ko:    '<strong>저자: Neil Yan</strong> — 독립 창업자, XPayLabs와 GetCiteFlow 빌더.<br>8년의 Web3 및 블록체인 개발 경험.',
+  root:  '<strong>作者：Neil Yan</strong> — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。<br>17 年全栈开发经验，8 年 Web3 与区块链深耕，兼 AI 产品开发。',
+  en:    '<strong>Author: Neil Yan</strong> — Independent founder behind XPayLabs & GetCiteFlow.<br>17+ years in full-stack dev, 8 years deep in Web3 & blockchain, plus AI product development.',
+  ja:    '<strong>著者：Neil Yan</strong> — インディペンデント・ファウンダー、XPayLabs と GetCiteFlow の構築者。<br>17 年のフルスタック開発経験、8 年の Web3・ブロックチェーン専門知識、AI プロダクト開発にも注力。',
+  ko:    '<strong>저자: Neil Yan</strong> — 독립 창업자, XPayLabs와 GetCiteFlow 빌더.<br>17년 풀스택 개발 경험, 8년간 Web3 & 블록체인 전문, AI 제품 개발 병행.',
 }
 </script>
 

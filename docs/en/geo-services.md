@@ -83,7 +83,7 @@ Regularly scan AI visibility changes and track citations across ChatGPT, Perplex
 ## Why Choose Me?
 
 - **Hands-on experience** — I built [GetCiteFlow](https://www.getciteflow.ai), an Enterprise AI Brand Service platform, giving me deep insight into how AI systems work
-- **Technical background** — 8 years of Web3 and full-stack development, expert in Schema, HTML, and performance optimization
+- **Technical background** — 17+ years full-stack, 8 years deep in Web3 & blockchain, expert in Schema, HTML, and performance optimization
 - **Verifiable results** — My portfolio site 0xx402.com has been cited by multiple AI systems through optimization
 
 ## Get Started

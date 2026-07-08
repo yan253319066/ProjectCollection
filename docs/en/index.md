@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Neil Yan - Independent Founder | XPayLabs & GetCiteFlow | Web3 Full-Stack
-description: "Neil Yan — Independent founder behind XPayLabs & GetCiteFlow. Dual-track model: building my own products while delivering for clients. Product revenue funds iteration, client work funds the products. 8+ years in Web3, 9 products shipped, 100,000+ transactions. Open to investment and partnerships."
+title: Neil Yan - Independent Founder | XPayLabs & GetCiteFlow | Web3 & AI Full-Stack
+description: "Neil Yan — Independent founder behind XPayLabs & GetCiteFlow. Dual-track model: building my own products while delivering for clients. Product revenue funds iteration, client work funds the products. 17+ years full-stack, 8 years deep in Web3 & blockchain, plus AI product development. 9 products shipped, 100,000+ transactions. Open to investment and partnerships."
 
 hero:
   name: "Neil Yan"
   text: "Independent Founder & Full-Stack Builder"
-  tagline: "I build my own products (XPayLabs, GetCiteFlow). I build for clients. The two feed each other — products prove capability, client work provides cash flow. This isn't a side hustle. This is how I build a company."
+  tagline: "I build my own products (XPayLabs, GetCiteFlow). I build Web3 and AI products for clients. The two feed each other — products prove capability, client work provides cash flow. This isn't a side hustle. This is how I build a company."
   actions:
     - theme: brand
       text: View Projects
@@ -53,7 +53,7 @@ Hi, I'm **Neil Yan**, an **independent founder**.
 
 What does that mean? I write the code, I build the products, I talk to clients. I bootstrap products without a salary, then reinvest client revenue back into the products. That's how XPayLabs and GetCiteFlow came to life.
 
-Since **2018**, I've served **2,000+** platform users worldwide and processed **100,000+** on-chain transactions. Here are my **9 representative projects**:
+Since **2018**, I've spent **8 years deep in Web3 & blockchain**, building on a foundation of **17+ years in full-stack development**. I've served **2,000+** platform users worldwide and processed **100,000+** on-chain transactions. Here are my **9 representative projects** (spanning Web3 & AI):
 
 - 🌐 **GEO Optimization** — [GetCiteFlow](/en/projects/getciteflow): Get your site cited by ChatGPT, Claude, Perplexity, Gemini & more
 - 🤖 **AI Trading System** — [AI Quant Robot](/en/projects/ai-quant-robot): Multi-chain auto arbitrage
@@ -70,7 +70,7 @@ Since **2018**, I've served **2,000+** platform users worldwide and processed **
 | Area | Expertise |
 |------|-----------|
 | **Smart Contracts** | Solidity, Vyper, Hardhat, Foundry, OpenZeppelin — audit-grade security |
-| **Frontend** | React, Next.js, Vue, TypeScript, Tailwind CSS — high-performance Web3 UI |
+| **Frontend** | React, Next.js, Vue, TypeScript, Tailwind CSS — high-performance UI |
 | **Web3 Integration** | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism & 15+ more |
 | **Backend** | Node.js, Java, Python, MySQL, Redis, Supabase — scalable server architecture |
 | **Wallet Connection** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
@@ -91,7 +91,7 @@ If you're interested in the following, let's have a real conversation:
 
 ### Technical Delivery
 
-Need a Web3 product built? Here's what I can do for you:
+Need a Web3 or AI product built? Here's what I can do for you:
 
 | Service | Description |
 |---------|-------------|
@@ -107,7 +107,7 @@ Need a Web3 product built? Here's what I can do for you:
 
 | Metric | Data |
 |--------|------|
-| Web3 Products Released | 9 |
+| Products Released | 9 |
 | Supported Chains | 15+ (Full EVM Support) |
 | Smart Contract Transactions | 100,000+ |
 | Clients Served | 2,000+ |
@@ -116,7 +116,7 @@ Need a Web3 product built? Here's what I can do for you:
 
 **For investors & partners:** If the independent founder model resonates with you — let's talk investment, funding, or strategic partnerships. Reach me on [Telegram](https://t.me/OS_Blockchain). I have a solid business plan to share.
 
-**For clients:** Have a Web3 product you need built? Bring me your idea. I'll take it from 0 to 1.
+**For clients:** Have a Web3 or AI product you need built? Bring me your idea. I'll take it from 0 to 1.
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)

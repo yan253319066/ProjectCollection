@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Neil Yan - 独立创始人 | XPayLabs & GetCiteFlow | Web3 全栈交付
-description: Neil Yan — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。自研产品 + 客户交付双轨模式：产品收入养迭代，接单收入养产品。8 年 Web3 经验，9 个产品已上线，100,000+ 笔链上交易。开放投资与合作。
+title: Neil Yan - 独立创始人 | XPayLabs & GetCiteFlow | Web3 & AI 全栈开发
+description: Neil Yan — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。自研产品 + 客户交付双轨模式：产品收入养迭代，接单收入养产品。17 年全栈开发经验，8 年 Web3/区块链深耕，兼 AI 产品开发。9 个产品已上线，100,000+ 笔链上交易。开放投资与合作。
 
 hero:
   name: "Neil Yan"
   text: "独立创始人 · 全栈构建者"
-  tagline: "我自己做产品（XPayLabs、GetCiteFlow），也帮客户交付 Web3 项目。两边互相养活——产品证明能力，接单提供现金流。这不是 side hustle，这是我的创业路径。"
+  tagline: "我自己做产品（XPayLabs、GetCiteFlow），也帮客户交付 Web3 和 AI 项目。两边互相养活——产品证明能力，接单提供现金流。这不是 side hustle，这是我的创业路径。"
   actions:
     - theme: brand
       text: 查看项目
@@ -54,7 +54,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 什么叫独立创始人？——我自己写代码、自己做产品、自己谈客户。不拿工资先烧产品，接单赚钱再投回产品。XPayLabs 和 GetCiteFlow 就是这么一步步做出来的。
 
-自 **2018 年**进入区块链行业，已服务海内外 **2,000+** 平台用户，处理 **100,000+** 笔链上交易。以下是我的 **9 个代表性项目**：
+自 **17 年全栈开发**以来，其中 **8 年深耕 Web3 与区块链**，已服务海内外 **2,000+** 平台用户，处理 **100,000+** 笔链上交易。以下是我的 **9 个代表性项目**（涵盖 Web3 与 AI 领域）：
 
 - 🌐 **GEO 优化** — [GetCiteFlow](/projects/getciteflow)：帮助网站被 ChatGPT、Claude、Perplexity、Gemini 等 AI 搜索引擎引用
 - 🤖 **AI 量化交易系统** — AI Quant Robot：多链自动套利
@@ -71,7 +71,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 | 领域 | 技术能力 |
 |------|----------|
 | **智能合约开发** | Solidity, Vyper, Hardhat, Foundry, OpenZeppelin — 安全审计级合约 |
-| **前端开发** | React, Next.js, Vue, TypeScript, Tailwind CSS — 高性能 Web3 前端 |
+| **前端开发** | React, Next.js, Vue, TypeScript, Tailwind CSS — 高性能前端 |
 | **Web3 集成** | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism 等 15+ 公链 |
 | **后端服务** | Node.js, Java, Python, MySQL, Redis, Supabase — 高可用服务端架构 |
 | **钱包连接** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
@@ -92,7 +92,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 ### 技术交付服务
 
-需要交付 Web3 产品？以下是我能帮你做的事：
+需要交付 Web3 或 AI 产品？以下是我能帮你做的事：
 
 | 服务 | 说明 |
 |------|------|
@@ -108,7 +108,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 | 指标 | 数据 |
 |------|------|
-| 已发布 Web3 产品 | 9 个 |
+| 已发布产品 | 9 个 |
 | 支持公链数量 | 15+ 条（EVM 全链支持） |
 | 智能合约累计处理 | 100,000+ 笔交易 |
 | 服务平台用户数量 | 2,000+ |
@@ -117,7 +117,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 **对投资人或合作伙伴：** 如果你认同独立创始人的模式，想聊投资、融资或战略合作——[Telegram](https://t.me/OS_Blockchain) 直接找我，我有完整的商业计划可以分享。
 
-**对项目方：** 有 Web3 产品需要交付？同样来找我。带上你的想法，我帮你从 0 到 1 做出来。
+**对项目方：** 有 Web3 或 AI 产品需要交付？同样来找我。带上你的想法，我帮你从 0 到 1 做出来。
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)

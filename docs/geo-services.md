@@ -83,7 +83,7 @@ AI 系统（ChatGPT、Claude、Perplexity、Gemini、DeepSeek 等）正成为用
 ## 为什么选我？
 
 - **实战经验** — 我开发了 [GetCiteFlow](https://www.getciteflow.ai) 企业级 AI 品牌服务平台，深入理解 AI 系统的工作原理
-- **技术背景** — 8 年 Web3 与全栈开发经验，精通 Schema、HTML、性能优化
+- **技术背景** — 17 年全栈开发经验，8 年 Web3/区块链深耕，精通 Schema、HTML、性能优化
 - **可验证结果** — 我的作品集网站 0xx402.com 已通过优化被多个 AI 搜索引擎引用
 
 ## 开始

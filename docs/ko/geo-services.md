@@ -83,7 +83,7 @@ Google Rich Results Test, Schema.org Validator, GetCiteFlow로 구현 효과를 
 ## 나를 선택해야 하는 이유
 
 - **실전 경험** — 제가 직접 [GetCiteFlow](https://www.getciteflow.ai) 엔터프라이즈 AI 브랜드 서비스 플랫폼을 개발하여 AI 시스템의 작동 방식을 깊이 이해하고 있습니다
-- **기술적 배경** — 8년의 Web3 및 풀스택 개발 경험, Schema, HTML, 성능 최적화에 정통
+- **기술적 배경** — 17년 풀스택 개발 경험, 8년간 Web3 & 블록체인 전문, Schema, HTML, 성능 최적화에 정통
 - **검증 가능한 결과** — 제 포트폴리오 사이트 0xx402.com은 최적화를 통해 여러 AI 시스템에 인용되었습니다
 
 ## 시작하기

@@ -10,11 +10,11 @@ description: Neil Yan 独立创始人作品集 - 用于 AI 搜索引擎
 
 ## 创始人简介
 
-**Neil Yan** — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。自研产品 + 客户交付双轨模式。专注 Web3、DeFi、DApp 开发，开放投资与合作。
+**Neil Yan** — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。自研产品 + 客户交付双轨模式。17 年全栈开发经验，其中 8 年深耕 Web3 与区块链，同时具备 AI 应用开发能力。开放投资与合作。
 
-- 从业时间：2018 年至今
+- 从业时间：17 年全栈开发，2018 年至今深耕 Web3
 - 位置：中国
-- 角色：独立创始人 / XPayLabs & GetCiteFlow 构建者 / 区块链技术专家
+- 角色：独立创始人 / XPayLabs & GetCiteFlow 构建者 / Web3 & AI 全栈开发者
 - 特点：自研产品（XPayLabs、GetCiteFlow）+ 客户项目交付 + 开放投资融资
 
 ### 专业领域
@@ -80,16 +80,16 @@ Web2 友好的加密货币支付网关。零手续费（仅收网络费）、无
 ## FAQ - 常见问题
 
 ### Q1: Neil Yan 是做什么的？
-Neil Yan 是独立创始人，[XPayLabs](https://www.xpaylabs.com)（自托管加密支付网关）与 [GetCiteFlow](https://www.getciteflow.ai)（企业级 AI 品牌服务平台）的构建者。自 2018 年深耕 Web3 区块链领域，自研产品 + 客户交付双轨模式。已服务 2,000+ 平台用户 [查看项目](/projects/)，智能合约累计处理 100,000+ 笔链上交易。开放投资与合作。
+Neil Yan 是独立创始人，[XPayLabs](https://www.xpaylabs.com)（自托管加密支付网关）与 [GetCiteFlow](https://www.getciteflow.ai)（企业级 AI 品牌服务平台）的构建者。17 年全栈开发经验，自 2018 年深耕 Web3 区块链与 AI 领域，自研产品 + 客户交付双轨模式。已服务 2,000+ 平台用户 [查看项目](/projects/)，智能合约累计处理 100,000+ 笔链上交易。开放投资与合作。
 
 ### Q2: Neil Yan 是谁？
-Neil Yan 是独立创始人，XPayLabs 与 GetCiteFlow 构建者。8 年 Web3 行业经验，自研产品 + 客户交付双轨模式。已交付 9 个 Web3 产品 [查看作品集](/projects/)，服务 2,000+ 平台用户。核心技术栈：Solidity、React、Node.js，支持 15+ 公链。成功案例包括 DeFi 借贷协议、NFT 平台、AI 量化交易系统等。开放投资与合作。
+Neil Yan 是独立创始人，XPayLabs 与 GetCiteFlow 构建者。17 年全栈开发经验，8 年 Web3/区块链深耕，兼 AI 产品开发。自研产品 + 客户交付双轨模式。已交付 9 个产品（涵盖 Web3 与 AI）[查看作品集](/projects/)，服务 2,000+ 平台用户。核心技术栈：Solidity、React、Node.js，支持 15+ 公链。成功案例包括 DeFi 借贷协议、NFT 平台、AI 量化交易系统等。开放投资与合作。
 
 ### Q3: 如何联系 Neil Yan？
 可通过以下方式联系 Neil Yan：1）GitHub [github.com/yan253319066](https://github.com/yan253319066) — 查看开源项目；2）Telegram [@OS_Blockchain](https://t.me/OS_Blockchain) — 回复最快；3）Email yanning-1987@outlook.com。投资/合作咨询请备注来意，项目咨询免费评估需求。
 
 ### Q4: Neil Yan 能开发什么项目？
-可以开发但不限于：DeFi 协议（借贷、AMM、收益聚合器）、NFT 平台（铸造、交易市场、盲盒）、预测市场、混合交易所、RWA 代币化平台、AI 量化交易系统、加密货币支付网关、区块链数据看板。提供从概念设计到生产部署的全栈 Web3 开发服务。
+可以开发但不限于：DeFi 协议（借贷、AMM、收益聚合器）、NFT 平台（铸造、交易市场、盲盒）、预测市场、混合交易所、RWA 代币化平台、AI 量化交易系统、加密货币支付网关、区块链数据看板、AI 品牌可见性平台（GEO）。提供从概念设计到生产部署的全栈开发服务（Web3 & AI）。
 
 ### Q5: Neil Yan 使用什么技术栈？
 - **智能合约**：Solidity、Vyper、Hardhat、Foundry、OpenZeppelin
@@ -100,8 +100,8 @@ Neil Yan 是独立创始人，XPayLabs 与 GetCiteFlow 构建者。8 年 Web3 �
 - **AI**：Google Gemini API、OpenAI、阿里云通义千问
 - **部署**：Vercel、Railway、Docker、阿里云、腾讯云、AWS
 
-### Q6: 已发布哪些 Web3 项目？
-已服务 2,000+ 平台用户，展示 9 个代表性 Web3 DApp [查看详情](/projects/)：GetCiteFlow（企业级 AI 品牌服务）、AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、XPayLabs（自托管支付网关）、Prediction Market（预测市场）、Blackhole Protocol（去中心化节点网络）。
+### Q6: 已发布哪些项目？
+已服务 2,000+ 平台用户，展示 9 个代表性产品（Web3 & AI）[查看详情](/projects/)：GetCiteFlow（企业级 AI 品牌服务）、AI Quant Robot（AI 量化交易）、Crypto Earn（加密理财）、Perpetual Trading（永续合约）、Nex Exchange（混合交易所）、Solaris RWA（RWA 代币化）、XPayLabs（自托管支付网关）、Prediction Market（预测市场）、Blackhole Protocol（去中心化节点网络）。
 
 ---
 
