@@ -80,6 +80,3 @@ const chains = [mainnet, polygon, arbitrum, optimism, base] as const
 
 I support 15+ blockchain networks. Need a **multi-chain DApp developer**? Contact me on [Telegram](https://t.me/OS_Blockchain).
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

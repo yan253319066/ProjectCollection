@@ -96,6 +96,3 @@ Google Rich Results Test、Schema.org Validator、GetCiteFlowで実装効果を�
 
 または [GetCiteFlow](https://www.getciteflow.ai) にアクセスしてセルフスキャンをご利用ください。
 
----
-
-*著者：Neil Yan — XPayLabs と GetCiteFlow 創業者。8年のWeb3とブロックチェーン開発経験。AIアプリケーションとブランド可視性最適化を専門としています。*

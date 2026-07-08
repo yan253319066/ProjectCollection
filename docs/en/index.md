@@ -1,17 +1,20 @@
 ---
 layout: home
 
-title: Neil Yan - Founder of XPayLabs & GetCiteFlow | Web3 Entrepreneur
-description: Neil Yan - Founder of XPayLabs & GetCiteFlow. 8+ years in Web3 — smart contracts (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT platforms, Blackhole Protocol. Also offers GEO (Generative Engine Optimization) to help websites get cited by ChatGPT, Claude, Perplexity, and other AI search engines. 9 products delivered, 100,000+ on-chain transactions.
+title: Neil Yan - Independent Founder | XPayLabs & GetCiteFlow | Web3 Full-Stack
+description: "Neil Yan — Independent founder behind XPayLabs & GetCiteFlow. Dual-track model: building my own products while delivering for clients. Product revenue funds iteration, client work funds the products. 8+ years in Web3, 9 products shipped, 100,000+ transactions. Open to investment and partnerships."
 
 hero:
   name: "Neil Yan"
-  text: "Web3 Founder & Full-Stack Builder"
-  tagline: "Smart contracts, DApp frontends, and AI visibility optimization — from concept to mainnet. 9 products shipped, 100,000+ transactions processed"
+  text: "Independent Founder & Full-Stack Builder"
+  tagline: "I build my own products (XPayLabs, GetCiteFlow). I build for clients. The two feed each other — products prove capability, client work provides cash flow. This isn't a side hustle. This is how I build a company."
   actions:
     - theme: brand
       text: View Projects
       link: /en/#projects
+    - theme: alt
+      text: Get in Touch
+      link: /en/#contact
 
 features:
   - title: GEO Platform
@@ -42,13 +45,15 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 
 <ProjectGrid />
 
-## Neil Yan Portfolio {#about}
+## About Me {#about}
 
-**0xx402** is my portfolio showcasing representative projects across **GEO optimization** and **Web3 development** — two areas I'm equally passionate about as founder of XPayLabs & GetCiteFlow.
+**0xx402** is my portfolio — and my founder's log.
 
-Hi, I'm **Neil Yan** — **Founder of XPayLabs & GetCiteFlow**.
+Hi, I'm **Neil Yan**, an **independent founder**.
 
-Since **2018**, I've served **2,000+** platform users worldwide and processed **100,000+** on-chain transactions. Below are **9 representative projects**:
+What does that mean? I write the code, I build the products, I talk to clients. I bootstrap products without a salary, then reinvest client revenue back into the products. That's how XPayLabs and GetCiteFlow came to life.
+
+Since **2018**, I've served **2,000+** platform users worldwide and processed **100,000+** on-chain transactions. Here are my **9 representative projects**:
 
 - 🌐 **GEO Optimization** — [GetCiteFlow](/en/projects/getciteflow): Get your site cited by ChatGPT, Claude, Perplexity, Gemini & more
 - 🤖 **AI Trading System** — [AI Quant Robot](/en/projects/ai-quant-robot): Multi-chain auto arbitrage
@@ -73,7 +78,20 @@ Since **2018**, I've served **2,000+** platform users worldwide and processed **
 | **Database** | MySQL, PostgreSQL, Redis, Supabase — reliable data layer |
 | **DevOps** | Vercel, Railway, Docker, Alibaba Cloud, Tencent Cloud, AWS |
 
-### What I Can Do For You
+### Products & Investment
+
+If you're interested in the following, let's have a real conversation:
+
+| Opportunity | Details |
+|-------------|---------|
+| 💰 **Investment / Funding** | Seeking early-stage investors who believe in the independent founder model. Accelerating XPayLabs & GetCiteFlow product iteration and market expansion |
+| 💳 **XPayLabs Enterprise** | Private deployment, white-label customization, and technical integration for self-hosted crypto payment infrastructure — non-custodial, zero gateway fees |
+| 🌐 **GetCiteFlow Enterprise** | AI Brand Visibility services ($3,999 one-time / $4,999/month). Already serving global brands |
+| 🤝 **Strategic Partnerships** | Wallet integration, exchange liquidity, protocol-level collaboration, co-branded products |
+
+### Technical Delivery
+
+Need a Web3 product built? Here's what I can do for you:
 
 | Service | Description |
 |---------|-------------|
@@ -94,14 +112,16 @@ Since **2018**, I've served **2,000+** platform users worldwide and processed **
 | Smart Contract Transactions | 100,000+ |
 | Clients Served | 2,000+ |
 
-## Contact
+## Contact {#contact}
 
-Have a Web3 project or partnership in mind? Let's talk:
+**For investors & partners:** If the independent founder model resonates with you — let's talk investment, funding, or strategic partnerships. Reach me on [Telegram](https://t.me/OS_Blockchain). I have a solid business plan to share.
+
+**For clients:** Have a Web3 product you need built? Bring me your idea. I'll take it from 0 to 1.
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-Telegram is the fastest way to reach me. Please include a brief description of your project 👋
+Telegram is the fastest way to reach me. Please mention your intent (Investment / Partnership / Project Inquiry) 👋
 
-*Last updated: April 2026*
+*Last updated: July 2026*

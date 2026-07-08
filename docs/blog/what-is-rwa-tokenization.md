@@ -97,6 +97,3 @@ RWA 代币化正在将传统金融和区块链世界连接起来。对于 Web3 �
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **查看项目**: [Solaris RWA](https://rwa.0xx402.com)
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

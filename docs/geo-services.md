@@ -96,6 +96,3 @@ AI 系统（ChatGPT、Claude、Perplexity、Gemini、DeepSeek 等）正成为用
 
 或直接访问 [GetCiteFlow](https://www.getciteflow.ai) 自助扫描。
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与品牌可见性优化领域。*

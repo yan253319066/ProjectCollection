@@ -96,7 +96,4 @@ At $100,000 monthly transaction volume:
 
 Visit the [XPayLabs website](https://www.xpaylabs.com) for technical documentation, API references, and deployment guides.
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*
 

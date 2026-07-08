@@ -1,17 +1,20 @@
 ---
 layout: home
 
-title: Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 Founder
-description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3行业经验，专注于智能合约开发（Solidity）、DeFi协议、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等领域，同时提供 GEO（Generative Engine Optimization）优化，帮助网站被 ChatGPT、Claude、Perplexity 等 AI 搜索引擎引用。已服务2,000+平台用户，展示9个代表性项目，处理100,000+笔链上交易。
+title: Neil Yan - 独立创始人 | XPayLabs & GetCiteFlow | Web3 全栈交付
+description: Neil Yan — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。自研产品 + 客户交付双轨模式：产品收入养迭代，接单收入养产品。8 年 Web3 经验，9 个产品已上线，100,000+ 笔链上交易。开放投资与合作。
 
 hero:
   name: "Neil Yan"
-  text: "Web3 产品创始人 · 全栈交付"
-  tagline: "从产品设计到主网上线，一站覆盖智能合约、DApp 前端、GEO 优化。已交付 9 个产品，累计处理 100,000+ 笔链上交易"
+  text: "独立创始人 · 全栈构建者"
+  tagline: "我自己做产品（XPayLabs、GetCiteFlow），也帮客户交付 Web3 项目。两边互相养活——产品证明能力，接单提供现金流。这不是 side hustle，这是我的创业路径。"
   actions:
     - theme: brand
       text: 查看项目
       link: /#projects
+    - theme: alt
+      text: 合作联系
+      link: /#contact
 
 features:
   - title: GEO 平台
@@ -43,13 +46,15 @@ import ProjectGrid from './components/ProjectGrid.vue'
 
 <ProjectGrid />
 
-## Neil Yan 作品集 {#about}
+## 关于我 {#about}
 
-**0xx402** 是我的作品集，展示了我作为 XPayLabs 与 GetCiteFlow 创始人的代表性项目——覆盖 **GEO 优化** 与 **Web3 开发** 两大领域。
+**0xx402** 是我的作品集，也是我的创业日志。
 
-嗨，我是 **Neil Yan**，**XPayLabs 与 GetCiteFlow 创始人**。
+嗨，我是 **Neil Yan**，一个**独立创始人**。
 
-自 **2018 年**投身区块链行业以来，已服务海内外 **2,000+** 名平台用户，处理 **100,000+** 笔链上交易。以下展示我的 **9 个代表性项目**：
+什么叫独立创始人？——我自己写代码、自己做产品、自己谈客户。不拿工资先烧产品，接单赚钱再投回产品。XPayLabs 和 GetCiteFlow 就是这么一步步做出来的。
+
+自 **2018 年**进入区块链行业，已服务海内外 **2,000+** 平台用户，处理 **100,000+** 笔链上交易。以下是我的 **9 个代表性项目**：
 
 - 🌐 **GEO 优化** — [GetCiteFlow](/projects/getciteflow)：帮助网站被 ChatGPT、Claude、Perplexity、Gemini 等 AI 搜索引擎引用
 - 🤖 **AI 量化交易系统** — AI Quant Robot：多链自动套利
@@ -74,7 +79,20 @@ import ProjectGrid from './components/ProjectGrid.vue'
 | **数据库** | MySQL, PostgreSQL, Redis, Supabase — 高可用数据层 |
 | **部署运维** | Vercel, Railway, Docker, 阿里云, 腾讯云, AWS |
 
-### 我能为你做什么
+### 产品与投资合作
+
+如果你对以下方向感兴趣，我们可以聊聊更深度的合作：
+
+| 方向 | 说明 |
+|------|------|
+| 💰 **投资 / 融资** | 寻找认同独立创始人模式的早期投资人，加速 XPayLabs 与 GetCiteFlow 的产品迭代与市场拓展 |
+| 💳 **XPayLabs 企业部署** | 自托管加密支付基础设施的私有化部署、白标定制、技术对接——非托管、零网关手续费 |
+| 🌐 **GetCiteFlow 企业服务** | AI 品牌可见性优化（$3,999 一次性 / $4,999 月费），已服务多个出海品牌 |
+| 🤝 **战略合作** | 钱包集成、交易所流动性对接、协议层技术合作、联名产品 |
+
+### 技术交付服务
+
+需要交付 Web3 产品？以下是我能帮你做的事：
 
 | 服务 | 说明 |
 |------|------|
@@ -95,14 +113,16 @@ import ProjectGrid from './components/ProjectGrid.vue'
 | 智能合约累计处理 | 100,000+ 笔交易 |
 | 服务平台用户数量 | 2,000+ |
 
-## 联系我
+## 联系我 {#contact}
 
-有 Web3 项目合作需求？欢迎随时联系：
+**对投资人或合作伙伴：** 如果你认同独立创始人的模式，想聊投资、融资或战略合作——[Telegram](https://t.me/OS_Blockchain) 直接找我，我有完整的商业计划可以分享。
+
+**对项目方：** 有 Web3 产品需要交付？同样来找我。带上你的想法，我帮你从 0 到 1 做出来。
 
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
-Telegram 回复最快，项目咨询请备注来意 👋
+Telegram 回复最快，请备注来意（投资 / 合作 / 项目咨询）👋
 
-*最后更新：2026 年 4 月*
+*最后更新：2026 年 7 月*

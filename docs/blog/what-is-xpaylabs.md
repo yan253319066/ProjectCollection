@@ -96,7 +96,4 @@ XPayLabs 是一个**自托管、非托管的加密支付基础设施**。你可�
 
 访问 [XPayLabs 官网](https://www.xpaylabs.com) 了解更多技术细节、API 文档和部署指南。
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*
 

@@ -96,6 +96,3 @@ Contact me for a free initial assessment:
 
 Or visit [GetCiteFlow](https://www.getciteflow.ai) for a self-service scan.
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and brand visibility optimization.*

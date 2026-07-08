@@ -106,12 +106,9 @@ DApps aren't one-and-done. Smart contracts need monitoring, upgrades, and mainte
 
 DApp development costs range from a few thousand to tens of thousands of dollars, depending on complexity, chains, security needs, and team choice. **Define your requirements first, then find the right developer**.
 
-I'm **Neil Yan**, founder of XPayLabs & GetCiteFlow, with 8 years of experience, having served 2,000+ platform users. If you're looking for a **Web3 project partner**, reach out for a free project assessment:
+I'm **Neil Yan**, an independent founder behind XPayLabs & GetCiteFlow with 8 years of experience, having served 2,000+ platform users. If you're looking for a **Web3 project partner**, reach out for a free project assessment:
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 - **Email**: yanning-1987@outlook.com
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

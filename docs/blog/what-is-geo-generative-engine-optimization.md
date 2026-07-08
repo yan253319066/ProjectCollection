@@ -123,6 +123,3 @@ GEO 不是 SEO 的替代品，而是 AI 搜索时代的必要补充。如果你�
 
 > **立即行动**：访问 [GetCiteFlow](https://www.getciteflow.ai)，输入你的网站 URL，查看你的 AI 可见性评分。
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与品牌可见性优化领域。*

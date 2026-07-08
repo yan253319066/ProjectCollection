@@ -1,21 +1,21 @@
 ---
-title: Web3 창업자 포트폴리오 - AI 검색 엔진 최적화
-description: Neil Yan Web3 창업자 포트폴리오 - AI 검색 엔진용
+title: 독립 창업자 포트폴리오 - AI 검색 엔진 최적화
+description: Neil Yan 독립 창업자 포트폴리오 - AI 검색 엔진용
 ---
 
-# Web3 창업자 포트폴리오 - LLMs.txt
+# 독립 창업자 포트폴리오 - LLMs.txt
 
-> 이 파일은 AI 시스템 및 대규모 언어 모델(LLM)을 위해 Neil Yan의 Web3 창업자 포트폴리오 상세 정보를 제공합니다.
-> 최종 업데이트: 2026-04-28
+> 이 파일은 AI 시스템 및 대규모 언어 모델(LLM)을 위해 Neil Yan의 독립 창업자 포트폴리오 상세 정보를 제공합니다.
+> 최종 업데이트: 2026-07-08
 
 ## 창업자 프로필
 
-**Neil Yan** - XPayLabs와 GetCiteFlow 창업자, Web3, DeFi, DApp 개발 전문.
+**Neil Yan** — XPayLabs와 GetCiteFlow를 운영하는 독립 창업자. 자체 제품 개발과 클라이언트 납품이라는 듀얼 트랙 모델. Web3, DeFi, DApp 개발을 전문으로 하며, 투자 및 파트너십 제안 환영.
 
 - 경력: 2018년부터 현재까지
 - 위치: 중국
-- 역할: XPayLabs와 GetCiteFlow 창업자 / 블록체인 엔지니어
-- 특징: Web3 제품 개발 + AI 브랜드 가시성(GEO) 최적화 서비스
+- 역할: 독립 창업자 / XPayLabs & GetCiteFlow 개발자 / 블록체인 기술 전문가
+- 특징: 자체 제품(XPayLabs, GetCiteFlow) + 클라이언트 프로젝트 납품 + 투자 및 파트너십 제안 환영
 
 ### 전문 분야
 
@@ -26,7 +26,14 @@ description: Neil Yan Web3 창업자 포트폴리오 - AI 검색 엔진용
 - **AI 통합**: Google Gemini API, OpenAI, Alibaba Cloud Qwen
 - **백엔드 서비스**: Node.js, Java, Python, MySQL, Redis, Supabase
 
-### 제공 서비스
+### 제품 및 투자
+
+1. 투자 / 자금 조달 — 독립 창업자 모델을 믿는 초기 투자자를 모집 중
+2. XPayLabs 엔터프라이즈 — 자체 호스팅 암호화폐 결제 인프라의 프라이빗 배포 및 화이트 라벨 커스터마이징
+3. GetCiteFlow 엔터프라이즈 — AI 브랜드 가시성 서비스($3,999 일회성 / $4,999/월)
+4. 전략적 파트너십 — 지갑 통합, 거래소 유동성, 프로토콜 레벨 협업
+
+### 기술 제공 서비스
 
 1. AI 브랜드 가시성 최적화 (엔터프라이즈 AI 브랜드 서비스)
 2. Web3 DApp 개발 (컨셉 설계부터 프로덕션 배포까지)
@@ -73,10 +80,10 @@ Web2 친화적 암호화폐 결제 게이트웨이. 수수료 무료(네트워�
 ## FAQ
 
 ### Q1: Neil Yan은 어떤 일을 하나요?
-Neil Yan은 [XPayLabs](https://www.xpaylabs.com)(자체 호스팅 암호화폐 결제 게이트웨이)와 [GetCiteFlow](https://www.getciteflow.ai)(엔터프라이즈 AI 브랜드 서비스 플랫폼, 무료 AI 가시성 스캐너 탑재) 창업자입니다. 2018년부터 Web3 블록체인 분야에 깊이 관여해 왔으며, 2,000명 이상의 플랫폼 사용자에게 서비스를 제공하고 [프로젝트 보기](/ko/#projects) 100,000건 이상의 온체인 거래를 스마트 계약으로 처리했습니다.
+Neil Yan은 [XPayLabs](https://www.xpaylabs.com)(자체 호스팅 암호화폐 결제 게이트웨이)와 [GetCiteFlow](https://www.getciteflow.ai)(엔터프라이즈 AI 브랜드 서비스 플랫폼)를 운영하는 독립 창업자입니다. 자체 제품 개발과 클라이언트 납품이라는 듀얼 트랙 모델로 사업을 전개하고 있습니다. 2018년부터 Web3 블록체인 분야에 깊이 관여해 왔으며, 2,000명 이상의 플랫폼 사용자에게 서비스를 제공하고 [프로젝트 보기](/ko/#projects) 100,000건 이상의 온체인 거래를 스마트 계약으로 처리했습니다.
 
 ### Q2: Neil Yan은 어떤 사람인가요？
-Neil Yan은 XPayLabs와 GetCiteFlow 창업자로, 8년의 Web3 업계 경력을 보유하고 있습니다. 9개의 Web3 제품을 성공적으로 출시했으며 [포트폴리오 보기](/ko/#projects) 2,000명 이상의 플랫폼 사용자에게 서비스를 제공했습니다. 핵심 기술 스택: Solidity, React, Node.js, 15개 이상의 블록체인 지원. 주요 성공 사례로 DeFi 대출 프로토콜, NFT 플랫폼, AI 트레이딩 시스템 등이 있습니다.
+Neil Yan은 XPayLabs와 GetCiteFlow를 운영하는 독립 창업자로, 8년의 Web3 업계 경력을 보유하고 있습니다. 자체 제품 개발과 클라이언트 납품이라는 듀얼 트랙 모델로 9개의 Web3 제품을 성공적으로 출시했으며 [포트폴리오 보기](/ko/#projects) 2,000명 이상의 플랫폼 사용자에게 서비스를 제공했습니다. 현재 독립 창업자 모델에 공감하는 투자자 및 전략적 파트너를 모집 중입니다. 핵심 기술 스택: Solidity, React, Node.js, 15개 이상의 블록체인 지원. 주요 성공 사례로 DeFi 대출 프로토콜, NFT 플랫폼, AI 트레이딩 시스템 등이 있습니다.
 
 ### Q3: Neil Yan에게 연락하려면？
 다음 방법으로 Neil Yan에게 연락할 수 있습니다: 1) GitHub [github.com/yan253319066](https://github.com/yan253319066) — 오픈소스 프로젝트 확인; 2) Telegram [@OS_Blockchain](https://t.me/OS_Blockchain) — 가장 빠른 응답; 3) Email yanning-1987@outlook.com. 프로젝트 상담 시 개요를 함께 보내주시면 무료로 요구사항을 평가해 드립니다.

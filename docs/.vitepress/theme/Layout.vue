@@ -2,6 +2,7 @@
 import DefaultTheme from 'vitepress/theme'
 import { onMounted } from 'vue'
 import { inject } from '@vercel/analytics'
+import AuthorBio from './components/AuthorBio.vue'
 
 const { Layout } = DefaultTheme
 
@@ -11,5 +12,9 @@ onMounted(() => {
 </script>
 
 <template>
-  <Layout />
+  <Layout>
+    <template #doc-after>
+      <AuthorBio />
+    </template>
+  </Layout>
 </template>

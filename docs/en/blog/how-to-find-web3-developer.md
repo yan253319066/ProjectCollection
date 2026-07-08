@@ -42,7 +42,7 @@ Looking to **hire a Web3 developer** but don't know where to start? This guide w
 
 ### 4. Hire Me Directly
 
-I'm **Neil Yan**, founder of XPayLabs & GetCiteFlow, with 8 years of experience. I've served 2,000+ platform users and support 15+ blockchains. Contact me on [Telegram](https://t.me/OS_Blockchain) for a quick conversation.
+I'm **Neil Yan**, an independent founder behind XPayLabs & GetCiteFlow with 8 years of experience. I've served 2,000+ platform users and support 15+ blockchains. Contact me on [Telegram](https://t.me/OS_Blockchain) for a quick conversation.
 
 ## How to Evaluate a Web3 Developer
 
@@ -118,6 +118,3 @@ I'm **Neil Yan**, a senior Web3 and blockchain developer with 8 years of experie
 
 Telegram is fastest. Reach out for a free project assessment.
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

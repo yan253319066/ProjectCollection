@@ -84,6 +84,3 @@ The marketplace handles listing, bidding, and settlement logic, including automa
 
 Looking for an **NFT platform developer**? Contact me on [Telegram](https://t.me/OS_Blockchain).
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

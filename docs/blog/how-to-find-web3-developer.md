@@ -42,7 +42,7 @@ head:
 
 ### 4. 直接找我这样的项目创始人
 
-**找项目创始人的优势**：沟通直接、成本可控、交付灵活。我（Neil Yan，XPayLabs & GetCiteFlow 创始人）已服务 2,000+ 平台用户，支持 15+ 条公链。通过 [Telegram](https://t.me/OS_Blockchain) 可以快速沟通。
+**找项目创始人的优势**：沟通直接、成本可控、交付灵活。我（Neil Yan，独立创始人，XPayLabs & GetCiteFlow 构建者）已服务 2,000+ 平台用户，支持 15+ 条公链。通过 [Telegram](https://t.me/OS_Blockchain) 可以快速沟通。
 
 ## 如何评估一个 Web3 开发者？
 
@@ -120,6 +120,3 @@ head:
 
 Telegram 回复最快，欢迎联系免费评估项目需求。
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

@@ -123,6 +123,3 @@ GEOはSEOの代替ではなく、AI検索時代に不可欠な補完です。あ
 
 > **今すぐ行動**：[GetCiteFlow](https://www.getciteflow.ai) にアクセスし、あなたのWebサイトのAI可視性スコアを確認しましょう。
 
----
-
-*著者：Neil Yan — XPayLabs と GetCiteFlow 創業者。8年のWeb3とブロックチェーン開発経験。AIアプリケーションとブランド可視性最適化を専門としています。*

@@ -111,6 +111,3 @@ Security is an ongoing process. Stay updated with the latest vulnerability repor
 
 Need **smart contract audit or development services**? I'm Neil Yan, 8+ years of Web3 experience. Contact me on [Telegram](https://t.me/OS_Blockchain).
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

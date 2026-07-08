@@ -1,5 +1,5 @@
 ---
-title: 블로그 | Neil Yan - Web3 창업자
+title: 블로그 | Neil Yan - 독립 창업자
 description: Neil Yan의 Web3 기술 블로그 — 스마트 계약, DeFi 프로토콜, 암호화폐 결제, AI 트레이딩 등.
 ---
 

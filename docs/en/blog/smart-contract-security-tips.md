@@ -62,6 +62,3 @@ Use decentralized oracles like Chainlink and implement:
 
 Security is an ongoing process. Stay updated with the latest vulnerability reports and best practices.
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*

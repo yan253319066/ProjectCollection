@@ -106,6 +106,3 @@ Google 的 AI 搜索优化指南是一份有价值的参考，但它只代表了
 
 > **立即行动**：访问 [GetCiteFlow](https://www.getciteflow.ai)，输入你的网站 URL，查看你的 AI 可见性评分——不仅针对 Google，而是针对所有主流 AI 搜索引擎。
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 与区块链开发经验，深耕 AI 应用与品牌可见性优化领域。*

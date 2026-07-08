@@ -123,6 +123,3 @@ GEO isn't a replacement for SEO — it's an essential complement for the AI sear
 
 > **Act now**: Visit [GetCiteFlow](https://www.getciteflow.ai), enter your site URL, and check your AI Visibility Score.
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and brand visibility optimization.*

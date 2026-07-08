@@ -109,6 +109,3 @@ NFT 市场的开发涉及智能合约编写、去中心化存储、前端集成�
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

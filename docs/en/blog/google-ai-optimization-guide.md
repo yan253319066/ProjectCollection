@@ -106,6 +106,3 @@ Google's AI search optimization guide is a valuable reference, but it represents
 
 > **Act now**: Visit [GetCiteFlow](https://www.getciteflow.ai), enter your site URL, and check your AI Visibility Score — optimized for all major AI search engines, not just Google.
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8 years of Web3 and blockchain experience, specializing in AI applications and brand visibility optimization.*

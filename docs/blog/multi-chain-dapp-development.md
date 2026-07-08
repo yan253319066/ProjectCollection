@@ -105,6 +105,3 @@ const chains = [mainnet, polygon, arbitrum, optimism, base] as const
 
 我支持 15+ 条公链的开发。如果需要多链 DApp 开发服务，欢迎通过 [Telegram](https://t.me/OS_Blockchain) 联系我。
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

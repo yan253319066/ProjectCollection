@@ -62,6 +62,3 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
 安全开发是一个持续的过程。保持学习，关注最新的漏洞报告和安全最佳实践。
 
----
-
-*作者：Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 开发经验，专注智能合约、DeFi 协议与 DApp 全栈开发。*

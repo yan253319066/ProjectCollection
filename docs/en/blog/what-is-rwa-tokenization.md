@@ -68,6 +68,3 @@ Corporate and government bond tokenization improves market efficiency and access
 
 I built **Solaris RWA** for renewable energy tokenization. Interested in **RWA tokenization development**? Contact me on [Telegram](https://t.me/OS_Blockchain) or visit [Solaris RWA](https://rwa.0xx402.com).
 
----
-
-*Author: Neil Yan — Founder of XPayLabs & GetCiteFlow. 8+ years of Web3 experience building smart contracts, DeFi protocols, and full-stack DApps.*
