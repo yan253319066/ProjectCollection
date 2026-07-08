@@ -33,4 +33,4 @@ Perpetual Trading is a full-featured perpetual contract trading DApp supporting 
 
 Visit [Perpetual Trading](https://futures.0xx402.com) to experience perpetual futures trading.
 
-Looking to build a **perpetual exchange DApp**? Neil Yan provides full-stack Web3 development services.
+Funding rates, liquidation engines, and order book depth are the three modules most prone to issues in perpetual DEXs. Happy to discuss technical questions around these areas.

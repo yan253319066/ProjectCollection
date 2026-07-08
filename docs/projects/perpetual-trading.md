@@ -33,4 +33,4 @@ Perpetual Trading 是一个功能完整的永续合约交易 DApp，支持 BTC�
 
 访问 [Perpetual Trading](https://futures.0xx402.com) 体验永续合约交易。
 
-需要开发 **永续合约交易系统**？Neil Yan 提供全栈 DApp 开发服务。
+永续合约的资金费率、清算引擎和深度管理是三个最容易出问题的模块。有相关技术问题可以联系讨论。

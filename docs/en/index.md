@@ -5,9 +5,9 @@ title: Neil Yan - Founder of XPayLabs & GetCiteFlow | Web3 Entrepreneur
 description: Neil Yan - Founder of XPayLabs & GetCiteFlow. 8+ years in Web3 — smart contracts (Solidity), DeFi protocols, AI trading systems, crypto payment gateways, RWA tokenization, NFT platforms, Blackhole Protocol. Also offers GEO (Generative Engine Optimization) to help websites get cited by ChatGPT, Claude, Perplexity, and other AI search engines. 9 products delivered, 100,000+ on-chain transactions.
 
 hero:
-  name: "Founder & Builder"
-  text: "Founder of XPayLabs & GetCiteFlow"
-  tagline: "GEO Optimization + Web3 Product Delivery · 9 Showcase Projects · 100,000+ On-Chain Transactions · 2,000+ Platform Users"
+  name: "Neil Yan"
+  text: "Web3 Founder & Full-Stack Builder"
+  tagline: "Smart contracts, DApp frontends, and AI visibility optimization — from concept to mainnet. 9 products shipped, 100,000+ transactions processed"
   actions:
     - theme: brand
       text: View Projects
@@ -70,6 +70,7 @@ Since **2018**, I've served **2,000+** platform users worldwide and processed **
 | **Backend** | Node.js, Java, Python, MySQL, Redis, Supabase — scalable server architecture |
 | **Wallet Connection** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
 | **AI Integration** | Gemini API, OpenAI, Alibaba Cloud Qwen — AI-powered DApps |
+| **Database** | MySQL, PostgreSQL, Redis, Supabase — reliable data layer |
 | **DevOps** | Vercel, Railway, Docker, Alibaba Cloud, Tencent Cloud, AWS |
 
 ### What I Can Do For You
@@ -92,27 +93,6 @@ Since **2018**, I've served **2,000+** platform users worldwide and processed **
 | Supported Chains | 15+ (Full EVM Support) |
 | Smart Contract Transactions | 100,000+ |
 | Clients Served | 2,000+ |
-
-**Client Testimonials**
-
-> "Neil helped me build a DeFi lending protocol. Clean contract code, passed audit smoothly. Fast responses, smooth communication, highly recommended!" — DeFi Project Lead
-
-> "Our team was building an NFT marketplace. Neil handled smart contracts and frontend — launched in under a month. Solid tech skills, reliable delivery." — NFT Startup Team
-
-> "Needed a multi-chain Web3 DApp, found Neil. He's very familiar with EVM chains — Polygon, Arbitrum, Base all launched smoothly." — Web3 Product Manager
-
-**Tech Stack**
-
-| Category | Tech |
-|----------|------|
-| Blockchain | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism |
-| Smart Contract | Solidity, Hardhat, Foundry, OpenZeppelin |
-| Frontend | React, Next.js, Vue, TypeScript, Tailwind CSS |
-| Web3 | Ethers.js, viem, wagmi, Reown AppKit |
-| Backend | Node.js, Java, Python, Express, Spring Boot |
-| Database | MySQL, PostgreSQL, Redis, Supabase |
-| AI | Google Gemini API, OpenAI, Alibaba Cloud Qwen |
-| Deployment | Vercel, Railway, Docker, Aliyun, Tencent Cloud, AWS |
 
 ## Contact
 

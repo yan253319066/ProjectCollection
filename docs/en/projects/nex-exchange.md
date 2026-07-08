@@ -30,4 +30,4 @@ Nex Exchange is an innovative hybrid exchange DApp that merges the high performa
 
 Visit [Nex Exchange](https://nex.0xx402.com) to experience hybrid trading.
 
-Looking for an **exchange development company**? Neil Yan develops CEX, DEX, and hybrid exchange platforms.
+The core challenge of a hybrid exchange lies in the bridge between the matching engine and on-chain settlement — two systems with very different latency and consistency requirements. Neil Yan offers architecture consulting and full-stack development.

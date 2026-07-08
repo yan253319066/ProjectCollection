@@ -31,4 +31,4 @@ AI Quant Robot is an AI-driven quantitative trading platform offering four inves
 
 Visit [AI Quant Robot](https://quant.0xx402.com) to experience AI-powered trading.
 
-Looking for a **Web3 project partner** for your quantitative trading platform? Neil Yan offers full-stack DApp development and consulting services.
+The hard parts of quant trading aren't the smart contracts — they're strategy execution and on-chain risk management. Have an idea? Let's discuss your quant product architecture.

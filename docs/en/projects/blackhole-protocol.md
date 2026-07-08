@@ -30,4 +30,4 @@ Blackhole Protocol is an innovative decentralized node network protocol featurin
 
 Visit [Blackhole Protocol](https://blackhole.0xx402.com) to explore the decentralized node network.
 
-Building a **DePIN project**? Neil Yan provides full-stack development from smart contracts to frontend.
+Interested in DePIN or tokenomics design? Whether it's node incentive mechanisms or deflationary token models, let's discuss your project's architecture.

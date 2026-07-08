@@ -30,4 +30,4 @@ Solaris RWA is an innovative RWA (Real World Asset) tokenization platform that c
 
 Visit [Solaris RWA](https://rwa.0xx402.com) to explore RWA tokenization.
 
-Interested in **RWA tokenization development**? Neil Yan offers full-stack blockchain development from smart contracts to frontend.
+RWA isn't really about tokenization — it's about the compliance framework and trustworthy on-chain anchoring of off-chain assets. Solve those two, and the tech is straightforward.

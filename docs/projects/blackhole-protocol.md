@@ -30,4 +30,4 @@ Blackhole Protocol 是一个创新的去中心化节点网络协议，采用三�
 
 访问 [Blackhole Protocol](https://blackhole.0xx402.com) 了解去中心化节点网络。
 
-需要开发 **DePIN 项目**？Neil Yan 提供从智能合约到前端的全栈开发服务。
+对 DePIN 或代币经济模型设计感兴趣？无论是节点激励机制还是通证通缩模型，可以聊聊你的项目架构。

@@ -18,6 +18,18 @@ GetCiteFlow 是一个企业级 AI 品牌服务平台，帮助品牌被 AI 系统
 - **多 AI 引擎** — 支持 Google Gemini、OpenAI 和 DeepSeek 自由切换
 - **企业品牌服务** — Brand Visibility（$3,999 一次性）和 AI Visibility Growth（$4,999/月）托管服务
 
+## 子项目：GetCiteFlow Agent Commerce
+
+[GetCiteFlow Agent Commerce](https://app.getciteflow.ai) 是一个 AI 驱动的应用，将任何电商网站转化为 **AI Agent 可交互商店**。
+
+- **AI Agent 配置生成器** — 输入电商 URL，Gemini AI 自动生成 `agent_commerce.json`、`products.json`、`x402.json` 三个标准化清单
+- **就绪状态检查器** — 验证清单文件的合规性和安全性
+- **AI Agent 终端沙盒** — 模拟 AI 代理购物流程，支持自然语言下单
+- **x402 支付网关** — 基于 Base 区块链的非托管 USDT/USDC 结算，遵循 ERC-402 协议标准
+- **零后端改造** — 将生成的 JSON 部署到服务器公开目录即可，无需修改现有电商系统
+
+Agent Commerce 目前免费使用，遵循 x402 代理协议。
+
 ## 技术栈
 
 | 类别 | 技术 |
@@ -25,9 +37,10 @@ GetCiteFlow 是一个企业级 AI 品牌服务平台，帮助品牌被 AI 系统
 | 框架 | Next.js 15, React 19, TypeScript 5 |
 | UI | Tailwind CSS 4, shadcn/ui, Motion |
 | AI | Google Gemini, OpenAI, DeepSeek |
+| 区块链 | Base (Coinbase L2), x402 协议, ERC-402 |
 | 限流 | Upstash Redis（滑动窗口限流） |
 | 部署 | Vercel（Standalone Output） |
-| 工具 | ESLint 9, PostCSS, Google Analytics |
+| 工具 | ESLint 9, PostCSS, React Hook Form, Zod |
 
 ## 了解更多
 

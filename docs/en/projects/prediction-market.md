@@ -31,4 +31,4 @@ Prediction Market is a blockchain-based decentralized prediction platform where 
 
 Visit [Prediction Market](https://prediction.0xx402.com) to experience decentralized prediction markets.
 
-Looking for a **prediction market DApp developer**? Neil Yan offers end-to-end smart contract and frontend development.
+Prediction markets hinge on three core modules: oracle integration, liquidity mechanisms, and dispute resolution. The design of these determines platform reliability. Have a project in mind?

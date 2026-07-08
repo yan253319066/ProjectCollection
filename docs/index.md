@@ -5,9 +5,9 @@ title: Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 Founder
 description: Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8年Web3行业经验，专注于智能合约开发（Solidity）、DeFi协议、AI量化交易系统、加密货币支付网关、RWA代币化、NFT平台、Blackhole协议等领域，同时提供 GEO（Generative Engine Optimization）优化，帮助网站被 ChatGPT、Claude、Perplexity 等 AI 搜索引擎引用。已服务2,000+平台用户，展示9个代表性项目，处理100,000+笔链上交易。
 
 hero:
-  name: "Founder & Builder"
-  text: "XPayLabs 创始人 · GetCiteFlow 创始人"
-  tagline: "GEO 优化 + Web3 产品交付 · 9 个代表性项目 · 100,000+ 笔链上交易 · 2,000+ 平台用户"
+  name: "Neil Yan"
+  text: "Web3 产品创始人 · 全栈交付"
+  tagline: "从产品设计到主网上线，一站覆盖智能合约、DApp 前端、GEO 优化。已交付 9 个产品，累计处理 100,000+ 笔链上交易"
   actions:
     - theme: brand
       text: 查看项目
@@ -71,6 +71,7 @@ import ProjectGrid from './components/ProjectGrid.vue'
 | **后端服务** | Node.js, Java, Python, MySQL, Redis, Supabase — 高可用服务端架构 |
 | **钱包连接** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
 | **AI 能力** | Gemini API, OpenAI, 阿里云通义千问 — 为 DApp 注入 AI 智能 |
+| **数据库** | MySQL, PostgreSQL, Redis, Supabase — 高可用数据层 |
 | **部署运维** | Vercel, Railway, Docker, 阿里云, 腾讯云, AWS |
 
 ### 我能为你做什么
@@ -93,27 +94,6 @@ import ProjectGrid from './components/ProjectGrid.vue'
 | 支持公链数量 | 15+ 条（EVM 全链支持） |
 | 智能合约累计处理 | 100,000+ 笔交易 |
 | 服务平台用户数量 | 2,000+ |
-
-**用户评价**
-
-> "Neil 帮我开发了 DeFi 借贷协议，合约代码干净、安全，审计一次通过。响应速度快，沟通无障碍，强力推荐！" — DeFi 项目方
-
-> "我们团队做 NFT 市场，Neil 从智能合约到前端全栈开发，不到一个月就上线了。技术扎实，交付靠谱。" — NFT 创业团队
-
-> "需要多链部署的 Web3 DApp，找了 Neil。他对 EVM 链非常熟悉，Polygon、Arbitrum、Base 都顺利上线。" — Web3 产品负责人
-
-**技术栈**
-
-| 类别 | 技术 |
-|------|------|
-| 区块链 | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism, Base, Linea, Scroll, zkSync Era 等 15+ 链 |
-| 智能合约 | Solidity, Hardhat, Foundry, OpenZeppelin |
-| 前端 | React, Next.js, Vue, TypeScript, Tailwind CSS |
-| Web3 | Ethers.js, viem, wagmi, Reown AppKit |
-| 后端 | Node.js, Java, Python, Express, Spring Boot |
-| 数据库 | MySQL, PostgreSQL, Redis, Supabase |
-| AI | Google Gemini API, OpenAI, Alibaba Cloud Qwen |
-| 部署 | Vercel, Railway, Docker, Aliyun, Tencent Cloud, AWS |
 
 ## 联系我
 

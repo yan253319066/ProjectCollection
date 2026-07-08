@@ -5,9 +5,9 @@ title: Neil Yan - XPayLabs와 GetCiteFlow 창업자 | Web3 창업자
 description: Neil Yan - XPayLabs와 GetCiteFlow 창업자. 스마트 계약 개발 (Solidity), DeFi 프로토콜, AI 트레이딩 시스템, RWA 토큰화, 암호화폐 결제 게이트웨이, NFT 마켓플레이스, Blackhole 프로토콜. 9개의 Web3 제품 출시, 100,000+ 온체인 거래.
 
 hero:
-  name: "Founder & Builder"
-  text: "XPayLabs와 GetCiteFlow 창업자"
-  tagline: "GEO 최적화 + Web3 제품 개발 · 대표 프로젝트 9개 · 온체인 거래 100,000+ 건 · 플랫폼 사용자 2,000+ 명"
+  name: "Neil Yan"
+  text: "Web3 제품 창업자 · 풀스택 개발"
+  tagline: "기획부터 메인넷까지 — 스마트 계약, DApp 프론트엔드, AI 가시성 최적화를 원스톱으로. 9개 제품 출시, 100,000+ 온체인 거래 처리"
   actions:
     - theme: brand
       text: 프로젝트 보기
@@ -72,6 +72,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 | **백엔드** | Node.js, Java, Python, MySQL, Redis, Supabase — 고가용성 아키텍처 |
 | **지갑 연결** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
 | **AI 연동** | Gemini API, OpenAI, Alibaba Cloud Qwen — AI 기반 DApp |
+| **데이터베이스** | MySQL, PostgreSQL, Redis, Supabase — 고가용성 데이터 레이어 |
 | **DevOps** | Vercel, Railway, Docker, Alibaba Cloud, Tencent Cloud, AWS |
 
 ### 제공 서비스
@@ -94,27 +95,6 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 | 지원 체인 수 | 15개+ (EVM 전체 지원) |
 | 스마트 계약 거래 | 100,000건+ |
 | 플랫폼 사용자 수 | 2,000+ |
-
-**사용자 후기**
-
-> "Neil님이 DeFi 대출 프로토콜을 개발해 주셨습니다. 코드가 깔끔하고 감사도 한 번에 통과했어요. 응답이 빠르고 커뮤니케이션도 원활해서 강력 추천합니다!" — DeFi 프로젝트
-
-> "NFT 마켓플레이스를 만들고 있는데, Neil님이 스마트 계약과 프론트엔드 전부 담당해 주셨고, 한 달 이내에 런칭했어요. 기술력이 탄탄하고, 납품이 확실해요." — NFT 스타트업
-
-> "멀티체인 Web3 DApp이 필요해서 Neil님을 찾았습니다. EVM 체인에 매우 익숙하시고, Polygon, Arbitrum, Base 모두 순조롭게 런칭했어요." — Web3 제품 매니저
-
-**기술 스택**
-
-| 카테고리 | 기술 |
-|----------|------|
-| 블록체인 | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism, Base, Linea, Scroll, zkSync Era 등 15개+ 체인 |
-| 스마트 계약 | Solidity, Hardhat, Foundry, OpenZeppelin |
-| 프론트엔드 | React, Next.js, Vue, TypeScript, Tailwind CSS |
-| Web3 | Ethers.js, viem, wagmi, Reown AppKit |
-| 백엔드 | Node.js, Java, Python, Express, Spring Boot |
-| 데이터베이스 | MySQL, PostgreSQL, Redis, Supabase |
-| AI | Google Gemini API, OpenAI, Alibaba Cloud Qwen |
-| 배포 | Vercel, Railway, Docker, Aliyun, Tencent Cloud, AWS |
 
 ## 연락처
 

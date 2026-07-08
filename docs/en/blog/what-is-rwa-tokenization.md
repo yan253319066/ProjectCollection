@@ -63,7 +63,7 @@ Corporate and government bond tokenization improves market efficiency and access
 ## Challenges
 
 - **Regulatory compliance** — Varies by jurisdiction
-- **Off-chain trust** — On-chain value depends on real-world asset真实性
+- **Off-chain trust** — On-chain value depends on real-world asset authenticity
 - **Oracle dependency** — Reliable off-chain data feeds needed
 
 I built **Solaris RWA** for renewable energy tokenization. Interested in **RWA tokenization development**? Contact me on [Telegram](https://t.me/OS_Blockchain) or visit [Solaris RWA](https://rwa.0xx402.com).

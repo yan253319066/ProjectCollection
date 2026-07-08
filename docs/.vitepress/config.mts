@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import llms from 'vitepress-plugin-llms'
+import { buildBreadcrumbJsonLd } from './theme/breadcrumb'
 
 const siteUrl = 'https://www.0xx402.com'
 
@@ -15,19 +16,26 @@ export default defineConfig({
   },
   transformHead: async ({ pageData }) => {
     const fm = pageData.frontmatter as Record<string, unknown>
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const head: any[] = []
+
+    // 面包屑 JSON-LD（SSR 安全，替代客户端 BreadcrumbJsonLd.vue）
+    const breadcrumb = buildBreadcrumbJsonLd(pageData.filePath)
+    head.push(['script', { type: 'application/ld+json' }, JSON.stringify(breadcrumb)])
+
     if (fm.date) {
       const date = new Date(fm.date as string).toISOString()
       const updated = fm.updated ? new Date(fm.updated as string).toISOString() : date
-      return [
+      head.push(
         ['meta', { property: 'article:published_time', content: date }],
         ['meta', { property: 'article:modified_time', content: updated }],
         ['meta', { property: 'article:author', content: 'Neil Yan' }]
-      ]
+      )
     }
-    return []
+    return head
   },
-  title: "Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人",
-  description: "Neil Yan — XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。已推出 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。掌握 Solidity、React、Next.js、Vue 等技术栈。",
+  title: "Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 产品交付",
+  description: "Neil Yan — XPayLabs 与 GetCiteFlow 创始人。8 年 Web3 行业经验，提供智能合约开发、DApp 全栈交付、AI 品牌可见性优化服务。已交付 9 个产品，累计处理 100,000+ 笔链上交易。",
   outDir: './.vitepress/dist',
   lastUpdated: true,
   cleanUrls: true,
@@ -43,8 +51,8 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#646cff' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (中文)', href: siteUrl + '/blog/rss.xml' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'Neil Yan Blog (English)', href: siteUrl + '/en/blog/rss.xml' }],
-    ['meta', { property: 'og:title', content: 'Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人' }],
-    ['meta', { property: 'og:description', content: 'XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。已推出 AI 量化交易、加密理财、永续合约、混合交易所、RWA代币化、支付网关、预测市场、Blackhole协议等 DeFi 项目。' }],
+    ['meta', { property: 'og:title', content: 'Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 产品交付' }],
+    ['meta', { property: 'og:description', content: '8 年 Web3 行业经验，提供智能合约开发、DApp 全栈交付、AI 品牌可见性优化服务。已交付 9 个产品，累计处理 100,000+ 笔链上交易。' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Neil Yan - Web3 Founder Portfolio' }],
     ['meta', { property: 'og:url', content: siteUrl }],
@@ -53,8 +61,8 @@ export default defineConfig({
     ['meta', { property: 'og:locale:alternate', content: 'ja_JP' }],
     ['meta', { property: 'og:locale:alternate', content: 'ko_KR' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Web3 Founder Portfolio | Neil Yan - XPayLabs & GetCiteFlow 创始人' }],
-    ['meta', { name: 'twitter:description', content: 'XPayLabs 与 GetCiteFlow 创始人。专注于 Web3、DeFi、DApp 领域创业与产品交付。' }],
+    ['meta', { name: 'twitter:title', content: 'Neil Yan - XPayLabs & GetCiteFlow 创始人 | Web3 产品交付' }],
+    ['meta', { name: 'twitter:description', content: '8 年 Web3 行业经验，智能合约开发、DApp 全栈交付、AI 品牌可见性优化，已交付 9 个产品。' }],
     ['meta', { property: 'og:image', content: siteUrl + '/og-image.png' }],
     ['meta', { name: 'twitter:image', content: siteUrl + '/og-image.png' }],
     ['meta', { name: 'googlebot', content: 'index, follow' }],

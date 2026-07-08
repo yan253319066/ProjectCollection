@@ -30,4 +30,4 @@ Crypto Earn 是一个通过智能合约赚取被动收益的 DeFi 理财平台�
 
 访问 [Crypto Earn](https://earn.0xx402.com) 开始 DeFi 理财。
 
-需要开发 **DeFi 理财平台**？Neil Yan 提供智能合约开发到前端的全栈服务。
+在考虑自己的收益产品？DeFi 理财的核心在于利率模型和资金安全设计，可以聊聊你项目的架构和风控。

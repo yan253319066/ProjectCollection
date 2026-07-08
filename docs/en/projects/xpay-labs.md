@@ -42,4 +42,4 @@ XPayLabs is a Web2-friendly, self-hosted crypto payment gateway. Fully non-custo
 
 Visit [XPayLabs](https://www.xpaylabs.com) for self-hosted payment solutions.
 
-Need a **crypto payment gateway developer**? Save $11,880+/year in fees at $100k monthly volume. Contact Neil Yan for custom solutions.
+XPayLabs is open source with Docker self-hosted deployment. Need custom integration or private deployment? [Contact Neil Yan](https://t.me/OS_Blockchain) for technical support.

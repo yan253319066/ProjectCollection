@@ -42,4 +42,4 @@ XPayLabs 是一个 Web2 友好的自托管加密支付网关。完全非托管�
 
 访问 [XPayLabs](https://www.xpaylabs.com) 了解加密支付网关方案。
 
-需要 **加密支付网关开发**？月流水 10 万美元可节省 $11,880+/年手续费。联系 Neil Yan 获取定制方案。
+XPayLabs 已开源，支持 Docker 自托管部署。如需定制集成或私有化部署方案，[联系 Neil Yan](https://t.me/OS_Blockchain) 获取技术支持。

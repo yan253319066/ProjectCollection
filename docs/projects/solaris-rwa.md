@@ -30,4 +30,4 @@ Solaris RWA 是一个创新的 RWA（Real World Asset）代币化平台，专注
 
 访问 [Solaris RWA](https://rwa.0xx402.com) 了解 RWA 代币化。
 
-对 **RWA 代币化开发**感兴趣？Neil Yan 提供从智能合约到前端的全栈开发区块链服务。
+RWA 的关键不在代币化本身，在于合规框架和链下资产的链上可信锚定——这两个问题解决了，技术实现是水到渠成的事。

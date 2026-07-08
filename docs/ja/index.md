@@ -5,9 +5,9 @@ title: Neil Yan - XPayLabs と GetCiteFlow 創業者 | Web3創業者
 description: Neil Yan - XPayLabs と GetCiteFlow 創業者。スマートコントラクト開発（Solidity）、DeFiプロトコル、AI取引システム、RWAトークン化、暗号資産決済ゲートウェイ、NFTマーケットプレイス、Blackholeプロトコル。9つのWeb3製品リリース、100,000+オンチェーン取引。
 
 hero:
-  name: "Founder & Builder"
-  text: "XPayLabs と GetCiteFlow 創業者"
-  tagline: "GEO最適化 + Web3製品開発 · 9つの代表プロジェクト · 100,000+オンチェーン取引 · 2,000+プラットフォームユーザー"
+  name: "Neil Yan"
+  text: "Web3プロダクト創業者 · フルスタック開発"
+  tagline: "構想からメインネットまで——スマートコントラクト、DAppフロントエンド、AI可視性最適化。9製品リリース、100,000+オンチェーン取引実績"
   actions:
     - theme: brand
       text: プロジェクトを見る
@@ -72,6 +72,7 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 | **バックエンド** | Node.js, Java, Python, MySQL, Redis, Supabase — 高可用アーキテクチャ |
 | **ウォレット接続** | MetaMask, WalletConnect, Coinbase Wallet, Rabby, Reown AppKit |
 | **AI連携** | Gemini API, OpenAI, Alibaba Cloud Qwen — AI搭載DApp |
+| **データベース** | MySQL, PostgreSQL, Redis, Supabase — 高可用データ層 |
 | **DevOps** | Vercel, Railway, Docker, Alibaba Cloud, Tencent Cloud, AWS |
 
 ### 提供サービス
@@ -94,27 +95,6 @@ import ProjectGrid from '../components/ProjectGrid.vue'
 | 対応チェーン数 | 15以上（EVMフルサポート） |
 | スマートコントラクト取引 | 100,000件以上 |
 | プラットフォームユーザー数 | 2,000以上 |
-
-**お客様の声**
-
-> "NeilさんにDeFiレンディングプロトコルを作成してもらいました。コードがきれいで、監査も一回で通りました。対応が早く、コミュニケーションもスムーズで、強くおすすめします！" — DeFiプロジェクト
-
-> "NFTマーケットプレイスを製作中です。Neilさんにスマートコントラクトとフロントエンドを対応してもらい、1ヶ月以内にローンチできました。技術力が確かで、安心してお任せできました。" — NFTスタートアップ
-
-> "マルチチェーンのWeb3 DAppが必要で、Neilさんを見つけました。EVMチェーンに非常に詳しく、Polygon、Arbitrum、Baseすべて順調にローンチできました。" — Web3プロダクトマネージャー
-
-**技術スタック**
-
-| カテゴリ | 技術 |
-|----------|------|
-| ブロックチェーン | Ethereum, Polygon, BNB Chain, Solana, Avalanche, Arbitrum, Optimism, Base, Linea, Scroll, zkSync Era 他15+チェーン |
-| スマートコントラクト | Solidity, Hardhat, Foundry, OpenZeppelin |
-| フロントエンド | React, Next.js, Vue, TypeScript, Tailwind CSS |
-| Web3 | Ethers.js, viem, wagmi, Reown AppKit |
-| バックエンド | Node.js, Java, Python, Express, Spring Boot |
-| データベース | MySQL, PostgreSQL, Redis, Supabase |
-| AI | Google Gemini API, OpenAI, Alibaba Cloud Qwen |
-| デプロイ | Vercel, Railway, Docker, Aliyun, Tencent Cloud, AWS |
 
 ## 連絡先
 

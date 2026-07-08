@@ -30,4 +30,4 @@ Crypto Earn is a DeFi wealth management platform that generates passive income t
 
 Visit [Crypto Earn](https://earn.0xx402.com) to start earning passive income.
 
-Need a **DeFi development company** for your next project? Neil Yan delivers end-to-end smart contract and frontend development.
+Thinking about your own yield product? The real challenges in DeFi wealth management are rate modeling and fund security — happy to discuss architecture and risk design for your project.
