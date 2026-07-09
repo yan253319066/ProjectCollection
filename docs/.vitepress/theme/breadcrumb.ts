@@ -22,17 +22,18 @@ export function buildBreadcrumbJsonLd(filePath: string): Record<string, unknown>
   const locale = parts[0] === 'en' || parts[0] === 'ja' || parts[0] === 'ko' ? parts[0] : 'zh'
   const localePath = locale === 'zh' ? '' : `/${locale}`
 
-  const items: Array<{ position: number; name: string; item: string }> = [
-    { position: 1, name: homeLabels[locale], item: siteUrl + localePath + '/' },
+  const items: Array<{ '@type': string; position: number; name: string; item: string }> = [
+    { '@type': 'ListItem', position: 1, name: homeLabels[locale], item: siteUrl + localePath + '/' },
   ]
 
-  const segments = locale === 'zh' ? parts : parts.slice(1)
+  const segments = (locale === 'zh' ? parts : parts.slice(1)).filter(s => s !== 'index')
   let accumulated = localePath
 
   segments.forEach((segment, i) => {
     accumulated += '/' + segment
     const label = localeLabels[locale]?.[segment] || segment
     items.push({
+      '@type': 'ListItem',
       position: i + 2,
       name: label,
       item: siteUrl + accumulated + '/',
