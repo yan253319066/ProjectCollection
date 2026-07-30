@@ -1,5 +1,5 @@
 ---
-title: AI 브랜드 서비스 | Neil Yan - AI 시스템에 인용·추천되기
+title: AI 브랜드 서비스 - AI 시스템에 인용·추천되기
 description: 엔터프라이즈 AI 브랜드 서비스. 브랜드가 ChatGPT, Claude, Perplexity, Gemini, DeepSeek 등 AI 시스템에 인용·추천되도록 지원합니다. AI 가시성 스캔, Brand Visibility 구현, AI Visibility Growth 관리 서비스.
 head:
   - - script

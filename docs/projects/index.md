@@ -1,5 +1,5 @@
 ---
-title: 项目作品集（Web3 & AI） - Neil Yan 全栈开发项目
+title: 项目作品集（Web3 & AI）
 description: Neil Yan 的项目作品集，展示 9 个代表性项目，涵盖 AI 品牌可见性、量化交易、DeFi 理财、永续合约、混合交易所、RWA 代币化、加密支付网关、预测市场和 Blackhole 协议。
 ---
 

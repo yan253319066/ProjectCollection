@@ -1,5 +1,5 @@
 ---
-title: XPayLabs - 自托管加密支付网关开发 | Neil Yan 作品
+title: XPayLabs - 自托管加密支付网关开发
 description: XPayLabs 是自托管、非托管的加密支付基础设施，支持 TRON、EVM 链和 SUI，零网关手续费，由 Neil Yan 开发。
 ---
 

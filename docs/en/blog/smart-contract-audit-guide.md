@@ -1,5 +1,5 @@
 ---
-title: "Smart Contract Audit Guide: Process, Costs, and Common Vulnerabilities"
+title: "Smart Contract Audit Guide: Costs & Vulnerabilities"
 date: 2023-04-05
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# Smart Contract Audit Guide: Costs & Vulnerabilities
 
 Smart contracts are immutable once deployed, making security audits an essential step in any Web3 project.
 

@@ -1,5 +1,5 @@
 ---
-title: Crypto Earn - DeFi Wealth Management DApp | Neil Yan Portfolio
+title: Crypto Earn - DeFi Wealth Management DApp
 description: Crypto Earn is a smart contract-based USDT wealth management platform with up to 18.5% APY across 15+ chains, developed by Neil Yan.
 ---
 

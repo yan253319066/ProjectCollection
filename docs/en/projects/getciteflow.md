@@ -1,5 +1,5 @@
 ---
-title: GetCiteFlow - Enterprise AI Brand Visibility Platform | Neil Yan Portfolio
+title: GetCiteFlow - Enterprise AI Brand Visibility Platform
 description: GetCiteFlow is a GEO platform that helps websites get cited by AI search engines like ChatGPT, Claude, Perplexity, and Gemini. Scan → Diagnose → Fix → Export.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Prediction Market - Decentralized Prediction Platform | Neil Yan Portfolio
+title: Prediction Market - Decentralized Prediction Platform
 description: Prediction Market is a blockchain-based decentralized prediction market platform, built by Neil Yan.
 ---
 

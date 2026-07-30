@@ -1,5 +1,5 @@
 ---
-title: GetCiteFlow - 企业级 AI 品牌服务 | Neil Yan 作品
+title: GetCiteFlow - 企业级 AI 品牌服务
 description: GetCiteFlow 是一个企业级 AI 品牌服务平台，提供免费的 AI 可见性扫描器，帮助品牌被 ChatGPT、Claude、Perplexity、Gemini 等 AI 系统引用和推荐。
 ---
 

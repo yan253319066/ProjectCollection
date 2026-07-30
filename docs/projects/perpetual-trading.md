@@ -1,5 +1,5 @@
 ---
-title: Perpetual Trading - 永续合约交易系统开发 | Neil Yan 作品
+title: Perpetual Trading - 永续合约交易系统开发
 description: Perpetual Trading 是一个现代永续期货交易 DApp，支持 BTC、ETH、BNB、SOL 等多交易对和 1-50 倍杠杆。由 Neil Yan 开发。
 ---
 

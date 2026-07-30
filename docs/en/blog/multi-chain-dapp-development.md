@@ -1,5 +1,5 @@
 ---
-title: "Multi-Chain DApp Development Guide: Deploying Across 15+ Blockchains"
+title: "Multi-Chain DApp Development: Deploy Across 15+ Chains"
 date: 2022-08-10
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# Multi-Chain DApp Development: Deploy Across 15+ Chains
 
 Multi-chain deployment is essential for any serious Web3 project. Drawing from my experience deploying across 15+ chains for projects like Crypto Earn, here's what you need to know.
 

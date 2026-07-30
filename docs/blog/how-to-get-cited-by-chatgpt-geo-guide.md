@@ -1,5 +1,5 @@
 ---
-title: 如何被 ChatGPT 引用？AI 品牌可见性（GEO）实战指南
+title: 如何被 ChatGPT 引用？GEO 实战指南
 date: 2026-07-08
 updated: 2026-07-08
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# 如何被 ChatGPT 引用？GEO 实战指南
 
 ## 为什么你的内容在 AI 里"不存在"
 

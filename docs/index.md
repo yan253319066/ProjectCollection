@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Neil Yan - 独立创始人 | XPayLabs & GetCiteFlow | Web3 & AI 全栈开发
+title: Neil Yan - 独立创始人 | Web3 & AI 全栈
 description: Neil Yan — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。自研产品 + 客户交付双轨模式：产品收入养迭代，接单收入养产品。17 年全栈开发经验，8 年 Web3/区块链深耕，兼 AI 产品开发。9 个产品已上线，100,000+ 笔链上交易。开放投资与合作。
 
 hero:
@@ -36,6 +36,7 @@ features:
   - title: Blackhole协议
     details: Blackhole Protocol - 用行为价值替代资本门槛，与AI共存的去中心化节点网络
 
+titleTemplate: false
 ---
 
 <script setup>

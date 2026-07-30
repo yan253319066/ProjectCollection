@@ -1,5 +1,5 @@
 ---
-title: "What Is RWA Tokenization? Real-World Assets on the Blockchain"
+title: What Is RWA Tokenization? Real-World Assets On-Chain
 date: 2024-09-18
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# What Is RWA Tokenization? Real-World Assets On-Chain
 
 RWA (Real World Asset) tokenization is one of the fastest-growing sectors in Web3. Simply put, it converts physical or traditional financial assets into blockchain-based digital tokens.
 

@@ -1,5 +1,5 @@
 ---
-title: AIブランドサービス | Neil Yan - AIシステムに引用・推薦される
+title: AIブランドサービス - AIに引用・推薦される
 description: エンタープライズAIブランドサービス。ブランドがChatGPT、Claude、Perplexity、Gemini、DeepSeekなどのAIシステムに引用・推薦されるよう支援。AI可視性スキャン、Brand Visibility実装、AI Visibility Growth管理サービス。
 head:
   - - script

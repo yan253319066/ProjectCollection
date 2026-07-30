@@ -1,5 +1,5 @@
 ---
-title: AI 品牌服务 | Neil Yan - 让品牌被 AI 系统引用
+title: AI 品牌服务 - 让品牌被 AI 系统引用
 description: 企业级 AI 品牌服务。帮助品牌被 ChatGPT、Claude、Perplexity、Gemini、DeepSeek 等 AI 系统引用和推荐。提供 AI 可见性扫描、Brand Visibility 实施、AI Visibility Growth 托管服务。
 head:
   - - script

@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Neil Yan - 독립 창업자 | XPayLabs & GetCiteFlow | Web3 & AI 풀스택 개발
+title: Neil Yan - 독립 창업자 | Web3 & AI
 description: "Neil Yan — 독립 창업자, XPayLabs와 GetCiteFlow 빌더. 자체 제품 + 고객 딜리버리 듀얼 트랙 모델: 제품 수익은 개발을, 프로젝트 수익은 제품을 키웁니다. 17년 풀스택 개발, 8년간 Web3 & 블록체인 전문, AI 제품 개발 병행. 9개 제품 출시, 100,000+ 온체인 트랜잭션. 투자 및 협업 문의 열려 있습니다."
 
 hero:
@@ -35,6 +35,7 @@ features:
     details: Prediction Market - 블록체인 기반 탈중앙화 예측 플랫폼
   - title: Blackhole 프로토콜
     details: Blackhole Protocol - 자본 장벽을 행동 가치로 대체, AI와 공존하는 탈중앙화 노드 네트워크
+titleTemplate: false
 ---
 
 <script setup>

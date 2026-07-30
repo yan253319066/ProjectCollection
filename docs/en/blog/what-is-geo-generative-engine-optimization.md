@@ -1,5 +1,5 @@
 ---
-title: What is GEO? The Complete Guide to Getting Your Website Cited by ChatGPT, Claude & Perplexity
+title: What is GEO? Get Cited by ChatGPT, Claude & Perplexity
 date: 2026-06-13
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# What is GEO? Get Cited by ChatGPT, Claude & Perplexity
 
 ## From SEO to GEO: Search Is Being Redefined
 

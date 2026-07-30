@@ -14,6 +14,8 @@ head:
 
 <BackToBlog />
 
+# Smart Contract Security Best Practices
+
 Smart contract security is the most critical aspect of Web3 development. A single vulnerability can lead to millions in losses. Here are key practices from 8+ years of development experience.
 
 ## 1. Reentrancy Protection

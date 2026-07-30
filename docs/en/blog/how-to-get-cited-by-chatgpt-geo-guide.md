@@ -1,5 +1,5 @@
 ---
-title: "How to Get Cited by ChatGPT: A Practical Guide to AI Brand Visibility (GEO)"
+title: "How to Get Cited by ChatGPT: GEO Visibility Guide"
 date: 2026-07-08
 updated: 2026-07-08
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# How to Get Cited by ChatGPT: GEO Visibility Guide
 
 ## Why Your Content Is "Invisible" to AI
 

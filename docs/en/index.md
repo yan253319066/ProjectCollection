@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Neil Yan - Independent Founder | XPayLabs & GetCiteFlow | Web3 & AI Full-Stack
+title: Neil Yan - Independent Founder | Web3 & AI
 description: "Neil Yan — Independent founder behind XPayLabs & GetCiteFlow. Dual-track model: building my own products while delivering for clients. Product revenue funds iteration, client work funds the products. 17+ years full-stack, 8 years deep in Web3 & blockchain, plus AI product development. 9 products shipped, 100,000+ transactions. Open to investment and partnerships."
 
 hero:
@@ -35,6 +35,7 @@ features:
     details: Prediction Market - Blockchain-based decentralized prediction platform
   - title: Blackhole Protocol
     details: Blackhole Protocol - Replace capital thresholds with behavioral value, coexist with AI
+titleTemplate: false
 ---
 
 <script setup>

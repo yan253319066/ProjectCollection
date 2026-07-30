@@ -1,5 +1,5 @@
 ---
-title: Project Portfolio (Web3 & AI) - Neil Yan Full-Stack Development Projects
+title: Project Portfolio (Web3 & AI)
 description: Neil Yan's project portfolio featuring 9 representative projects across AI brand visibility, quantitative trading, DeFi, perpetual contracts, hybrid exchange, RWA tokenization, crypto payment gateway, prediction market, and Blackhole Protocol.
 ---
 

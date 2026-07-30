@@ -1,5 +1,5 @@
 ---
-title: Google 官方 AI 搜索优化指南解读：哪些该做，哪些是噱头？
+title: Google AI 搜索优化指南：哪些该做，哪些是噱头
 date: 2026-06-13
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# Google AI 搜索优化指南：哪些该做，哪些是噱头
 
 2026 年 6 月，Google 在 Search Central 正式发布了 **AI 搜索优化指南**（[Optimizing your website for generative AI features on Google Search](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)）。这是 Google 首次针对 AI Overviews、AI Mode 等生成式 AI 搜索功能给出官方建议。
 

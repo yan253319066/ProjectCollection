@@ -1,5 +1,5 @@
 ---
-title: What Is XPayLabs? A Complete Guide to Self-Hosted Crypto Payments
+title: What Is XPayLabs? Self-Hosted Crypto Payments Guide
 date: 2025-11-08
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# What Is XPayLabs? Self-Hosted Crypto Payments Guide
 
 ## Why Do You Need a Self-Hosted Payment Gateway?
 

@@ -1,5 +1,5 @@
 ---
-title: 博客 | Neil Yan - 独立创始人
+title: 博客 | Neil Yan
 description: Neil Yan 的 Web3 技术博客，涵盖智能合约开发、DeFi 协议、加密货币支付、AI 量化交易等话题。
 ---
 

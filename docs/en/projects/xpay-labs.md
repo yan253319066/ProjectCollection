@@ -1,5 +1,5 @@
 ---
-title: XPayLabs - Self-Hosted Crypto Payment Gateway | Neil Yan Portfolio
+title: XPayLabs - Self-Hosted Crypto Payment Gateway
 description: XPayLabs is a self-hosted, non-custodial crypto payment infrastructure supporting TRON, EVM chains, and SUI with zero gateway fees, developed by Neil Yan.
 ---
 

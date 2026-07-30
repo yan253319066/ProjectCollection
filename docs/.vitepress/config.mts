@@ -35,6 +35,7 @@ export default defineConfig({
     return head
   },
   title: "Neil Yan - 独立创始人 | XPayLabs & GetCiteFlow | Web3 & AI 全栈开发",
+  titleTemplate: ':title | Neil Yan',
   description: "Neil Yan — 独立创始人，XPayLabs 与 GetCiteFlow 构建者。自研产品 + 客户交付双轨模式。17 年全栈开发经验，8 年 Web3/区块链深耕，兼 AI 产品开发。9 个产品已上线，100,000+ 笔链上交易。开放投资与合作。",
   outDir: './.vitepress/dist',
   lastUpdated: true,
@@ -166,7 +167,7 @@ export default defineConfig({
         })]
       ],
       themeConfig: {
-        logo: '/logo.png',
+        logo: { src: '/logo.png', alt: 'Neil Yan' },
         nav: [
           { text: '首页', link: '/' },
           { text: '项目', link: '/projects/' },
@@ -239,7 +240,7 @@ export default defineConfig({
         })]
       ],
       themeConfig: {
-        logo: '/logo.png',
+        logo: { src: '/logo.png', alt: 'Neil Yan' },
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Projects', link: '/en/projects/' },
@@ -304,10 +305,10 @@ export default defineConfig({
         })]
       ],
       themeConfig: {
-        logo: '/logo.png',
+        logo: { src: '/logo.png', alt: 'Neil Yan' },
         nav: [
           { text: 'ホーム', link: '/ja/' },
-          { text: 'プロジェクト', link: '/ja/#projects' },
+          { text: 'プロジェクト', link: '/ja/projects/' },
           { text: 'GEO サービス', link: '/ja/geo-services' },
           { text: 'ブログ', link: '/ja/blog/' }
         ],
@@ -369,10 +370,10 @@ export default defineConfig({
         })]
       ],
       themeConfig: {
-        logo: '/logo.png',
+        logo: { src: '/logo.png', alt: 'Neil Yan' },
         nav: [
           { text: '홈', link: '/ko/' },
-          { text: '프로젝트', link: '/ko/#projects' },
+          { text: '프로젝트', link: '/ko/projects/' },
           { text: 'GEO 서비스', link: '/ko/geo-services' },
           { text: '블로그', link: '/ko/blog/' }
         ],

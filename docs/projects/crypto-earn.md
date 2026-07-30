@@ -1,5 +1,5 @@
 ---
-title: Crypto Earn - DeFi 理财 DApp 开发 | Neil Yan 作品
+title: Crypto Earn - DeFi 理财 DApp 开发
 description: Crypto Earn 是基于智能合约的 USDT 加密理财平台，年化高达 18.5%，支持 15+ 条公链。由 Neil Yan 开发。
 ---
 

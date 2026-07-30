@@ -1,5 +1,5 @@
 ---
-title: "NFT Marketplace Development Guide: From Smart Contracts to Deployment"
+title: "NFT Marketplace Development: Contracts to Deployment"
 date: 2021-06-20
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# NFT Marketplace Development: Contracts to Deployment
 
 NFT marketplaces are among the most common DApp types in Web3. Whether you're planning to build your own NFT platform or want to understand the technical implementation, this guide covers everything.
 

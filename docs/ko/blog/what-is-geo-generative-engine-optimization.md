@@ -1,5 +1,5 @@
 ---
-title: GEO란? ChatGPT, Claude, Perplexity에 인용되는 완벽 가이드
+title: GEO란? ChatGPT 등에 인용되는 가이드
 date: 2026-06-13
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# GEO란? ChatGPT 등에 인용되는 가이드
 
 ## SEO에서 GEO로: 검색의 재정의
 

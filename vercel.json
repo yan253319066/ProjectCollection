@@ -1,6 +1,108 @@
 {
   "buildCommand": "npm run docs:build",
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/ja/projects/ai-quant-robot",
+      "destination": "/en/projects/ai-quant-robot",
+      "permanent": true
+    },
+    {
+      "source": "/ja/projects/crypto-earn",
+      "destination": "/en/projects/crypto-earn",
+      "permanent": true
+    },
+    {
+      "source": "/ja/projects/perpetual-trading",
+      "destination": "/en/projects/perpetual-trading",
+      "permanent": true
+    },
+    {
+      "source": "/ja/projects/nex-exchange",
+      "destination": "/en/projects/nex-exchange",
+      "permanent": true
+    },
+    {
+      "source": "/ja/projects/solaris-rwa",
+      "destination": "/en/projects/solaris-rwa",
+      "permanent": true
+    },
+    {
+      "source": "/ja/projects/xpay-labs",
+      "destination": "/en/projects/xpay-labs",
+      "permanent": true
+    },
+    {
+      "source": "/ja/projects/prediction-market",
+      "destination": "/en/projects/prediction-market",
+      "permanent": true
+    },
+    {
+      "source": "/ja/projects/blackhole-protocol",
+      "destination": "/en/projects/blackhole-protocol",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/ai-quant-robot",
+      "destination": "/en/projects/ai-quant-robot",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/crypto-earn",
+      "destination": "/en/projects/crypto-earn",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/perpetual-trading",
+      "destination": "/en/projects/perpetual-trading",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/nex-exchange",
+      "destination": "/en/projects/nex-exchange",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/solaris-rwa",
+      "destination": "/en/projects/solaris-rwa",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/xpay-labs",
+      "destination": "/en/projects/xpay-labs",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/prediction-market",
+      "destination": "/en/projects/prediction-market",
+      "permanent": true
+    },
+    {
+      "source": "/ko/projects/blackhole-protocol",
+      "destination": "/en/projects/blackhole-protocol",
+      "permanent": true
+    },
+    {
+      "source": "/ja/blog/dapp-development-cost",
+      "destination": "/en/blog/dapp-development-cost",
+      "permanent": true
+    },
+    {
+      "source": "/ja/blog/what-is-xpaylabs",
+      "destination": "/en/blog/what-is-xpaylabs",
+      "permanent": true
+    },
+    {
+      "source": "/ko/blog/dapp-development-cost",
+      "destination": "/en/blog/dapp-development-cost",
+      "permanent": true
+    },
+    {
+      "source": "/ko/blog/what-is-xpaylabs",
+      "destination": "/en/blog/what-is-xpaylabs",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/assets/(.*)",

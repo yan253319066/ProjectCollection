@@ -1,5 +1,5 @@
 ---
-title: Blackhole Protocol - 去中心化节点网络协议 | Neil Yan 作品
+title: Blackhole Protocol - 去中心化节点网络协议
 description: Blackhole Protocol 是用行为价值取代资本门槛的去中心化节点网络协议，HBP 代币经济模型，由 Neil Yan 打造。
 ---
 

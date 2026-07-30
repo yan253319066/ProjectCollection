@@ -1,5 +1,5 @@
 ---
-title: AI Brand Services | Neil Yan - Get Your Brand Cited by AI Systems
+title: AI Brand Services - Get Cited by AI Systems
 description: Enterprise AI Brand Services to help your brand get cited by ChatGPT, Claude, Perplexity, Gemini, DeepSeek, and other AI systems. AI Visibility Scan, Brand Visibility implementation, AI Visibility Growth managed service.
 head:
   - - script

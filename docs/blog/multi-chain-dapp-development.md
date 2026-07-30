@@ -1,5 +1,5 @@
 ---
-title: 多链 DApp 开发指南：一次部署 15+ 条公链的实战经验
+title: 多链 DApp 开发指南：一次部署 15+ 公链
 date: 2022-08-10
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# 多链 DApp 开发指南：一次部署 15+ 公链
 
 多链部署是每个 Web3 开发者都必须面对的课题。我在 Crypto Earn 等项目中部署了 15+ 条链，这篇文章分享实战经验。
 

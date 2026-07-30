@@ -1,5 +1,5 @@
 ---
-title: Perpetual Trading - Perpetual Futures DApp Development | Neil Yan Portfolio
+title: Perpetual Trading - Perpetual Futures DApp Development
 description: Perpetual Trading is a modern perpetual futures trading DApp supporting BTC, ETH, BNB, SOL with 1-50x leverage, developed by Neil Yan.
 ---
 

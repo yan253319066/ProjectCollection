@@ -1,5 +1,5 @@
 ---
-title: Solaris RWA - RWA Tokenization Platform Development | Neil Yan Portfolio
+title: Solaris RWA - RWA Tokenization Platform Development
 description: Solaris RWA is a decentralized real-world asset tokenization platform focusing on renewable energy projects, built by Neil Yan.
 ---
 

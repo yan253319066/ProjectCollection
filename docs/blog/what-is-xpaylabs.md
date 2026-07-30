@@ -14,6 +14,8 @@ head:
 
 <BackToBlog />
 
+# XPayLabs 是什么？自托管加密支付网关完全解读
+
 ## 为什么需要自托管支付网关？
 
 如果你正在运营一个接受加密货币支付的企业，你很可能已经在使用 BitPay、Coinbase Commerce 或 NowPayments 这类第三方支付服务。这些服务确实能帮你快速上手，但随着业务增长，你可能会发现：

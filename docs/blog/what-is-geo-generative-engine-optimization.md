@@ -1,5 +1,5 @@
 ---
-title: 什么是GEO？让网站被ChatGPT、Claude、Perplexity引用的完整指南
+title: 什么是 GEO？让网站被 ChatGPT 等 AI 引用的指南
 date: 2026-06-13
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# 什么是 GEO？让网站被 ChatGPT 等 AI 引用的指南
 
 ## 从 SEO 到 GEO：搜索正在被重新定义
 

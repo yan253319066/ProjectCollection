@@ -1,5 +1,5 @@
 ---
-title: GEOとは？ChatGPT、Claude、Perplexityに引用されるための完全ガイド
+title: GEOとは？ChatGPT等に引用されるためのガイド
 date: 2026-06-13
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# GEOとは？ChatGPT等に引用されるためのガイド
 
 ## SEOからGEOへ：検索の再定義
 

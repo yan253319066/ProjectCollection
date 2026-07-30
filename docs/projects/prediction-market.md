@@ -1,5 +1,5 @@
 ---
-title: 预测市场 - 去中心化预测平台 DApp 开发 | Neil Yan 作品
+title: 预测市场 - 去中心化预测平台 DApp 开发
 description: Prediction Market 是一个基于区块链的去中心化预测市场平台，由 Neil Yan 打造。
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Self-Hosted vs Third-Party Crypto Payment Gateways: A Complete Comparison"
+title: Self-Hosted vs Third-Party Crypto Payment Gateways
 date: 2026-07-08
 updated: 2026-07-08
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# Self-Hosted vs Third-Party Crypto Payment Gateways
 
 ## The Three Approaches to Accepting Crypto Payments
 

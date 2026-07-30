@@ -1,5 +1,5 @@
 ---
-title: "The Independent Developer's Survival Guide: 17 Years of Full-Stack, From Freelancing to Building Products"
+title: "Indie Developer Survival Guide: 17 Years Full-Stack"
 date: 2026-07-08
 updated: 2026-07-08
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# Indie Developer Survival Guide: 17 Years Full-Stack
 
 ## Why I Chose the Independent Developer Path
 

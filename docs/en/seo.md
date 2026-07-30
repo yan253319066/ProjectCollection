@@ -1,5 +1,5 @@
 ---
-title: Independent Founder Portfolio - AI Search Engine Optimization
+title: Independent Founder Portfolio - AI SEO
 description: Neil Yan Independent Founder Portfolio - Optimized for AI Search Engines
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: AI Quant Robot - AI Trading DApp Development | Neil Yan Portfolio
+title: AI Quant Robot - AI Trading DApp Development
 description: AI Quant Robot is an AI-powered Web3 quantitative trading DApp with multi-chain support and automated rewards, developed by Neil Yan.
 ---
 

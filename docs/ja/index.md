@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Neil Yan - インディペンデント・ファウンダー | XPayLabs & GetCiteFlow | Web3 & AI フルスタック開発
+title: Neil Yan - 独立系ファウンダー | Web3 & AI
 description: Neil Yan —— インディペンデント・ファウンダー、XPayLabsとGetCiteFlowの構築者。自社プロダクト開発とクライアントデリバリーの両輪経営：プロダクトが実力を証明し、クライアント案件がキャッシュフローを生む。17年のフルスタック開発経験、そのうち8年はWeb3・ブロックチェーンに特化、AIプロダクト開発にも対応。9プロダクトリリース、100,000件以上のオンチェーン取引実績。投資・協業を募集中。
 
 hero:
@@ -35,6 +35,7 @@ features:
     details: Prediction Market - 改ざん不可能なブロックチェーン分散型予測プラットフォーム
   - title: Blackholeプロトコル
     details: Blackhole Protocol - 資本しきい値を行動的価値に置き換え、AIと共存する分散型ノードネットワーク
+titleTemplate: false
 ---
 
 <script setup>

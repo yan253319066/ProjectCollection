@@ -1,5 +1,5 @@
 ---
-title: "Google's Official AI Search Optimization Guide: What Works, What's Hype?"
+title: "Google AI Search Optimization Guide: What Actually Works"
 date: 2026-06-13
 updated: 2026-06-13
 author: Neil Yan
@@ -13,6 +13,8 @@ head:
 ---
 
 <BackToBlog />
+
+# Google AI Search Optimization Guide: What Actually Works
 
 In June 2026, Google published its official **AI Search Optimization Guide** ([Optimizing your website for generative AI features on Google Search](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)) on Search Central. This is Google's first official guidance on optimizing for generative AI features like AI Overviews and AI Mode.
 

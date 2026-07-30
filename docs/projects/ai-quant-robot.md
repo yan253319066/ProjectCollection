@@ -1,5 +1,5 @@
 ---
-title: AI Quant Robot - AI 量化交易 DApp 开发 | Neil Yan 作品
+title: AI Quant Robot - AI 量化交易 DApp 开发
 description: AI Quant Robot 是一个基于 AI 的 Web3 量化交易 DApp，支持多链自动套利和四种投资组合。由 Neil Yan 开发。
 ---
 
