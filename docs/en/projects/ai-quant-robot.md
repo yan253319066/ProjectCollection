@@ -1,21 +1,21 @@
 ---
-title: AI Quant Robot - AI Trading DApp Development
-description: AI Quant Robot is an AI-powered Web3 quantitative trading DApp with multi-chain support and automated rewards, developed by Neil Yan.
+title: AI Quant Robot — Gold Digger Quant Trading DApp
+description: AI Quant Robot is a Web3 quant trading DApp sample by Neil Yan, including the Gold Digger strategy UI and multi-chain wallet flows.
 ---
 
 # AI Quant Robot
 
-> AI-powered Web3 quantitative trading DApp with multi-chain support and automated rewards.
+> Multi-chain Web3 quant trading DApp sample, including the Gold Digger strategy UI.
 
-AI Quant Robot is an AI-driven quantitative trading platform offering four investment packages: Smart Kitty (0.3%/day, from 50 USDT), Quant Hunter (0.8%/day, from 200 USDT), Gold Digger (1.2%/day, from 1000 USDT), and Institutional Long (1.5%/day, from 5000 USDT).
+AI Quant Robot is a delivery sample for a quant trading product: wallet connect, strategy tiers (Smart Kitty, Quant Hunter, Gold Digger, Institutional), and a P&L dashboard. Daily-return figures in the UI are demo parameters for the sample — not a live investment product.
 
 ## Features
 
-- **Four investment tiers** — Starting from 50 USDT for different risk profiles
+- **Strategy tiers** — Including Gold Digger, shown as selectable packages in the UI
 - **Multi-chain support** — Ethereum, Polygon, BNB Chain and more
-- **Real-time analytics** — Daily returns, cumulative earnings, and staking rewards
-- **USDT deposits/withdrawals** — Full transaction history
-- **Referral program** — Earn 5% commission from team earnings
+- **Analytics dashboard** — Daily / cumulative P&L and staking-style rewards in the sample
+- **USDT deposit/withdraw flow** — Full transaction history in the demo
+- **Referral UI** — Team commission flow as a product pattern
 - **Multi-language** — Chinese, English, Japanese, Korean
 
 ## Tech Stack
@@ -29,6 +29,6 @@ AI Quant Robot is an AI-driven quantitative trading platform offering four inves
 
 ## Learn More
 
-Visit [AI Quant Robot](https://quant.0xx402.com) to experience AI-powered trading.
+Visit [AI Quant Robot](https://quant.0xx402.com) for the live demo.
 
 The hard parts of quant trading aren't the smart contracts — they're strategy execution and on-chain risk management. Have an idea? Let's discuss your quant product architecture.

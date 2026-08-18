@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"开发一个 DApp 需要多少钱？2026 年 Web3 开发完整预算指南","description":"开发一个 Web3 DApp 要花多少钱？本文详细拆解 DApp 开发预算，从智能合约到前端部署。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-03-01","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/dapp-development-cost.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"开发一个 DApp 需要多少钱？2026 年 Web3 开发完整预算指南","description":"开发一个 Web3 DApp 要花多少钱？本文详细拆解 DApp 开发预算，从智能合约到前端部署。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-03-01","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/dapp-development-cost"}}
 ---
 
 <BackToBlog />

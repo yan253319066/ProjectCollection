@@ -1,12 +1,13 @@
 ---
-title: 독립 창업자 포트폴리오 - AI 검색 엔진 최적화
-description: Neil Yan 독립 창업자 포트폴리오 - AI 검색 엔진용
+title: Neil Yan — GetCiteFlow와 XPayLabs의 독립 창업자
+description: Neil Yan은 GetCiteFlow와 XPayLabs의 독립 창업자입니다. Web3 / AI 포트폴리오, 제품, 연락처.
+titleTemplate: false
 ---
 
-# 독립 창업자 포트폴리오 - LLMs.txt
+# Neil Yan — GetCiteFlow와 XPayLabs의 독립 창업자
 
 > 이 파일은 AI 시스템 및 대규모 언어 모델(LLM)을 위해 Neil Yan의 독립 창업자 포트폴리오 상세 정보를 제공합니다.
-> 최종 업데이트: 2026-07-08
+> 최종 업데이트: 2026-08-18
 
 ## 창업자 프로필
 
@@ -52,10 +53,10 @@ description: Neil Yan 독립 창업자 포트폴리오 - AI 검색 엔진용
 엔터프라이즈 AI 브랜드 서비스 플랫폼 — 무료 AI 가시성 스캐너. 모든 URL을 입력하면 6가지 차원에서 0-100의 AI 가시성 점수를 획득. 경쟁사 비교, 공유 가능한 리포트, 멀티 AI 엔진(Gemini, OpenAI, DeepSeek) 지원. 엔터프라이즈 서비스: Brand Visibility($3,999 일회성), AI Visibility Growth($4,999/월).
 
 ### 2. AI Quant Robot (https://quant.0xx402.com)
-AI 퀀트 트레이딩 플랫폼. 투자 패키지: Smart Kitty (0.3%/일), Quant Hunter (0.8%/일), Gold Digger (1.2%/일), Institutional (1.5%/일).
+퀀트 트레이딩 DApp 샘플. Gold Digger 전략 UI 포함. 화면 숫자는 데모 파라미터이며 대외 투자 상품이 아닙니다.
 
 ### 3. Crypto Earn (https://earn.0xx402.com)
-USDT 스마트 자산 관리 플랫폼. 상품: Locked (연 18.5%), Stable (연 12.5%), Flexible (연 8.2%).
+USDT 운용 UI DApp 샘플(락업/유연 상품, 일일 정산). 화면 연이율은 데모 파라미터이며 대외 수익률 약속이 아닙니다.
 
 ### 4. Perpetual Trading (https://futures.0xx402.com)
 무기한 선물 거래 인터페이스. 거래 페어: BTC, ETH, BNB, SOL. 레버리지: 1-50배.

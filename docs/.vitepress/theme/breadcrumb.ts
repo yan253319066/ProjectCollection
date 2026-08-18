@@ -36,7 +36,7 @@ export function buildBreadcrumbJsonLd(filePath: string): Record<string, unknown>
       '@type': 'ListItem',
       position: i + 2,
       name: label,
-      item: siteUrl + accumulated + '/',
+      item: siteUrl + accumulated,
     })
   })
 

@@ -11,8 +11,8 @@
 | プロジェクト | 説明 |
 |------------|------|
 | [**GetCiteFlow**](https://www.getciteflow.ai) | エンタープライズ AI ブランド可視性プラットフォーム — 無料 AI 可視性スキャナー、6 次元スコアリング、競合比較 |
-| [**AI Quant Robot**](https://quant.0xx402.com) | AI クオンツ取引プラットフォーム、複数投資パッケージ |
-| [**Crypto Earn**](https://earn.0xx402.com) | USDT スマート資産運用（Locked 18.5% / Stable 12.5% / Flexible 8.2% APY） |
+| [**AI Quant Robot**](https://quant.0xx402.com) | クオンツ取引 DApp サンプル（Gold Digger 戦略UIを含む） |
+| [**Crypto Earn**](https://earn.0xx402.com) | USDT 運用 UI の DApp サンプル（能力デモであり、対外的な利回り商品ではない） |
 | [**Perpetual Trading**](https://futures.0xx402.com) | 永久先物取引 — BTC、ETH、BNB、SOL、1-50 倍レバレッジ |
 | [**Nex Exchange**](https://nex.0xx402.com) | 次世代ハイブリッド取引所、CEX 効率 + DEX 透明性 |
 | [**Solaris RWA**](https://rwa.0xx402.com) | RWA トークン化プラットフォーム、再生可能エネルギー資産に特化 |

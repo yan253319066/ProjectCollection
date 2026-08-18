@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"智能合约安全开发最佳实践","description":"从 8 年 Web3 开发经验中总结的智能合约安全要点。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2020-03-15","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/smart-contract-security-tips.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"智能合约安全开发最佳实践","description":"从 8 年 Web3 开发经验中总结的智能合约安全要点。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2020-03-15","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/smart-contract-security-tips"}}
 ---
 
 <BackToBlog />

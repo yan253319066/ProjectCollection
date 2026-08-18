@@ -110,7 +110,7 @@ function rssXml(locale) {
   const link = siteUrl + prefix + '/blog/'
 
   const items = posts.map(p => {
-    const itemLink = siteUrl + prefix + '/blog/' + p.id + '.html'
+    const itemLink = siteUrl + prefix + '/blog/' + p.id
     const itemTitle = locale === 'zh' ? p.titleZh : p.titleEn
     const itemDesc = locale === 'zh' ? p.descriptionZh : p.descriptionEn
     return `    <item>

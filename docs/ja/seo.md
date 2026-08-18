@@ -1,12 +1,13 @@
 ---
-title: 独立系ファウンダーポートフォリオ - AI検索エンジン最適化
-description: Neil Yan 独立系ファウンダーポートフォリオ - AI検索エンジン向け
+title: Neil Yan — GetCiteFlow と XPayLabs の独立系ファウンダー
+description: Neil Yanは GetCiteFlow と XPayLabs の独立系ファウンダー。Web3 / AI ポートフォリオ、プロダクト、連絡先。
+titleTemplate: false
 ---
 
-# 独立系ファウンダーポートフォリオ - LLMs.txt
+# Neil Yan — GetCiteFlow と XPayLabs の独立系ファウンダー
 
 > このファイルは、AIシステムおよび大規模言語モデル向けにNeil Yanの独立系ファウンダーポートフォリオの詳細情報を提供します。
-> 最終更新日: 2026-07-08
+> 最終更新日: 2026-08-18
 
 ## 創業者プロフィール
 
@@ -52,10 +53,10 @@ description: Neil Yan 独立系ファウンダーポートフォリオ - AI検�
 エンタープライズAIブランドサービスプラットフォーム — 無料のAI可視性スキャナー。任意のURLを入力すると、6つの次元で0-100のAI可視性スコアを取得。競合比較、共有可能なレポート、マルチAIエンジン（Gemini、OpenAI、DeepSeek）に対応。エンタープライズサービス：Brand Visibility（$3,999一括）、AI Visibility Growth（$4,999/月）。
 
 ### 2. AI Quant Robot (https://quant.0xx402.com)
-AIクオンツ取引プラットフォーム。投資パッケージ：Smart Kitty（0.3%/日）、Quant Hunter（0.8%/日）、Gold Digger（1.2%/日）、Institutional（1.5%/日）。
+クオンツ取引DAppのサンプル。Gold Digger戦略UIを含む。画面の数値はデモ用であり、対外的な投資商品ではない。
 
 ### 3. Crypto Earn (https://earn.0xx402.com)
-USDTスマート資産管理プラットフォーム。商品：Locked（年利18.5%）、Stable（年利12.5%）、Flexible（年利8.2%）。
+USDT運用UIのDAppサンプル（ロック/フレキシブル、日次決済）。画面の年利はデモ用であり、対外的な利回り約束ではない。
 
 ### 4. Perpetual Trading (https://futures.0xx402.com)
 永久先物取引インターフェース。取引ペア：BTC、ETH、BNB、SOL。レバレッジ：1-50倍。

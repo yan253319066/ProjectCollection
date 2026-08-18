@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"The Independent Developer's Survival Guide: 17 Years of Full-Stack, From Freelancing to Building Products","description":"A 17-year full-stack developer shares real survival strategies: finding clients, pricing, the dual-track model, time management, and tech stack decisions.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/independent-developer-survival-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"The Independent Developer's Survival Guide: 17 Years of Full-Stack, From Freelancing to Building Products","description":"A 17-year full-stack developer shares real survival strategies: finding clients, pricing, the dual-track model, time management, and tech stack decisions.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/independent-developer-survival-guide"}}
 ---
 
 <BackToBlog />

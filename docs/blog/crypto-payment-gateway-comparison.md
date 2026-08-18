@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"自托管 vs 第三方：加密货币支付网关怎么选？全面对比指南","description":"从手续费、资金控制权、KYC、接入难度等 8 个维度对比自托管和第三方加密支付方案，帮助选择最适合的支付方案。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/crypto-payment-gateway-comparison.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"自托管 vs 第三方：加密货币支付网关怎么选？全面对比指南","description":"从手续费、资金控制权、KYC、接入难度等 8 个维度对比自托管和第三方加密支付方案，帮助选择最适合的支付方案。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/crypto-payment-gateway-comparison"}}
 ---
 
 <BackToBlog />

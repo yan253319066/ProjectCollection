@@ -1,7 +1,7 @@
 ---
 title: 什么是 GEO？让网站被 ChatGPT 等 AI 引用的指南
 date: 2026-06-13
-updated: 2026-06-13
+updated: 2026-08-18
 author: Neil Yan
 tags: ['GEO', 'Generative Engine Optimization', 'AI搜索', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI可见性', 'SEO']
 description: GEO（Generative Engine Optimization）是让网站被AI搜索引擎引用的关键技术。本文详解GEO原理、8大优化维度、实施步骤，以及如何用GetCiteFlow提升AI可见性。
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"什么是GEO？让网站被ChatGPT、Claude、Perplexity引用的完整指南","description":"GEO（Generative Engine Optimization）是让网站被AI搜索引擎引用的关键技术。详解GEO原理、8大优化维度、实施步骤。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/what-is-geo-generative-engine-optimization.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"什么是GEO？让网站被ChatGPT、Claude、Perplexity引用的完整指南","description":"GEO（Generative Engine Optimization）是让网站被AI搜索引擎引用的关键技术。详解GEO原理、8大优化维度、实施步骤。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/what-is-geo-generative-engine-optimization"}}
 ---
 
 <BackToBlog />
@@ -124,4 +124,6 @@ AI 更倾向于引用知名品牌和行业权威。建立品牌认知度、获�
 GEO 不是 SEO 的替代品，而是 AI 搜索时代的必要补充。如果你的内容没有被 AI 引用，在零点击搜索时代几乎等于不存在。
 
 > **立即行动**：访问 [GetCiteFlow](https://www.getciteflow.ai)，输入你的网站 URL，查看你的 AI 可见性评分。
+
+如果需要落地实施（不只是扫描），看 [GEO 服务](/geo-services)。
 

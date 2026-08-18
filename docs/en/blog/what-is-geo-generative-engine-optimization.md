@@ -1,7 +1,7 @@
 ---
 title: What is GEO? Get Cited by ChatGPT, Claude & Perplexity
 date: 2026-06-13
-updated: 2026-06-13
+updated: 2026-08-18
 author: Neil Yan
 tags: ['GEO', 'Generative Engine Optimization', 'AI Search', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI Visibility', 'SEO']
 description: GEO (Generative Engine Optimization) is the key to getting your website cited by AI search engines. This guide covers 8 optimization dimensions, implementation steps, and how GetCiteFlow can help.
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"What is GEO? The Complete Guide to Getting Your Website Cited by ChatGPT, Claude & Perplexity","description":"GEO (Generative Engine Optimization) is the key to getting your website cited by AI search engines. Covers 8 optimization dimensions and implementation steps.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/what-is-geo-generative-engine-optimization.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"What is GEO? The Complete Guide to Getting Your Website Cited by ChatGPT, Claude & Perplexity","description":"GEO (Generative Engine Optimization) is the key to getting your website cited by AI search engines. Covers 8 optimization dimensions and implementation steps.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/what-is-geo-generative-engine-optimization"}}
 ---
 
 <BackToBlog />
@@ -124,4 +124,6 @@ Implement fixes by priority:
 GEO isn't a replacement for SEO — it's an essential complement for the AI search era. If your content isn't cited by AI engines, you're essentially invisible in the zero-click search landscape.
 
 > **Act now**: Visit [GetCiteFlow](https://www.getciteflow.ai), enter your site URL, and check your AI Visibility Score.
+
+If you want the same stack implemented on your site (not just a scan), see [GEO Services](/en/geo-services).
 

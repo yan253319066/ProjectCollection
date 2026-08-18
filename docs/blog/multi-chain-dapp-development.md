@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"多链 DApp 开发指南：一次部署 15+ 条公链的实战经验","description":"多链 DApp 开发实战指南，覆盖合约适配、跨链桥接、链上交互差异、Gas 策略和部署流程。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2022-08-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/multi-chain-dapp-development.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"多链 DApp 开发指南：一次部署 15+ 条公链的实战经验","description":"多链 DApp 开发实战指南，覆盖合约适配、跨链桥接、链上交互差异、Gas 策略和部署流程。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2022-08-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/multi-chain-dapp-development"}}
 ---
 
 <BackToBlog />

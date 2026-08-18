@@ -15,7 +15,7 @@ GetCiteFlow は Generative Engine Optimization (GEO) プラットフォームで
 - **不足コンポーネントスキャン** — 8つのGEO次元を検出、影響度順にソート
 - **マルチフォーマット出力** — JSON-LD、Markdown、HTML、React JSX、Next.js、Vue、WordPressなど
 - **競合他社比較** — 異なるWebサイトのAI可視性を比較
-- **エンタープライズサービス** — Technical GEO $999から、AI Visibility Growth 月額$2,999から
+- **エンタープライズサービス** — Brand Visibility $3,999から、AI Visibility Growth 月額$4,999から
 
 ## サブプロジェクト：GetCiteFlow Agent Commerce
 
@@ -43,4 +43,5 @@ Agent Commerce は現在完全無料で利用可能で、x402エージェント�
 ## 詳細を見る
 
 - **GetCiteFlow** — [getciteflow.ai](https://www.getciteflow.ai) にアクセスしてAI可視性を向上
+- **GEOサービス** — 実装（Schema、`llms.txt`、引用しやすいページ）：[GEOサービス](/ja/geo-services)
 - **Agent Commerce** — [app.getciteflow.ai](https://app.getciteflow.ai) にアクセスしてAIエージェントECを体験

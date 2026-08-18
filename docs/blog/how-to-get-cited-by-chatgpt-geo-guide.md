@@ -1,7 +1,7 @@
 ---
 title: 如何被 ChatGPT 引用？GEO 实战指南
 date: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-18
 author: Neil Yan
 tags: ['GEO', 'AI品牌可见性', 'ChatGPT', '生成式引擎优化', 'AI搜索', 'LLM', 'GetCiteFlow', 'AI引用']
 description: AI 搜索引擎（ChatGPT、Perplexity、Claude）正在改变用户获取信息的方式。本文从实战出发，详解如何优化网站被 AI 引用的 6 个核心维度和 7 个可执行步骤，帮助你抓住 AI 搜索流量入口。
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"如何被 ChatGPT 引用？AI 品牌可见性（GEO）实战指南","description":"AI 搜索引擎正在改变用户获取信息的方式。详解优化网站被 AI 引用的 6 个核心维度和 7 个可执行步骤。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/how-to-get-cited-by-chatgpt-geo-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"如何被 ChatGPT 引用？AI 品牌可见性（GEO）实战指南","description":"AI 搜索引擎正在改变用户获取信息的方式。详解优化网站被 AI 引用的 6 个核心维度和 7 个可执行步骤。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/how-to-get-cited-by-chatgpt-geo-guide"}}
 ---
 
 <BackToBlog />
@@ -254,3 +254,5 @@ AI 在引用内容时，通常不是引用整段，而是提炼一段话的核�
 5. 每月：复查 AI 可见性数据，调整策略
 
 不要等到"GEO"变成又一个热门缩写、每个 SEO 代理机构都在卖 GEO 服务的时候再开始。那时候窗口已经关上了一半。
+
+如果需要落地实施（Schema、`llms.txt`、可引用页面，而不只是扫描），看 [GEO 服务](/geo-services)。

@@ -8,8 +8,8 @@ description: Neil Yan 的项目作品集，展示 9 个代表性项目，涵盖 
 Neil Yan 已服务 2,000+ 平台用户，以下展示 9 个代表性项目（涵盖 Web3 与 AI 领域）：
 
 - [GetCiteFlow](/projects/getciteflow) — GEO 平台，提升 AI 搜索引擎可见性
-- [AI Quant Robot](/projects/ai-quant-robot) — AI 驱动的 Web3 量化交易平台
-- [Crypto Earn](/projects/crypto-earn) — USDT 智能理财平台，年化 18.5%
+- [AI Quant Robot](/projects/ai-quant-robot) — 量化交易 DApp 交付样板，含 Gold Digger
+- [Crypto Earn](/projects/crypto-earn) — USDT 理财界面 DApp 交付样板
 - [Perpetual Trading](/projects/perpetual-trading) — 永续期货交易 DApp
 - [Nex Exchange](/projects/nex-exchange) — 新一代混合交易所
 - [Solaris RWA](/projects/solaris-rwa) — RWA 代币化平台

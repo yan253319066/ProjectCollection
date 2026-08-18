@@ -11,8 +11,8 @@
 | 项目 | 描述 |
 |------|------|
 | [**GetCiteFlow**](https://www.getciteflow.ai) | 企业级 AI 品牌可见性平台 — 免费 AI 可见性扫描器，六维评分，竞品对比 |
-| [**AI Quant Robot**](https://quant.0xx402.com) | AI 量化交易平台，多档投资套餐 |
-| [**Crypto Earn**](https://earn.0xx402.com) | USDT 智能理财（Locked 18.5% / Stable 12.5% / Flexible 8.2% APY） |
+| [**AI Quant Robot**](https://quant.0xx402.com) | 量化交易 DApp 交付样板，含 Gold Digger 策略界面 |
+| [**Crypto Earn**](https://earn.0xx402.com) | USDT 理财界面 DApp 交付样板（能力演示，不是对外理财产品） |
 | [**Perpetual Trading**](https://futures.0xx402.com) | 永续期货交易 — BTC、ETH、BNB、SOL，1-50 倍杠杆 |
 | [**Nex Exchange**](https://nex.0xx402.com) | 新一代混合交易所，CEX 效率 + DEX 透明度 |
 | [**Solaris RWA**](https://rwa.0xx402.com) | RWA 代币化平台，专注可再生能源资产 |

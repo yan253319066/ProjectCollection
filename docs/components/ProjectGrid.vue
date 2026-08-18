@@ -1,26 +1,22 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { computed, ref } from 'vue'
+import { useData } from 'vitepress'
 import { projects, type Project } from './projects'
 import ProjectCard from './ProjectCard.vue'
 import ProjectModal from './ProjectModal.vue'
 
+const { lang } = useData()
+
+const currentLocale = computed(() => {
+  const value = lang.value || ''
+  if (value.startsWith('en')) return 'en'
+  if (value.startsWith('ja')) return 'ja'
+  if (value.startsWith('ko')) return 'ko'
+  return 'zh'
+})
+
 const selectedProject = ref<Project | null>(null)
 const modalVisible = ref(false)
-const currentLocale = ref('zh')
-
-onMounted(() => {
-  // Detect locale from URL path
-  const path = window.location.pathname
-  if (path.startsWith('/en/')) {
-    currentLocale.value = 'en'
-  } else if (path.startsWith('/ja/')) {
-    currentLocale.value = 'ja'
-  } else if (path.startsWith('/ko/')) {
-    currentLocale.value = 'ko'
-  } else {
-    currentLocale.value = 'zh'
-  }
-})
 
 function openModal(project: Project) {
   selectedProject.value = project

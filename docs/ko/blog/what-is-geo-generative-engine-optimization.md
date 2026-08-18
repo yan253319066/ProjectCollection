@@ -1,7 +1,7 @@
 ---
 title: GEO란? ChatGPT 등에 인용되는 가이드
 date: 2026-06-13
-updated: 2026-06-13
+updated: 2026-08-18
 author: Neil Yan
 tags: ['GEO', 'Generative Engine Optimization', 'AI 검색', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI 가시성']
 description: GEO(Generative Engine Optimization)는 웹사이트가 AI 검색 엔진에 인용되는 핵심 기술입니다. GEO 원리, 8가지 최적화 차원, 구현 단계, GetCiteFlow를 사용한 AI 가시성 향상 방법을 상세히 설명합니다。
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"GEO란? ChatGPT, Claude, Perplexity에 인용되는 완벽 가이드","description":"GEO(Generative Engine Optimization)는 웹사이트가 AI 검색 엔진에 인용되는 핵심 기술입니다. GEO 원리, 8가지 최적화 차원, 구현 단계를 설명합니다.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/ko/blog/what-is-geo-generative-engine-optimization.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"GEO란? ChatGPT, Claude, Perplexity에 인용되는 완벽 가이드","description":"GEO(Generative Engine Optimization)는 웹사이트가 AI 검색 엔진에 인용되는 핵심 기술입니다. GEO 원리, 8가지 최적화 차원, 구현 단계를 설명합니다.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/ko/blog/what-is-geo-generative-engine-optimization"}}
 ---
 
 <BackToBlog />
@@ -124,4 +124,6 @@ AI는 유명 브랜드와 업계 권위자를 인용하는 경향이 있습니�
 GEO는 SEO의 대체재가 아니라, AI 검색 시대에 필수적인 보완입니다. 귀하의 콘텐츠가 AI 엔진에 인용되지 않는다면, 제로클릭 검색 시대에 존재하지 않는 것이나 다름없습니다.
 
 > **지금 행동하세요**: [GetCiteFlow](https://www.getciteflow.ai)에 방문하여 웹사이트의 AI 가시성 점수를 확인하세요.
+
+스캔만이 아니라 사이트에 직접 적용하려면 [GEO 서비스](/ko/geo-services)를 보세요.
 

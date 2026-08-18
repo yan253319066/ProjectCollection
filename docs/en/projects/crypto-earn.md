@@ -1,20 +1,20 @@
 ---
-title: Crypto Earn - DeFi Wealth Management DApp
-description: Crypto Earn is a smart contract-based USDT wealth management platform with up to 18.5% APY across 15+ chains, developed by Neil Yan.
+title: Crypto Earn — DeFi Earn-Product DApp Sample
+description: Crypto Earn is a multi-chain USDT earn-product UI DApp sample by Neil Yan — lock/flexible tiers and daily settlement, not a public APY offering.
 ---
 
 # Crypto Earn
 
-> Secure and efficient USDT smart wealth management platform with up to 18.5% APY.
+> Multi-chain USDT earn-product UI — a DeFi delivery sample, not a public yield product.
 
-Crypto Earn is a DeFi wealth management platform that generates passive income through smart contracts. It offers three products: Locked (18.5% APY), Stable (12.5% APY), and Flexible (8.2% APY).
+Crypto Earn is a DApp sample for yield-style products: lock / flexible tiers, multi-chain wallets, and a daily settlement interface. It shows how to ship a DeFi earn front-end and contracts. APY numbers in the UI are demo parameters, not a live investment offer.
 
 ## Features
 
-- **Three investment products** — Locked, Stable, Flexible for different needs
+- **Product tiers** — Locked, Stable, Flexible UI for different lock/liquidity stories
 - **15+ chains** — Ethereum, Arbitrum, Optimism, Base, Polygon, BNB Chain, Avalanche, Solana, zkSync Era and more
-- **Daily settlement** — Earnings auto-settle every 24 hours
-- **Non-custodial** — Funds managed entirely by smart contracts
+- **Daily settlement UI** — 24-hour settlement flow in the interface
+- **Non-custodial pattern** — Wallet-signed, contract-managed funds in the sample
 - **Multi-language** — Chinese, English, Japanese, Korean
 
 ## Tech Stack
@@ -28,6 +28,6 @@ Crypto Earn is a DeFi wealth management platform that generates passive income t
 
 ## Learn More
 
-Visit [Crypto Earn](https://earn.0xx402.com) to start earning passive income.
+Visit [Crypto Earn](https://earn.0xx402.com) for the live demo.
 
-Thinking about your own yield product? The real challenges in DeFi wealth management are rate modeling and fund security — happy to discuss architecture and risk design for your project.
+Building a real yield product? The hard parts are rate modeling and fund security — happy to discuss architecture and risk design.

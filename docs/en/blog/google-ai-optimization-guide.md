@@ -1,7 +1,7 @@
 ---
 title: "Google AI Search Optimization Guide: What Actually Works"
 date: 2026-06-13
-updated: 2026-06-13
+updated: 2026-08-18
 author: Neil Yan
 tags: ['Google', 'AI Search', 'SEO', 'GEO', 'AI Overviews', 'E-E-A-T', 'Search Optimization', 'GetCiteFlow']
 description: Google has officially released its AI search optimization guide. This article breaks down the key takeaways, analyzes where Google's advice diverges from other AI platforms (ChatGPT, Claude, Perplexity), and shows how GetCiteFlow covers optimization across all AI search engines.
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"Google's Official AI Search Optimization Guide: What Works, What's Hype?","description":"Google has officially released its AI search optimization guide. Breaks down key takeaways, analyzes differences between Google and other AI platforms, and covers cross-platform optimization strategies.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/google-ai-optimization-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Google's Official AI Search Optimization Guide: What Works, What's Hype?","description":"Google has officially released its AI search optimization guide. Breaks down key takeaways, analyzes differences between Google and other AI platforms, and covers cross-platform optimization strategies.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/google-ai-optimization-guide"}}
 ---
 
 <BackToBlog />
@@ -107,4 +107,6 @@ GetCiteFlow's 6-dimension scan covers everything Google recommends AND what non-
 Google's AI search optimization guide is a valuable reference, but it represents only Google's perspective. In a world with multiple AI search engines, your optimization strategy should cover all platforms — not just Google.
 
 > **Act now**: Visit [GetCiteFlow](https://www.getciteflow.ai), enter your site URL, and check your AI Visibility Score — optimized for all major AI search engines, not just Google.
+
+If you want this implemented on your site — not just a scan — see [GEO Services](/en/geo-services).
 

@@ -11,8 +11,8 @@ Portfolio: [www.0xx402.com](https://www.0xx402.com)
 | Project | Description |
 |---------|-------------|
 | [**GetCiteFlow**](https://www.getciteflow.ai) | Enterprise AI Brand Visibility Platform — free AI visibility scanner, 6-dimension scoring, competitor comparison |
-| [**AI Quant Robot**](https://quant.0xx402.com) | AI quantitative trading platform with multi-tier investment packages |
-| [**Crypto Earn**](https://earn.0xx402.com) | USDT smart wealth management (Locked 18.5% / Stable 12.5% / Flexible 8.2% APY) |
+| [**AI Quant Robot**](https://quant.0xx402.com) | Quant trading DApp sample, including Gold Digger strategy UI |
+| [**Crypto Earn**](https://earn.0xx402.com) | USDT earn-product UI DApp sample (delivery demo, not a public APY offering) |
 | [**Perpetual Trading**](https://futures.0xx402.com) | Perpetual futures trading — BTC, ETH, BNB, SOL, 1-50x leverage |
 | [**Nex Exchange**](https://nex.0xx402.com) | Next-generation hybrid exchange combining CEX efficiency with DEX transparency |
 | [**Solaris RWA**](https://rwa.0xx402.com) | Real-world asset tokenization platform focused on renewable energy |

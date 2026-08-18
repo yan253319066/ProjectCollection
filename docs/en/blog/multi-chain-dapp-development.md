@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"Multi-Chain DApp Development Guide: Deploying Across 15+ Blockchains","description":"Multi-chain DApp development guide covering contract adaptation, gas strategies, and deployment workflows.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2022-08-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/multi-chain-dapp-development.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Multi-Chain DApp Development Guide: Deploying Across 15+ Blockchains","description":"Multi-chain DApp development guide covering contract adaptation, gas strategies, and deployment workflows.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2022-08-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/multi-chain-dapp-development"}}
 ---
 
 <BackToBlog />

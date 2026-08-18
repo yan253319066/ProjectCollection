@@ -1,98 +1,86 @@
 ---
-title: AIブランドサービス - AIに引用・推薦される
-description: エンタープライズAIブランドサービス。ブランドがChatGPT、Claude、Perplexity、Gemini、DeepSeekなどのAIシステムに引用・推薦されるよう支援。AI可視性スキャン、Brand Visibility実装、AI Visibility Growth管理サービス。
+title: GetCiteFlow GEOサービス — ChatGPT・Perplexityに引用される
+description: GetCiteFlow 創業者 Neil Yan による GEO / AI ブランド可視性サービス。無料スキャンのあと、Schema、llms.txt、引用しやすいコンテンツを実装し、ChatGPT、Claude、Perplexity に引用されやすくします。
 head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Service","name":"エンタープライズAIブランドサービス","description":"エンタープライズAIブランドサービス。ブランドがChatGPT、Claude、Perplexity、GeminiなどのAIシステムに引用・推薦されるよう支援。","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","hasOfferCatalog":{"@type":"OfferCatalog","name":"AIブランドサービス","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI可視性スキャン"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Brand Visibility"},"price":"3999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"4999","priceCurrency":"USD","unitText":"month"}]}}
+      {"@context":"https://schema.org","@type":"Service","name":"GetCiteFlow GEOサービス","description":"GEO / AIブランド可視性サービス。ブランドがChatGPT、Claude、Perplexity、Geminiに引用されやすくします。","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","url":"https://www.0xx402.com/ja/geo-services","hasOfferCatalog":{"@type":"OfferCatalog","name":"AIブランドサービス","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI可視性スキャン"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Brand Visibility"},"price":"3999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"4999","priceCurrency":"USD","unitText":"month"}]}}
 ---
 
-# AIブランドサービス
+# GetCiteFlow GEOサービス
 
-> ChatGPT、Claude、Perplexity、Gemini、DeepSeekなどのAIシステムにあなたのブランドを引用・推薦させましょう。
+> ブランドを ChatGPT、Claude、Perplexity、Gemini、DeepSeek に引用させる。実装は [GetCiteFlow](https://www.getciteflow.ai) の創業者が行います。
 
-## AIブランドサービスが必要な理由
+## なぜ必要か
 
-AIシステム（ChatGPT、Claude、Perplexity、Gemini、DeepSeekなど）は、ユーザーが情報を発見する主要な手段になりつつあります。「CRMを推薦して」や「最高の分析ツールは？」と尋ねられたとき、AIの回答がどのブランドがトラフィックと露出を得るかを決定します。ほとんどのブランドはAIシステムに引用されるように**最適化されていません**——明確なエンティティ定義、FAQ Schema、llms.txtファイル、適切なコンテンツ構造など、AIモデルが引用価値を判断するために使用するシグナルが不足しています。
+AI に「CRM を推薦して」と聞かれたとき、その答えが誰のトラフィックになるかを決めます。多くのサイトは引用向けに整っていません。エンティティが曖昧で、FAQ マークアップがなく、`llms.txt` もなく、本文も抜き出しにくい状態です。
+
+## このサイトで検証できる結果
+
+[0xx402.com](https://www.0xx402.com/ja/) では、クライアントに納品するのと同じスタックを使っています。最近の対応：
+
+| シグナル | 本サイトの現状 |
+|----------|----------------|
+| エンティティ | Person Schema。GetCiteFlow と XPayLabs に関連付け |
+| AI クローラー | `robots.txt` が GPTBot、ClaudeBot、PerplexityBot、Google-Extended を許可 |
+| AI インデックス | `/llms.txt` と `/llms-full.txt`。リンクは実在する URL |
+| 言語 | ページ単位の Open Graph と hreflang（ホームページの使い回しではない） |
+| 検索 | Google には `neil yan`、`getciteflow.ai`、`quant digger` などのクエリが出ている |
+
+これは作った事例ではありません。公開 HTML と `llms.txt` を確認できます。
+
+まず [GetCiteFlow](https://www.getciteflow.ai) で任意の URL を無料スキャンしても構いません。
 
 ## サービス内容
 
 ### AI可視性スキャン — 無料
 
-- 6次元フルスキャン（AI可視性、FAQカバレッジ、エンティティの明確さ、権威性、コンテンツ構造、サマリー最適化）
-- AI可視性スコア（0-100）
-- 影響度順に並べた修正提案
-- 競合他社との比較分析
-- 今すぐ [GetCiteFlow](https://www.getciteflow.ai) にアクセスして無料で利用
+- 6次元スキャン（AI可視性、FAQカバレッジ、エンティティの明確さ、権威性、コンテンツ構造、サマリー最適化）
+- 0–100 点
+- 影響度順の修正提案
+- 競合比較
+- 今すぐ [GetCiteFlow](https://www.getciteflow.ai)
 
 ### Brand Visibility — $3,999 から
 
-AI可視性スキャンの全内容に加えて：
+スキャンに加え、実装まで担当：
 
-- FAQ Schema / HowTo Schema / Article Schema の実装
-- `/llms.txt` と `/llms-full.txt` の設定
-- セマンティックHTML再構築の提案
-- Core Web Vitals 最適化計画
-- 構造化データのテストと検証（Google Rich Results Test、Schema.org Validator）
-- 納品物：完全な実装 + テスト合格
-- *価格はサイト規模と範囲により調整*
+- FAQ / HowTo / Article Schema
+- `/llms.txt` と `/llms-full.txt`
+- セマンティック HTML と Core Web Vitals の計画
+- Google リッチリザルトテストと Schema.org での検証
+- 納品：本番実装 + テスト合格
+- *価格はサイト規模による*
 
 ### AI Visibility Growth — 月額 $4,999 から
 
-Brand Visibilityの全内容に加えて：
-
-- 継続的なAI可視性モニタリング
-- コンテンツ戦略最適化（AI引用向けコンテンツ作成）
-- 権威性構築（逆引用ネットワーク戦略）
-- 月次AI可視性レポート
-- 無制限のスキャンと診断
-- 優先テクニカルサポート
-- *価格は製品のポジショニングと範囲に応じてカスタマイズ。お問い合わせください*
+Brand Visibility に加え、継続モニタリング、引用向けコンテンツ、月次レポート、無制限スキャン。範囲に応じて見積もり。
 
 ## ワークフロー
 
 ```
-スキャン診断 → 影響順 → 設計 → 実装 → 検証監視 → 継続的最適化
+スキャン → 優先順位 → 設計 → 実装 → 検証 → 監視
 ```
 
-### 1. スキャン診断
-
-[GetCiteFlow](https://www.getciteflow.ai) のAI可視性スキャナーを使用して全量スキャンを実施し、不足しているAI引用シグナルを特定します。
-
-### 2. 影響順
-
-修正の影響度に応じて優先順位を設定——ROIが最も高い最適化から着手します。
-
-### 3. 設計
-
-欠落している各シグナルに対して、コード例を含む具体的な実装計画を提供します。
-
-### 4. 実装
-
-構造化データマークアップ、llms.txt設定、コンテンツ最適化などを実装します。
-
-### 5. 検証
-
-Google Rich Results Test、Schema.org Validator、GetCiteFlowで実装効果を検証します。
-
-### 6. 継続的最適化
-
-定期的にAI可視性の変化をスキャンし、ChatGPT、Perplexityなどでの引用状況を追跡します。
+1. GetCiteFlow で **スキャン**
+2. 影響度で **並べる**
+3. 実装（コード含む）を **設計**
+4. Schema、llms.txt、コンテンツ変更を **出す**
+5. リッチリザルトテストと GetCiteFlow で **検証**
+6. ChatGPT、Perplexity などの引用を **監視**
 
 ## 私を選ぶ理由
 
-- **実戦経験** — 私自身が [GetCiteFlow](https://www.getciteflow.ai) エンタープライズAIブランドサービスプラットフォームを開発し、AIシステムの仕組みを深く理解しています
-- **技術的背景** — 17年のフルスタック開発経験、8年のWeb3・ブロックチェーン専門知識、Schema、HTML、パフォーマンス最適化に精通
-- **検証可能な結果** — 私のポートフォリオサイト 0xx402.com は最適化により複数のAIシステムに引用されています
+- [GetCiteFlow](https://www.getciteflow.ai) を作っているので、スキャナーと納品のチェックリストは同じ
+- フルスタック17年。Schema / HTML / 性能はスライドではなく実装
+- このサイトが公開サンプル：[ポートフォリオ](/ja/) · [GetCiteFlow プロダクト](/ja/projects/getciteflow)
 
-## 始め方
+## 始める
 
-無料の初回評価をご希望の方はご連絡ください：
+無料の初回評価：
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
-- **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 
-または [GetCiteFlow](https://www.getciteflow.ai) にアクセスしてセルフスキャンをご利用ください。
-
+または [GetCiteFlow](https://www.getciteflow.ai) でセルフスキャン。

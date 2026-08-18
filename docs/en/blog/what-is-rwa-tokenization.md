@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"What Is RWA Tokenization? Real-World Assets on the Blockchain in 2026","description":"RWA tokenization converts real-world assets into blockchain tokens. Complete guide to how it works, benefits, and use cases.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2024-09-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/what-is-rwa-tokenization.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"What Is RWA Tokenization? Real-World Assets on the Blockchain in 2026","description":"RWA tokenization converts real-world assets into blockchain tokens. Complete guide to how it works, benefits, and use cases.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2024-09-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/what-is-rwa-tokenization"}}
 ---
 
 <BackToBlog />

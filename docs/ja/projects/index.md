@@ -5,7 +5,7 @@ description: Neil Yan のプロジェクト作品集。GetCiteFlow など Web3 �
 
 # プロジェクト作品集
 
-Neil Yan は 2,000+ のプラットフォームユーザーにサービスを提供してきました。以下は代表的なプロジェクトです（詳細ページは翻訳済みのもの、または英語版へのリンク）：
+Neil Yan は 2,000+ のプラットフォームユーザーにサービスを提供してきました。GetCiteFlow と XPayLabs が主力プロダクトです。`*.0xx402.com` の取引 / DeFi ページは**納品サンプル**です（詳細は翻訳済みページ、または英語版）：
 
 ## 日本語ページあり
 
@@ -13,8 +13,8 @@ Neil Yan は 2,000+ のプラットフォームユーザーにサービスを提
 
 ## 英語版で詳細を見る
 
-- [AI Quant Robot](/en/projects/ai-quant-robot) — AI 駆動の Web3 クオンツ取引
-- [Crypto Earn](/en/projects/crypto-earn) — USDT スマート資産運用、年利 18.5%
+- [AI Quant Robot](/en/projects/ai-quant-robot) — クオンツ取引 DApp サンプル（Gold Digger 含む）
+- [Crypto Earn](/en/projects/crypto-earn) — USDT 運用 UI の DApp サンプル
 - [Perpetual Trading](/en/projects/perpetual-trading) — 永久先物取引 DApp
 - [Nex Exchange](/en/projects/nex-exchange) — 次世代ハイブリッド取引所
 - [Solaris RWA](/en/projects/solaris-rwa) — RWA トークン化プラットフォーム

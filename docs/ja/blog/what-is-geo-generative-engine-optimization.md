@@ -1,7 +1,7 @@
 ---
 title: GEOとは？ChatGPT等に引用されるためのガイド
 date: 2026-06-13
-updated: 2026-06-13
+updated: 2026-08-18
 author: Neil Yan
 tags: ['GEO', 'Generative Engine Optimization', 'AI検索', 'LLM', 'ChatGPT', 'Claude', 'Perplexity', 'AI可視性']
 description: GEO（Generative Engine Optimization）は、WebサイトがAI検索エンジンに引用されるための重要な技術です。GEOの原理、8つの最適化次元、実装手順、GetCiteFlowを使ったAI可視性向上方法を詳しく解説します。
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"GEOとは？ChatGPT、Claude、Perplexityに引用されるための完全ガイド","description":"GEO（Generative Engine Optimization）はWebサイトがAI検索エンジンに引用されるための重要な技術。GEOの原理、8つの最適化次元、実装手順を解説。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/ja/blog/what-is-geo-generative-engine-optimization.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"GEOとは？ChatGPT、Claude、Perplexityに引用されるための完全ガイド","description":"GEO（Generative Engine Optimization）はWebサイトがAI検索エンジンに引用されるための重要な技術。GEOの原理、8つの最適化次元、実装手順を解説。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/ja/blog/what-is-geo-generative-engine-optimization"}}
 ---
 
 <BackToBlog />
@@ -124,4 +124,6 @@ AIは有名ブランドや業界権威を引用する傾向があります。ブ
 GEOはSEOの代替ではなく、AI検索時代に不可欠な補完です。あなたのコンテンツがAIエンジンに引用されなければ、ゼロクリック検索時代において存在しないも同然です。
 
 > **今すぐ行動**：[GetCiteFlow](https://www.getciteflow.ai) にアクセスし、あなたのWebサイトのAI可視性スコアを確認しましょう。
+
+スキャンだけでなく実装まで必要なら、[GEOサービス](/ja/geo-services) をご覧ください。
 

@@ -11,8 +11,8 @@
 | 프로젝트 | 설명 |
 |----------|------|
 | [**GetCiteFlow**](https://www.getciteflow.ai) | 엔터프라이즈 AI 브랜드 가시성 플랫폼 — 무료 AI 가시성 스캐너, 6차원 점수, 경쟁사 비교 |
-| [**AI Quant Robot**](https://quant.0xx402.com) | AI 퀀트 트레이딩 플랫폼, 다양한 투자 패키지 |
-| [**Crypto Earn**](https://earn.0xx402.com) | USDT 스마트 자산 관리（Locked 18.5% / Stable 12.5% / Flexible 8.2% APY） |
+| [**AI Quant Robot**](https://quant.0xx402.com) | 퀀트 트레이딩 DApp 샘플 (Gold Digger 전략 UI 포함) |
+| [**Crypto Earn**](https://earn.0xx402.com) | USDT 운용 UI DApp 샘플 (능력 데모이며 대외 수익률 상품이 아님) |
 | [**Perpetual Trading**](https://futures.0xx402.com) | 영구 선물 거래 — BTC、ETH、BNB、SOL、1-50배 레버리지 |
 | [**Nex Exchange**](https://nex.0xx402.com) | 차세대 하이브리드 거래소, CEX 효율성 + DEX 투명성 |
 | [**Solaris RWA**](https://rwa.0xx402.com) | RWA 토큰화 플랫폼, 재생 에너지 자산 특화 |

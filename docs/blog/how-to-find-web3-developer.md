@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"如何找 Web3 开发者？2026 年完整指南","description":"详细介绍如何找到合适的区块链开发者，包括招聘渠道、评估标准、避坑指南和真实预算参考。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-25","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/how-to-find-web3-developer.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"如何找 Web3 开发者？2026 年完整指南","description":"详细介绍如何找到合适的区块链开发者，包括招聘渠道、评估标准、避坑指南和真实预算参考。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-25","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/how-to-find-web3-developer"}}
 ---
 
 <BackToBlog />

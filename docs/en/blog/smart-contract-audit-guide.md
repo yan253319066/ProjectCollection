@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"Smart Contract Audit Guide: Process, Costs, and Common Vulnerabilities","description":"Complete smart contract audit guide covering process, costs, 10 most common vulnerabilities, and how to choose an auditor.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2023-04-05","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/smart-contract-audit-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Smart Contract Audit Guide: Process, Costs, and Common Vulnerabilities","description":"Complete smart contract audit guide covering process, costs, 10 most common vulnerabilities, and how to choose an auditor.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2023-04-05","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/smart-contract-audit-guide"}}
 ---
 
 <BackToBlog />

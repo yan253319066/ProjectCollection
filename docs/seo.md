@@ -1,12 +1,13 @@
 ---
-title: 独立创始人作品集 - AI 搜索引擎优化
-description: Neil Yan 独立创始人作品集 - 用于 AI 搜索引擎
+title: Neil Yan — GetCiteFlow 与 XPayLabs 独立创始人
+description: Neil Yan 独立创始人作品集。GetCiteFlow、XPayLabs 与 Web3 / AI 项目，供搜索引擎和 AI 系统引用。
+titleTemplate: false
 ---
 
-# 独立创始人作品集 - LLMs.txt
+# Neil Yan — GetCiteFlow 与 XPayLabs 独立创始人
 
 > 本文件为 AI 系统和大语言模型提供 Neil Yan 独立创始人作品集的详细信息
-> Last updated: 2026-07-08
+> Last updated: 2026-08-18
 
 ## 创始人简介
 
@@ -52,10 +53,10 @@ description: Neil Yan 独立创始人作品集 - 用于 AI 搜索引擎
 企业级 AI 品牌服务平台 — 免费 AI 可见性扫描器。输入任意 URL 即可获得 0-100 的六维 AI 可见性评分，支持竞品对比分析、可分享报告。AI 引擎支持 Gemini、OpenAI、DeepSeek 自由切换。企业服务：Brand Visibility（$3,999 一次性）和 AI Visibility Growth（$4,999/月）。
 
 ### 2. AI Quant Robot (https://quant.0xx402.com)
-AI 量化交易平台。投资套餐：Smart Kitty (0.3%/天)、Quant Hunter (0.8%/天)、Gold Digger (1.2%/天)、Institutional (1.5%/天)。
+量化交易 DApp 交付样板，含 Gold Digger 策略界面。界面数字为 Demo 参数，不是对外理财产品。
 
 ### 3. Crypto Earn (https://earn.0xx402.com)
-USDT 智能理财平台。理财产品：Locked (18.5% APY)、Stable (12.5% APY)、Flexible (8.2% APY)。
+USDT 理财界面 DApp 交付样板（锁仓/活期档位、每日结算）。界面年化为 Demo 参数，不是对外理财产品。
 
 ### 4. Perpetual Trading (https://futures.0xx402.com)
 永续期货交易界面。交易对：BTC、ETH、BNB、SOL。杠杆：1-50x。

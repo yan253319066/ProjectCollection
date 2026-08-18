@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"NFT 市场开发指南：从智能合约到前端部署","description":"完整的 NFT 市场开发指南，涵盖 ERC721 合约、铸币、交易市场合约和前端集成。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2021-06-20","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/nft-marketplace-development-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"NFT 市场开发指南：从智能合约到前端部署","description":"完整的 NFT 市场开发指南，涵盖 ERC721 合约、铸币、交易市场合约和前端集成。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2021-06-20","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/nft-marketplace-development-guide"}}
 ---
 
 <BackToBlog />

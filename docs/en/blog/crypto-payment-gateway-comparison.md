@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"Self-Hosted vs Third-Party Crypto Payment Gateways: A Complete Comparison","description":"A comprehensive comparison of self-hosted vs third-party crypto payment gateways across 8 dimensions including fees, fund control, and integration.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/crypto-payment-gateway-comparison.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Self-Hosted vs Third-Party Crypto Payment Gateways: A Complete Comparison","description":"A comprehensive comparison of self-hosted vs third-party crypto payment gateways across 8 dimensions including fees, fund control, and integration.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/crypto-payment-gateway-comparison"}}
 ---
 
 <BackToBlog />

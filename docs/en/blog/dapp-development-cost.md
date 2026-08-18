@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"How Much Does It Cost to Build a DApp? 2026 Web3 Development Budget Guide","description":"How much does it cost to build a Web3 DApp? Complete budget breakdown covering smart contracts, frontend, audit, and deployment.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-03-01","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/dapp-development-cost.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"How Much Does It Cost to Build a DApp? 2026 Web3 Development Budget Guide","description":"How much does it cost to build a Web3 DApp? Complete budget breakdown covering smart contracts, frontend, audit, and deployment.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-03-01","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/dapp-development-cost"}}
 ---
 
 <BackToBlog />

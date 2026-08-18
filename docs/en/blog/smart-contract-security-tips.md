@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"Smart Contract Security Best Practices","description":"Smart contract security essentials from 8+ years of Web3 development experience.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2020-03-15","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/smart-contract-security-tips.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Smart Contract Security Best Practices","description":"Smart contract security essentials from 8+ years of Web3 development experience.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2020-03-15","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/smart-contract-security-tips"}}
 ---
 
 <BackToBlog />

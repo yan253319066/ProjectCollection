@@ -1,54 +1,68 @@
 ---
-title: AI Brand Services - Get Cited by AI Systems
-description: Enterprise AI Brand Services to help your brand get cited by ChatGPT, Claude, Perplexity, Gemini, DeepSeek, and other AI systems. AI Visibility Scan, Brand Visibility implementation, AI Visibility Growth managed service.
+title: GetCiteFlow GEO Services — Get Cited by ChatGPT & Perplexity
+description: GEO and AI brand visibility services by Neil Yan, founder of GetCiteFlow. Free scan, then implementation so ChatGPT, Claude, and Perplexity can cite your brand.
 head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Service","name":"Enterprise AI Brand Service","description":"Enterprise AI Brand Service. Helps brands get cited by ChatGPT, Claude, Perplexity, Gemini, and other AI systems.","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","hasOfferCatalog":{"@type":"OfferCatalog","name":"AI Brand Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Scan"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Brand Visibility"},"price":"3999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"4999","priceCurrency":"USD","unitText":"month"}]}}
+      {"@context":"https://schema.org","@type":"Service","name":"GetCiteFlow GEO Services","description":"GEO and AI brand visibility services to help brands get cited by ChatGPT, Claude, Perplexity, and Gemini.","provider":{"@type":"Person","name":"Neil Yan"},"areaServed":"Worldwide","url":"https://www.0xx402.com/en/geo-services","hasOfferCatalog":{"@type":"OfferCatalog","name":"AI Brand Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Scan"},"price":"0","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Brand Visibility"},"price":"3999","priceCurrency":"USD"},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Visibility Growth"},"price":"4999","priceCurrency":"USD","unitText":"month"}]}}
 ---
 
-# AI Brand Services
+# GetCiteFlow GEO Services
 
-> Get your brand cited and recommended by ChatGPT, Claude, Perplexity, Gemini, DeepSeek, and other AI systems.
+> Get your brand cited by ChatGPT, Claude, Perplexity, Gemini, and DeepSeek. Built by the founder of [GetCiteFlow](https://www.getciteflow.ai).
 
-## Why AI Brand Services Matter
+## Why this matters
 
-AI systems (ChatGPT, Claude, Perplexity, Gemini, DeepSeek, etc.) are becoming the primary way users discover information. When someone asks "recommend a CRM" or "what's the best analytics tool," the AI's answer determines which brands get traffic and exposure. Most brands are **not optimized** to be cited by these AI systems — they lack clear entity definitions, FAQ Schema, llms.txt files, proper content structure, and other signals AI models use to determine citation worthiness.
+When someone asks an AI system "recommend a CRM" or "best analytics tool," the answer decides who gets the traffic. Most sites are not set up to be cited: weak entity definition, no FAQ markup, no `llms.txt`, and content that crawlers cannot quote.
+
+## Proof on this site
+
+I run the same stack on [0xx402.com](https://www.0xx402.com/en/) that I implement for clients. Recent work on this portfolio:
+
+| Signal | What shipped |
+|--------|----------------|
+| Entity | Person schema for Neil Yan, linked to GetCiteFlow and XPayLabs |
+| AI crawlers | `robots.txt` allows GPTBot, ClaudeBot, PerplexityBot, Google-Extended |
+| AI index | `/llms.txt` and `/llms-full.txt` with working page URLs |
+| Language | Per-page Open Graph and hreflang (not homepage-only) |
+| Search | Google already shows queries such as `neil yan`, `getciteflow.ai`, and `quant digger` |
+
+This is not a made-up case study. You can inspect the live HTML and `llms.txt` on this domain.
+
+Scan any URL yourself on [GetCiteFlow](https://www.getciteflow.ai) (free).
 
 ## Services
 
 ### AI Visibility Scan — Free
 
-- 6-dimension full scan (AI Visibility, FAQ Coverage, Entity Clarity, Authority, Content Structure, Summary Optimization)
-- AI Visibility Score (0-100)
-- Impact-prioritized fix recommendations
+- 6-dimension scan (AI Visibility, FAQ Coverage, Entity Clarity, Authority, Content Structure, Summary Optimization)
+- Score from 0–100
+- Fixes ranked by impact
 - Competitor comparison
-- Visit [GetCiteFlow](https://www.getciteflow.ai) to use it free
+- Use it now on [GetCiteFlow](https://www.getciteflow.ai)
 
 ### Brand Visibility — From $3,999
 
-Includes everything in AI Visibility Scan, plus:
+Includes the scan, plus implementation:
 
-- FAQ Schema / HowTo Schema / Article Schema implementation
-- `/llms.txt` and `/llms-full.txt` setup
-- Semantic HTML restructuring recommendations
-- Core Web Vitals optimization
-- Structured data testing & validation (Google Rich Results Test, Schema.org Validator)
-- Deliverable: Full implementation + validation pass
-- *Price varies based on site size and scope*
+- FAQ / HowTo / Article schema
+- `/llms.txt` and `/llms-full.txt`
+- Semantic HTML and Core Web Vitals plan
+- Validation in Google Rich Results Test and Schema.org
+- Deliverable: live implementation + pass on tests
+- *Price depends on site size*
 
 ### AI Visibility Growth — From $4,999/month
 
-Includes everything in Brand Visibility, plus:
+Includes Brand Visibility, plus:
 
 - Ongoing AI visibility monitoring
-- Content strategy optimization (crafting AI-citable content)
-- Authority building (back-citation network strategy)
-- Monthly AI visibility reports
-- Unlimited scans and diagnostics
-- Priority technical support
-- *Custom-priced based on product positioning and scope. Contact for a quote.*
+- Content written to be citable
+- Authority / citation network work
+- Monthly report
+- Unlimited scans
+- *Custom quote by scope*
 
 ## Workflow
 
@@ -56,43 +70,24 @@ Includes everything in Brand Visibility, plus:
 Scan → Diagnose → Prioritize → Implement → Verify → Monitor
 ```
 
-### 1. Scan
+1. **Scan** with GetCiteFlow
+2. **Rank** fixes by impact
+3. **Design** the implementation (including code)
+4. **Ship** schema, llms.txt, and content changes
+5. **Verify** in Rich Results Test and GetCiteFlow
+6. **Monitor** citations in ChatGPT, Perplexity, and similar systems
 
-Full scan using [GetCiteFlow](https://www.getciteflow.ai) AI Visibility Scanner to identify all missing AI citation signals.
+## Why me
 
-### 2. Diagnose & Prioritize
+- I built [GetCiteFlow](https://www.getciteflow.ai), so the scanner and the service share the same checklist
+- 17+ years full-stack; schema, HTML, and performance are implementation work, not a slide deck
+- This site is the public sample: [portfolio](/en/) · [GetCiteFlow product](/en/projects/getciteflow)
 
-Rank fixes by impact — tackle the highest ROI optimizations first.
+## Start
 
-### 3. Design
-
-Provide specific implementation plans with code examples for each missing signal.
-
-### 4. Implement
-
-Implement structured data markup, llms.txt configuration, and content optimization.
-
-### 5. Verify
-
-Validate with Google Rich Results Test, Schema.org Validator, and GetCiteFlow.
-
-### 6. Monitor
-
-Regularly scan AI visibility changes and track citations across ChatGPT, Perplexity, and other platforms.
-
-## Why Choose Me?
-
-- **Hands-on experience** — I built [GetCiteFlow](https://www.getciteflow.ai), an Enterprise AI Brand Service platform, giving me deep insight into how AI systems work
-- **Technical background** — 17+ years full-stack, 8 years deep in Web3 & blockchain, expert in Schema, HTML, and performance optimization
-- **Verifiable results** — My portfolio site 0xx402.com has been cited by multiple AI systems through optimization
-
-## Get Started
-
-Contact me for a free initial assessment:
+Free first-pass assessment:
 
 - **Telegram**: [@OS_Blockchain](https://t.me/OS_Blockchain)
 - **Email**: yanning-1987@outlook.com
-- **GitHub**: [yan253319066](https://github.com/yan253319066/ProjectCollection)
 
-Or visit [GetCiteFlow](https://www.getciteflow.ai) for a self-service scan.
-
+Or scan yourself on [GetCiteFlow](https://www.getciteflow.ai).

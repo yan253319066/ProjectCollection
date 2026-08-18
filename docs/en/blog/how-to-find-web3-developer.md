@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"How to Find a Web3 Developer in 2026 — Complete Guide","description":"Complete guide to hiring a Web3 developer — where to find them, how to evaluate technical skills, red flags to avoid, and real DApp development costs.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-25","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/how-to-find-web3-developer.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"How to Find a Web3 Developer in 2026 — Complete Guide","description":"Complete guide to hiring a Web3 developer — where to find them, how to evaluate technical skills, red flags to avoid, and real DApp development costs.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-05-25","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/how-to-find-web3-developer"}}
 ---
 
 <BackToBlog />

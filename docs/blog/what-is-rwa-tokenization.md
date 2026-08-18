@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"RWA 代币化是什么？2026 年现实世界资产上链完整解读","description":"RWA 代币化是将现实世界资产转化为区块链代币的过程。本文深入解读 RWA 代币化的原理、优势和实际应用案例。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2024-09-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/what-is-rwa-tokenization.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"RWA 代币化是什么？2026 年现实世界资产上链完整解读","description":"RWA 代币化是将现实世界资产转化为区块链代币的过程。本文深入解读 RWA 代币化的原理、优势和实际应用案例。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2024-09-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/what-is-rwa-tokenization"}}
 ---
 
 <BackToBlog />

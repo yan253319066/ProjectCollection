@@ -1,6 +1,6 @@
 ---
-title: GetCiteFlow - Enterprise AI Brand Visibility Platform
-description: GetCiteFlow is a GEO platform that helps websites get cited by AI search engines like ChatGPT, Claude, Perplexity, and Gemini. Scan → Diagnose → Fix → Export.
+title: GetCiteFlow — Get Cited by ChatGPT, Claude & Perplexity
+description: GetCiteFlow by Neil Yan helps brands get cited by ChatGPT, Claude, Perplexity, and Gemini. Free AI visibility scan, then GEO implementation.
 ---
 
 # GetCiteFlow
@@ -15,7 +15,7 @@ GetCiteFlow is a Generative Engine Optimization (GEO) platform that helps websit
 - **Missing Component Scan** — Detects 8 GEO dimensions, prioritized by impact
 - **Multi-Format Export** — JSON-LD, Markdown, HTML, React JSX, Next.js, Vue, WordPress
 - **Compare Tool** — Compare AI visibility across websites
-- **Enterprise Services** — Technical GEO from $999, AI Visibility Growth from $2,999/month
+- **Enterprise Services** — Brand Visibility from $3,999, AI Visibility Growth from $4,999/month
 
 ## Sub-Project: GetCiteFlow Agent Commerce
 
@@ -43,4 +43,5 @@ Agent Commerce is currently free to use and follows the x402 agent protocol.
 ## Learn More
 
 - **GetCiteFlow** — Visit [getciteflow.ai](https://www.getciteflow.ai) to improve AI visibility
+- **GEO Services** — Implementation (schema, `llms.txt`, citable pages): [GEO Services](/en/geo-services)
 - **Agent Commerce** — Visit [app.getciteflow.ai](https://app.getciteflow.ai) to experience AI Agent commerce

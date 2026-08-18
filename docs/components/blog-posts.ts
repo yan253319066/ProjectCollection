@@ -180,10 +180,10 @@ export function getBlogPosts(locale: 'zh' | 'en' | 'ja' | 'ko') {
         : locale === 'ja' ? (post.descriptionJa || post.descriptionEn)
         : locale === 'ko' ? (post.descriptionKo || post.descriptionEn)
         : post.descriptionEn
-      const link = locale === 'zh' ? `/blog/${post.id}.html`
-        : locale === 'en' ? `/en/blog/${post.id}.html`
-        : locale === 'ja' ? `/ja/blog/${post.id}.html`
-        : `/ko/blog/${post.id}.html`
+      const link = locale === 'zh' ? `/blog/${post.id}`
+        : locale === 'en' ? `/en/blog/${post.id}`
+        : locale === 'ja' ? `/ja/blog/${post.id}`
+        : `/ko/blog/${post.id}`
       return { ...post, title, tags, description, link }
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())

@@ -1,7 +1,7 @@
 ---
 title: Google AI 搜索优化指南：哪些该做，哪些是噱头
 date: 2026-06-13
-updated: 2026-06-13
+updated: 2026-08-18
 author: Neil Yan
 tags: ['Google', 'AI搜索', 'SEO', 'GEO', 'AI Overviews', 'E-E-A-T', '搜索优化', 'GetCiteFlow']
 description: Google 正式发布了 AI 搜索优化官方指南。本文解读核心要点，分析 Google 的建议与其它 AI 平台（ChatGPT、Claude、Perplexity）的差异，并介绍如何用 GetCiteFlow 全面覆盖所有 AI 搜索引擎的优化需求。
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"Google 官方 AI 搜索优化指南解读：哪些该做，哪些是噱头？","description":"Google 正式发布了 AI 搜索优化官方指南。解读核心要点，分析 Google 建议与其它 AI 平台的差异，介绍如何全面覆盖所有 AI 搜索引擎的优化需求。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/google-ai-optimization-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Google 官方 AI 搜索优化指南解读：哪些该做，哪些是噱头？","description":"Google 正式发布了 AI 搜索优化官方指南。解读核心要点，分析 Google 建议与其它 AI 平台的差异，介绍如何全面覆盖所有 AI 搜索引擎的优化需求。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-06-13","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/google-ai-optimization-guide"}}
 ---
 
 <BackToBlog />
@@ -107,4 +107,6 @@ GetCiteFlow 的 6 维扫描涵盖了 Google 推荐的和非 Google 平台需要�
 Google 的 AI 搜索优化指南是一份有价值的参考，但它只代表了 Google 一家的立场。在多个 AI 搜索引擎并存的今天，你的优化策略应该覆盖所有平台，而不是只看 Google 一家。
 
 > **立即行动**：访问 [GetCiteFlow](https://www.getciteflow.ai)，输入你的网站 URL，查看你的 AI 可见性评分——不仅针对 Google，而是针对所有主流 AI 搜索引擎。
+
+如果需要落地实施（不只是扫描），看 [GEO 服务](/geo-services)。
 

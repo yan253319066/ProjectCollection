@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"独立开发者生存指南：从接项目到自研产品，我的 17 年全栈之路","description":"从 17 年全栈开发经验出发，分享独立开发者的真实生存指南：找客户、报价技巧、双轨模式、时间管理和技术栈选择。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/independent-developer-survival-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"独立开发者生存指南：从接项目到自研产品，我的 17 年全栈之路","description":"从 17 年全栈开发经验出发，分享独立开发者的真实生存指南：找客户、报价技巧、双轨模式、时间管理和技术栈选择。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/independent-developer-survival-guide"}}
 ---
 
 <BackToBlog />

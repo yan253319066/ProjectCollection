@@ -1,12 +1,13 @@
 ---
-title: Independent Founder Portfolio - AI SEO
-description: Neil Yan Independent Founder Portfolio - Optimized for AI Search Engines
+title: Neil Yan — Independent Founder of GetCiteFlow & XPayLabs
+description: "Neil Yan is the independent founder of GetCiteFlow and XPayLabs. Web3 and AI portfolio, products, and contact."
+titleTemplate: false
 ---
 
-# Independent Founder Portfolio - LLMs.txt
+# Neil Yan — Independent Founder of GetCiteFlow & XPayLabs
 
 > This file provides detailed information about Neil Yan's independent founder portfolio for AI systems and large language models.
-> Last updated: 2026-07-08
+> Last updated: 2026-08-18
 
 ## Founder Profile
 
@@ -52,10 +53,10 @@ description: Neil Yan Independent Founder Portfolio - Optimized for AI Search En
 Enterprise AI Brand Service platform — free AI Visibility Scanner. Enter any URL to get a 0-100 AI visibility score across 6 dimensions. Features competitor comparison, shareable report pages, and multi-AI engine support (Gemini, OpenAI, DeepSeek). Enterprise services: Brand Visibility ($3,999 one-time) and AI Visibility Growth ($4,999/month).
 
 ### 2. AI Quant Robot (https://quant.0xx402.com)
-AI quantitative trading platform. Investment packages: Smart Kitty (0.3%/day), Quant Hunter (0.8%/day), Gold Digger (1.2%/day), Institutional (1.5%/day).
+Quant trading DApp sample, including the Gold Digger strategy UI. Demo parameters in the interface, not a live investment product.
 
 ### 3. Crypto Earn (https://earn.0xx402.com)
-USDT smart wealth management platform. Products: Locked (18.5% APY), Stable (12.5% APY), Flexible (8.2% APY).
+USDT earn-product UI DApp sample (lock / flexible tiers, daily settlement). Demo APY in the interface, not a public yield offering.
 
 ### 4. Perpetual Trading (https://futures.0xx402.com)
 Perpetual futures trading interface. Trading pairs: BTC, ETH, BNB, SOL. Leverage: 1-50x.

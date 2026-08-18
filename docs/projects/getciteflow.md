@@ -45,3 +45,4 @@ Agent Commerce 目前免费使用，遵循 x402 代理协议。
 ## 了解更多
 
 - 访问 [getciteflow.ai](https://www.getciteflow.ai) 免费检测您品牌的 AI 可见性
+- 需要落地实施？查看 [GEO 服务](/geo-services)

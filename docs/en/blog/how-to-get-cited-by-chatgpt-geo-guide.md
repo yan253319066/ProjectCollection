@@ -1,7 +1,7 @@
 ---
 title: "How to Get Cited by ChatGPT: GEO Visibility Guide"
 date: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-18
 author: Neil Yan
 tags: ['GEO', 'AI Brand Visibility', 'ChatGPT', 'Generative Engine Optimization', 'AI Search', 'LLM', 'GetCiteFlow', 'AI Citations']
 description: AI search engines like ChatGPT, Perplexity, and Claude are changing how users discover information. A practical guide covering the 6 dimensions and 7 actionable steps to get your website cited by AI, from the builder of GetCiteFlow.
@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"How to Get Cited by ChatGPT: A Practical Guide to AI Brand Visibility (GEO)","description":"AI search engines are changing how users discover content. Practical guide covering 6 dimensions and 7 actionable steps to get your website cited by AI.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/how-to-get-cited-by-chatgpt-geo-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"How to Get Cited by ChatGPT: A Practical Guide to AI Brand Visibility (GEO)","description":"AI search engines are changing how users discover content. Practical guide covering 6 dimensions and 7 actionable steps to get your website cited by AI.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2026-07-08","dateModified":"2026-08-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/how-to-get-cited-by-chatgpt-geo-guide"}}
 ---
 
 <BackToBlog />
@@ -254,3 +254,5 @@ Here's your starting checklist:
 5. Monthly: Review AI visibility data and adjust your strategy
 
 Don't wait until "GEO" becomes yet another buzzword acronym that every SEO agency is selling as a service. By then, half the window will already be closed.
+
+Need this implemented on your site — schema, `llms.txt`, and citable pages, not just a scan? See [GEO Services](/en/geo-services).

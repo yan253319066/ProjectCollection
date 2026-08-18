@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"NFT Marketplace Development Guide: From Smart Contracts to Deployment","description":"Complete NFT marketplace development guide covering ERC721 contracts, minting, marketplace contracts, and frontend integration.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2021-06-20","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/nft-marketplace-development-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"NFT Marketplace Development Guide: From Smart Contracts to Deployment","description":"Complete NFT marketplace development guide covering ERC721 contracts, minting, marketplace contracts, and frontend integration.","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2021-06-20","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/en/blog/nft-marketplace-development-guide"}}
 ---
 
 <BackToBlog />

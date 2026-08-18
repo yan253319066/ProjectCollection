@@ -8,8 +8,8 @@ description: Neil Yan's project portfolio featuring 9 representative projects ac
 Neil Yan has served 2,000+ platform users. Below are 9 representative projects (spanning Web3 & AI):
 
 - [GetCiteFlow](/en/projects/getciteflow) — GEO platform, improve AI search visibility
-- [AI Quant Robot](/en/projects/ai-quant-robot) — AI-powered Web3 quantitative trading platform
-- [Crypto Earn](/en/projects/crypto-earn) — USDT smart wealth management, 18.5% APY
+- [AI Quant Robot](/en/projects/ai-quant-robot) — Quant trading DApp sample, including Gold Digger
+- [Crypto Earn](/en/projects/crypto-earn) — USDT earn-product UI DApp sample
 - [Perpetual Trading](/en/projects/perpetual-trading) — Perpetual futures trading DApp
 - [Nex Exchange](/en/projects/nex-exchange) — Next-gen hybrid exchange
 - [Solaris RWA](/en/projects/solaris-rwa) — RWA tokenization platform

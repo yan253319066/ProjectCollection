@@ -9,7 +9,7 @@ head:
   - - script
     - type: application/ld+json
     - |-
-      {"@context":"https://schema.org","@type":"Article","headline":"智能合约审计指南：流程、费用和常见漏洞","description":"智能合约审计完整指南 — 审计流程、费用参考、10 个最常见智能合约漏洞类型。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2023-04-05","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/smart-contract-audit-guide.html"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"智能合约审计指南：流程、费用和常见漏洞","description":"智能合约审计完整指南 — 审计流程、费用参考、10 个最常见智能合约漏洞类型。","author":{"@type":"Person","name":"Neil Yan"},"datePublished":"2023-04-05","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.0xx402.com/blog/smart-contract-audit-guide"}}
 ---
 
 <BackToBlog />
